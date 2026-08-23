@@ -2,13 +2,13 @@ name: Update Combined Calendar
 
 on:
   schedule:
-    # Run every day at 8:00 AM UTC
-    - cron: "0 8 * * *"
+    # Run every day at 6:00 AM Mountain Time during daylight saving time
+    - cron: "0 12 * * *"
 
-  # Allows us to manually run the workflow from GitHub
+  # Allows manual runs from GitHub
   workflow_dispatch:
 
-  # Also run when the workflow file itself changes
+  # Run when the workflow itself changes
   push:
     branches:
       - main
@@ -27,7 +27,7 @@ jobs:
       # --------------------------------------------------
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
 
       # --------------------------------------------------
@@ -35,7 +35,7 @@ jobs:
       # --------------------------------------------------
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -51,43 +51,43 @@ jobs:
 
 
       # --------------------------------------------------
-      # Run Wasatch Vega scraper
+      # Update Wasatch Vega calendar
       # --------------------------------------------------
 
       - name: Update Wasatch Vega calendar
         run: |
-          python wasatch_vega.py
+          python wasatch_vega_calendar.py
 
 
       # --------------------------------------------------
-      # Run Deer Creek Vega scraper
+      # Update Deer Creek Vega calendar
       # --------------------------------------------------
 
       - name: Update Deer Creek Vega calendar
         run: |
-          python deer_creek_vega.py
+          python deer_creek_vega_calendar.py
 
 
       # --------------------------------------------------
-      # Run Heber Valley Railroad scraper
+      # Update Heber Valley Railroad
       # --------------------------------------------------
 
       - name: Update Heber Valley Railroad calendar
         run: |
-          python heber_schedule.py
+          python train_schedule.py
 
 
       # --------------------------------------------------
-      # Run Soldier Hollow scraper
+      # Update Soldier Hollow
       # --------------------------------------------------
 
       - name: Update Soldier Hollow calendar
         run: |
-          python soldier_hollow.py
+          python soldier_hollow_schedule.py
 
 
       # --------------------------------------------------
-      # Combine calendars
+      # Combine all calendars
       # --------------------------------------------------
 
       - name: Create combined calendar
@@ -96,7 +96,7 @@ jobs:
 
 
       # --------------------------------------------------
-      # Commit updated calendar files
+      # Save updated files to GitHub
       # --------------------------------------------------
 
       - name: Commit updated calendar
