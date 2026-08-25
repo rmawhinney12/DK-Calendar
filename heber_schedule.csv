@@ -1,7 +1,4 @@
 Train,Date,Start Time,End Time,Duration (Minutes)
-Deer Creek Express,2026-08-24,01:00 PM,02:30 PM,90
-Deer Creek Express,2026-08-24,03:30 PM,05:00 PM,90
-Monday Night Train,2026-08-24,07:00 PM,08:30 PM,90
 Deer Creek Express,2026-08-26,01:00 PM,02:30 PM,90
 Deer Creek Express,2026-08-26,03:30 PM,05:00 PM,90
 Deer Creek Express,2026-08-27,01:00 PM,02:30 PM,90
@@ -43,7 +40,6 @@ Deer Creek Express,2026-09-18,01:00 PM,02:30 PM,90
 Deer Creek Express,2026-09-18,03:30 PM,05:00 PM,90
 Wine & Cheese Tasting Train ,2026-09-18,07:00 PM,09:00 PM,120
 Princess and Pirate Train,2026-09-19,01:00 PM,02:30 PM,90
-Deer Creek Express,2026-09-19,01:00 PM,02:30 PM,90
 Deer Creek Express,2026-09-19,03:30 PM,05:00 PM,90
 Deer Creek Express,2026-09-21,01:00 PM,02:30 PM,90
 Deer Creek Express,2026-09-21,03:30 PM,05:00 PM,90
