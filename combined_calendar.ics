@@ -714,1980 +714,1981 @@ SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26-112-dkcalendar@combined
-DTSTART;TZID=America/Denver:20260826T130000
-DTEND;TZID=America/Denver:20260826T143000
-SUMMARY:Heber Valley Railroad — Deer Creek Express
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-26-113-dkcalendar@combined
-DTSTART;TZID=America/Denver:20260826T153000
-DTEND;TZID=America/Denver:20260826T170000
-SUMMARY:Heber Valley Railroad — Deer Creek Express
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-26-114-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260826T101500
 DTEND;TZID=America/Denver:20260826T111500
 SUMMARY:Deer Creek HS — Meet the Freshmen Candidates Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26-115-dkcalendar@combined
+UID:2026-08-26-113-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260826T111300
 DTEND;TZID=America/Denver:20260826T121300
 SUMMARY:Wasatch HS — Hot wheels car show -- Week of Welcome
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26-116-dkcalendar@combined
+UID:2026-08-26-114-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260826T150000
 DTEND;TZID=America/Denver:20260826T170000
 SUMMARY:Wasatch HS — Hello Dolly Callbacks
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26-117-dkcalendar@combined
+UID:2026-08-26-115-dkcalendar@combined
+DTSTART;TZID=America/Denver:20260826T160000
+DTEND;TZID=America/Denver:20260826T170000
+SUMMARY:Wasatch HS — Girl Soccer Sophomore vs Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26-116-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260826T163000
 DTEND;TZID=America/Denver:20260826T173000
 SUMMARY:Deer Creek HS — Frosh Soccer vs. Granger
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26-118-dkcalendar@combined
+UID:2026-08-26-117-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260826T180000
 DTEND;TZID=America/Denver:20260826T200000
 SUMMARY:Wasatch HS — Football (Fresh) @Mt Ridge
 DESCRIPTION:Freshman Football @6:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-119-dkcalendar@combined
+UID:2026-08-27-118-dkcalendar@combined
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Wasatch HS — Week of Welcome Dress in Cars Colors
 DESCRIPTION:Freshman - Green \n\nSophomores- Blue \n\nJuniors - Brown \n\nSeniors - Red
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-120-dkcalendar@combined
+UID:2026-08-27-119-dkcalendar@combined
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-121-dkcalendar@combined
-DTSTART;TZID=America/Denver:20260827T130000
-DTEND;TZID=America/Denver:20260827T143000
-SUMMARY:Heber Valley Railroad — Deer Creek Express
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-27-122-dkcalendar@combined
-DTSTART;TZID=America/Denver:20260827T153000
-DTEND;TZID=America/Denver:20260827T170000
-SUMMARY:Heber Valley Railroad — Deer Creek Express
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-27-123-dkcalendar@combined
+UID:2026-08-27-120-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T101500
 DTEND;TZID=America/Denver:20260827T111500
 SUMMARY:Deer Creek HS — Club Rush
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-124-dkcalendar@combined
+UID:2026-08-27-121-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T150000
 DTEND;TZID=America/Denver:20260827T180000
 SUMMARY:Wasatch HS — JV Boys Golf @Soldier Hollow
 DESCRIPTION:JV Vs Lone Peak 9 holes
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-125-dkcalendar@combined
+UID:2026-08-27-122-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T153000
 DTEND;TZID=America/Denver:20260827T203000
 SUMMARY:Deer Creek HS — Girls Volleyball vs South Summit
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-126-dkcalendar@combined
+UID:2026-08-27-123-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T160000
 DTEND;TZID=America/Denver:20260827T203000
-SUMMARY:Wasatch HS — Crawdad Fishing at Strawberry 
+SUMMARY:Wasatch HS — FFA Crawdad Fishing at Strawberry 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-127-dkcalendar@combined
+UID:2026-08-27-124-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T170000
 DTEND;TZID=America/Denver:20260827T190000
 SUMMARY:Wasatch HS — JV Girls Soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-128-dkcalendar@combined
+UID:2026-08-27-125-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T170000
 DTEND;TZID=America/Denver:20260827T210000
 SUMMARY:Deer Creek HS — Girls Soccer @ Provo
 DESCRIPTION:V @ 7 pm
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-129-dkcalendar@combined
+UID:2026-08-27-126-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T190000
 DTEND;TZID=America/Denver:20260827T210000
 SUMMARY:Wasatch HS — Var Girls Soccer vs Timpanogos
 DESCRIPTION:Varsity 7:00 PM Stadium\nJV 5:00 PM Quad
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-130-dkcalendar@combined
+UID:2026-08-27-127-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260827T190000
 DTEND;TZID=America/Denver:20260827T210000
 SUMMARY:Deer Creek HS — Stud Gov Game night
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-131-dkcalendar@combined
+UID:2026-08-28-128-dkcalendar@combined
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Wasatch HS — Week of Welcome
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-132-dkcalendar@combined
+UID:2026-08-28-129-dkcalendar@combined
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-133-dkcalendar@combined
+UID:2026-08-28-130-dkcalendar@combined
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Wasatch HS — Girls Tennis WestLake Open
 DESCRIPTION:WestLake Open (Saratogo utah)\nLocation and times TBD\nAug 28-29
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-134-dkcalendar@combined
+UID:2026-08-28-131-dkcalendar@combined
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Deer Creek HS — Boys Golf @ Red Rock Cup HS Invitational
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-135-dkcalendar@combined
+UID:2026-08-28-132-dkcalendar@combined
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Deer Creek HS — Girls Tennis @ Westlake Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-136-dkcalendar@combined
+UID:2026-08-28-133-dkcalendar@combined
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Soldier Hollow — Ragnar Trail Soldier Hollow
 DESCRIPTION:Conquer the ridgelines of Soldier Hollow with sweeping views of Mount Timpanogos and Deer Creek Reservoir. Grab your team and register at the link below!
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-137-dkcalendar@combined
+UID:2026-08-28-134-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T130000
 DTEND;TZID=America/Denver:20260828T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-138-dkcalendar@combined
+UID:2026-08-28-135-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T153000
 DTEND;TZID=America/Denver:20260828T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-139-dkcalendar@combined
+UID:2026-08-28-136-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T190000
 DTEND;TZID=America/Denver:20260828T203000
 SUMMARY:Heber Valley Railroad — Friday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-140-dkcalendar@combined
+UID:2026-08-28-137-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T190000
 DTEND;TZID=America/Denver:20260828T200000
 SUMMARY:Wasatch HS — Cars at the stadium --Week of Welcome
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-141-dkcalendar@combined
+UID:2026-08-28-138-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T190000
 DTEND;TZID=America/Denver:20260828T210000
 SUMMARY:Wasatch HS — Football @ Bonneville
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-142-dkcalendar@combined
+UID:2026-08-28-139-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T190000
 DTEND;TZID=America/Denver:20260828T200000
 SUMMARY:Deer Creek HS — Varsity Football @ Jordan 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28-143-dkcalendar@combined
+UID:2026-08-28-140-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260828T073000
 DTEND;TZID=America/Denver:20260828T080000
 SUMMARY:Deer Creek HS — Denim and Donuts Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-144-dkcalendar@combined
+UID:2026-08-29-141-dkcalendar@combined
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Wasatch HS — Girls Tennis WestLake Open
 DESCRIPTION:2nd day of WestLake Open Saratogo Springs\nTimes TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-145-dkcalendar@combined
+UID:2026-08-29-142-dkcalendar@combined
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Wasatch HS — Girls JV Volleyball Tournament @ Provo
 DESCRIPTION:JV@bulldog Bash Provo\nTimes TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-146-dkcalendar@combined
+UID:2026-08-29-143-dkcalendar@combined
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Deer Creek HS — Girls Tennis @ Westlake Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-147-dkcalendar@combined
+UID:2026-08-29-144-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260829T130000
 DTEND;TZID=America/Denver:20260829T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-148-dkcalendar@combined
+UID:2026-08-29-145-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260829T153000
 DTEND;TZID=America/Denver:20260829T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-149-dkcalendar@combined
+UID:2026-08-29-146-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260829T180000
 DTEND;TZID=America/Denver:20260829T210000
 SUMMARY:Deer Creek HS — Boys Golf Fundraising Dinner
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-150-dkcalendar@combined
+UID:2026-08-29-147-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260829T070000
 DTEND;TZID=America/Denver:20260829T170000
 SUMMARY:Deer Creek HS — Youth Football Games
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-151-dkcalendar@combined
+UID:2026-08-29-148-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260829T073000
 DTEND;TZID=America/Denver:20260829T130000
 SUMMARY:Wasatch HS — Cross Country @Spanish Fork
 DESCRIPTION:Cross country @Spanish Fork
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-29-152-dkcalendar@combined
+UID:2026-08-29-149-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260829T073000
 DTEND;TZID=America/Denver:20260829T133000
 SUMMARY:Deer Creek HS — Cross Country @ UIAA
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-31-153-dkcalendar@combined
+UID:2026-08-31-150-dkcalendar@combined
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-31-154-dkcalendar@combined
+UID:2026-08-31-151-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260831T130000
 DTEND;TZID=America/Denver:20260831T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-31-155-dkcalendar@combined
+UID:2026-08-31-152-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260831T153000
 DTEND;TZID=America/Denver:20260831T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-31-156-dkcalendar@combined
+UID:2026-08-31-153-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260831T190000
 DTEND;TZID=America/Denver:20260831T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-31-157-dkcalendar@combined
+UID:2026-08-31-154-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260831T170000
 DTEND;TZID=America/Denver:20260831T180000
 SUMMARY:Deer Creek HS — Frosh Soccer @ Cedar Valley High School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-158-dkcalendar@combined
+UID:2026-09-01-155-dkcalendar@combined
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-159-dkcalendar@combined
+UID:2026-09-01-156-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T150000
 DTEND;TZID=America/Denver:20260901T190000
 SUMMARY:Wasatch HS — Girls soccer @ Uintah
 DESCRIPTION:JV 3:00 PM\nVarsity 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-160-dkcalendar@combined
+UID:2026-09-01-157-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T153000
 DTEND;TZID=America/Denver:20260901T183000
 SUMMARY:Wasatch HS — Girls Tennis @ Provo
 DESCRIPTION:Varsity 3:30\nProvo High school
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-161-dkcalendar@combined
+UID:2026-09-01-158-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T153000
 DTEND;TZID=America/Denver:20260901T200000
 SUMMARY:Wasatch HS — Girls Volleyball vs Uintah
 DESCRIPTION:Fresh 5:00 Aux Gym\nSoph 3:30 Nest\nJV 5:00 Nest\nVarsity 6:30 Nest\nvrs Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-162-dkcalendar@combined
+UID:2026-09-01-159-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T153000
 DTEND;TZID=America/Denver:20260901T181500
 SUMMARY:Deer Creek HS — Girls Tennis @ Mountain View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-163-dkcalendar@combined
+UID:2026-09-01-160-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T153000
 DTEND;TZID=America/Denver:20260901T203000
 SUMMARY:Deer Creek HS — Girls Volleyball @ Summit Academy
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-164-dkcalendar@combined
+UID:2026-09-01-161-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T170000
 DTEND;TZID=America/Denver:20260901T181500
 SUMMARY:Deer Creek HS — Girls Soccer vs. Summit
 DESCRIPTION:JV @ 5 V@7
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-165-dkcalendar@combined
+UID:2026-09-01-162-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T060000
 DTEND;TZID=America/Denver:20260901T091500
 SUMMARY:Deer Creek HS — Dance Co Practice
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-166-dkcalendar@combined
+UID:2026-09-01-163-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T080000
 DTEND;TZID=America/Denver:20260901T141500
 SUMMARY:Wasatch HS — Boys Golf @Provo
 DESCRIPTION:Host Provo\n\nMountain View 8 am Shotgun
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-01-167-dkcalendar@combined
+UID:2026-09-01-164-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260901T080000
 DTEND;TZID=America/Denver:20260901T170000
 SUMMARY:Deer Creek HS — Boys Golf @ Mountain View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02-168-dkcalendar@combined
+UID:2026-09-02-165-dkcalendar@combined
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02-169-dkcalendar@combined
+UID:2026-09-02-166-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260902T130000
 DTEND;TZID=America/Denver:20260902T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02-170-dkcalendar@combined
+UID:2026-09-02-167-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260902T110000
 DTEND;TZID=America/Denver:20260902T130000
 SUMMARY:Wasatch HS — Club Swarm @Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02-171-dkcalendar@combined
+UID:2026-09-02-168-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260902T180000
 DTEND;TZID=America/Denver:20260902T190000
 SUMMARY:Wasatch HS — Football (Fresh) vs Deer Creek
 DESCRIPTION:Freshman @6:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02-172-dkcalendar@combined
+UID:2026-09-02-169-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260902T180000
 DTEND;TZID=America/Denver:20260902T194500
 SUMMARY:Deer Creek HS — Frosh Football @ Wasatch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-173-dkcalendar@combined
+UID:2026-09-03-170-dkcalendar@combined
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-174-dkcalendar@combined
+UID:2026-09-03-171-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T130000
 DTEND;TZID=America/Denver:20260903T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-175-dkcalendar@combined
+UID:2026-09-03-172-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T153000
 DTEND;TZID=America/Denver:20260903T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-176-dkcalendar@combined
+UID:2026-09-03-173-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T150000
 DTEND;TZID=America/Denver:20260903T190000
 SUMMARY:Deer Creek HS — Girls Soccer @ Uintah
 DESCRIPTION:V @ 5pm
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-177-dkcalendar@combined
+UID:2026-09-03-174-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T153000
 DTEND;TZID=America/Denver:20260903T183000
 SUMMARY:Wasatch HS — Girls Tennis VS MVHS
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-178-dkcalendar@combined
+UID:2026-09-03-175-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T153000
 DTEND;TZID=America/Denver:20260903T200000
 SUMMARY:Wasatch HS — Girls Volleyball @Mountain View
 DESCRIPTION:Fresh 5:00\nSoph 3:30\nJV 5:00\nVarsity 6:30
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-179-dkcalendar@combined
+UID:2026-09-03-176-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T153000
 DTEND;TZID=America/Denver:20260903T181500
 SUMMARY:Deer Creek HS — Girls Tennis vs. Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-180-dkcalendar@combined
+UID:2026-09-03-177-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T153000
 DTEND;TZID=America/Denver:20260903T203000
 SUMMARY:Deer Creek HS — Girls Volleyball @ Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-181-dkcalendar@combined
+UID:2026-09-03-178-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T170000
 DTEND;TZID=America/Denver:20260903T190000
 SUMMARY:Wasatch HS — JV Girls Soccer vs. Orem
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-182-dkcalendar@combined
+UID:2026-09-03-179-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T170000
 DTEND;TZID=America/Denver:20260903T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-03-183-dkcalendar@combined
+UID:2026-09-03-180-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260903T190000
 DTEND;TZID=America/Denver:20260903T210000
 SUMMARY:Wasatch HS — Var Girls Soccer Vrs Orem
 DESCRIPTION:Varsity 7:00 Stadium\nJV 5:00 Quad
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-184-dkcalendar@combined
+UID:2026-09-04-181-dkcalendar@combined
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-185-dkcalendar@combined
+UID:2026-09-04-182-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T130000
 DTEND;TZID=America/Denver:20260904T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-186-dkcalendar@combined
+UID:2026-09-04-183-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T153000
 DTEND;TZID=America/Denver:20260904T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-187-dkcalendar@combined
+UID:2026-09-04-184-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T190000
 DTEND;TZID=America/Denver:20260904T203000
 SUMMARY:Heber Valley Railroad — Friday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-188-dkcalendar@combined
+UID:2026-09-04-185-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T150000
 DTEND;TZID=America/Denver:20260904T160000
 SUMMARY:Wasatch HS — Cross Country @ Timpanogos Invitational
 DESCRIPTION:cross country Timpanogos Invitational\n\nLake Side Park Orem
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-189-dkcalendar@combined
+UID:2026-09-04-186-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T173000
 DTEND;TZID=America/Denver:20260904T190000
 SUMMARY:Deer Creek HS — Dance Co Game Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-190-dkcalendar@combined
+UID:2026-09-04-187-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T190000
 DTEND;TZID=America/Denver:20260904T210000
-SUMMARY:Wasatch HS — Football @ Deer Creek
+SUMMARY:Wasatch HS — Football @ Deer Creek (Theme: Gold Out)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-191-dkcalendar@combined
+UID:2026-09-04-188-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T190000
 DTEND;TZID=America/Denver:20260904T211500
 SUMMARY:Deer Creek HS — Varsity Football vs. Wasatch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-192-dkcalendar@combined
+UID:2026-09-04-189-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260904T090000
 DTEND;TZID=America/Denver:20260904T100000
 SUMMARY:Deer Creek HS — Cross Country @ Timpanogos Invite
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-05-193-dkcalendar@combined
+UID:2026-09-05-190-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260905T130000
 DTEND;TZID=America/Denver:20260905T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-05-194-dkcalendar@combined
+UID:2026-09-05-191-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260905T153000
 DTEND;TZID=America/Denver:20260905T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-07-195-dkcalendar@combined
+UID:2026-09-07-192-dkcalendar@combined
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Wasatch HS — Labor Day -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-07-196-dkcalendar@combined
+UID:2026-09-07-193-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260907T130000
 DTEND;TZID=America/Denver:20260907T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-07-197-dkcalendar@combined
+UID:2026-09-07-194-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260907T153000
 DTEND;TZID=America/Denver:20260907T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-07-198-dkcalendar@combined
+UID:2026-09-07-195-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260907T190000
 DTEND;TZID=America/Denver:20260907T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-199-dkcalendar@combined
+UID:2026-09-08-196-dkcalendar@combined
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-200-dkcalendar@combined
+UID:2026-09-08-197-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T153000
 DTEND;TZID=America/Denver:20260908T200000
 SUMMARY:Wasatch HS — Girls Volleyball @ Provo
 DESCRIPTION:volleyball @Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-201-dkcalendar@combined
+UID:2026-09-08-198-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T153000
 DTEND;TZID=America/Denver:20260908T181500
 SUMMARY:Deer Creek HS — Girls Tennis @ Orem
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-202-dkcalendar@combined
+UID:2026-09-08-199-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T153000
 DTEND;TZID=America/Denver:20260908T203000
 SUMMARY:Deer Creek HS — Girls Volleyball vs. Mt. View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-203-dkcalendar@combined
+UID:2026-09-08-200-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T170000
 DTEND;TZID=America/Denver:20260908T210000
 SUMMARY:Wasatch HS — Girls Soccer @ Deer Creek
 DESCRIPTION:Varsity 7:00 PM\nJV 5:00 PM\n@Deer Creek High School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-204-dkcalendar@combined
+UID:2026-09-08-201-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T170000
 DTEND;TZID=America/Denver:20260908T204500
 SUMMARY:Deer Creek HS — Girls Soccer vs. Wasatch
 DESCRIPTION:jv @ 5 V @ 7
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-205-dkcalendar@combined
+UID:2026-09-08-202-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T170000
 DTEND;TZID=America/Denver:20260908T180000
 SUMMARY:Deer Creek HS — Frosh Girls Soccer vs. Wasatch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-08-206-dkcalendar@combined
+UID:2026-09-08-203-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260908T080000
 DTEND;TZID=America/Denver:20260908T143000
 SUMMARY:Deer Creek HS — Cross Country @ Uintah Invite
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-207-dkcalendar@combined
+UID:2026-09-09-204-dkcalendar@combined
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-208-dkcalendar@combined
+UID:2026-09-09-205-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T130000
 DTEND;TZID=America/Denver:20260909T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-209-dkcalendar@combined
+UID:2026-09-09-206-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T150000
 DTEND;TZID=America/Denver:20260909T180000
 SUMMARY:Wasatch HS — JV Boys Golf @ cedar hills
 DESCRIPTION:JV vrs Lone Peak @ Cedar Hills G.C.
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-210-dkcalendar@combined
+UID:2026-09-09-207-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T150000
 DTEND;TZID=America/Denver:20260909T160000
 SUMMARY:Wasatch HS — Tennis vrs Timpanogas High School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-211-dkcalendar@combined
+UID:2026-09-09-208-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T153000
 DTEND;TZID=America/Denver:20260909T181500
 SUMMARY:Deer Creek HS — Girls Tennis
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-212-dkcalendar@combined
+UID:2026-09-09-209-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T163000
 DTEND;TZID=America/Denver:20260909T173000
 SUMMARY:Deer Creek HS — Frosh Soccer @ Salt Lake Academy
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-213-dkcalendar@combined
+UID:2026-09-09-210-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T180000
 DTEND;TZID=America/Denver:20260909T200000
 SUMMARY:Wasatch HS — Football ( Fresh) @ Timpanogos
 DESCRIPTION:Freshman Football
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-214-dkcalendar@combined
+UID:2026-09-09-211-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T180000
 DTEND;TZID=America/Denver:20260909T194500
 SUMMARY:Deer Creek HS — Frosh Football Vs. Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09-215-dkcalendar@combined
+UID:2026-09-09-212-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260909T090000
 DTEND;TZID=America/Denver:20260909T140000
 SUMMARY:Wasatch HS — Photography Noblets Field Trip
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-216-dkcalendar@combined
+UID:2026-09-10-213-dkcalendar@combined
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Wasatch HS — Varsity Girls Volleyball @ UVU tournament
 DESCRIPTION:varsity volleyball tournament @UVU PG host
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-217-dkcalendar@combined
+UID:2026-09-10-214-dkcalendar@combined
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-218-dkcalendar@combined
+UID:2026-09-10-215-dkcalendar@combined
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Wasatch HS — Girls Volleyball Varsity Tournament @ UVU
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-219-dkcalendar@combined
+UID:2026-09-10-216-dkcalendar@combined
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Deer Creek HS — Girls Tennis State Tournament @ Liberty Park
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-220-dkcalendar@combined
+UID:2026-09-10-217-dkcalendar@combined
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Deer Creek HS — Girls Tennis @  St. George Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-221-dkcalendar@combined
+UID:2026-09-10-218-dkcalendar@combined
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Deer Creek HS — Girls Volleyball Varsity Tournament @ UVU
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-222-dkcalendar@combined
+UID:2026-09-10-219-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260910T130000
 DTEND;TZID=America/Denver:20260910T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-223-dkcalendar@combined
+UID:2026-09-10-220-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260910T153000
 DTEND;TZID=America/Denver:20260910T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-224-dkcalendar@combined
+UID:2026-09-10-221-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260910T130000
 DTEND;TZID=America/Denver:20260910T170000
 SUMMARY:Wasatch HS — JV Boys Golf @ Sleepy Ridge
 DESCRIPTION:JV @ Sleepy Ridge\n\norem 18 holes 1 PM tee time
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-225-dkcalendar@combined
+UID:2026-09-10-222-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260910T170000
 DTEND;TZID=America/Denver:20260910T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-226-dkcalendar@combined
+UID:2026-09-10-223-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260910T170000
 DTEND;TZID=America/Denver:20260910T210000
 SUMMARY:Wasatch HS — Girls Soccer@Provo
 DESCRIPTION:Varsity 7:00 PM\nJV 5:00 Pm
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-10-227-dkcalendar@combined
+UID:2026-09-10-224-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260910T170000
 DTEND;TZID=America/Denver:20260910T210000
 SUMMARY:Deer Creek HS — Girls Soccer vs. Mountain View
 DESCRIPTION:jv @ 5  V @ 7
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-228-dkcalendar@combined
+UID:2026-09-11-225-dkcalendar@combined
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-229-dkcalendar@combined
+UID:2026-09-11-226-dkcalendar@combined
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Wasatch HS — Girls Volleyball Varsity Tournament @ UVU
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-230-dkcalendar@combined
+UID:2026-09-11-227-dkcalendar@combined
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Deer Creek HS — Girls Tennis @  St. George Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-231-dkcalendar@combined
+UID:2026-09-11-228-dkcalendar@combined
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Deer Creek HS — Girls Volleyball Varsity Tournament @ UVU
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-232-dkcalendar@combined
+UID:2026-09-11-229-dkcalendar@combined
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Soldier Hollow — Mamele Mountain Run
 DESCRIPTION:This race is for YOU Get ready to lace up for Mamele Mountains\, an exhilarating 8-mile trail run exclusively for women\, winding through some of the country’s most breathtaking landscapes. Set in the stunning terrain of Midway UT\, this race is crafted for women at all levels who are eager for a true adventure. For more information\, visit https://mamelemountains.com/ Register Here
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-233-dkcalendar@combined
+UID:2026-09-11-230-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260911T130000
 DTEND;TZID=America/Denver:20260911T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-234-dkcalendar@combined
+UID:2026-09-11-231-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260911T153000
 DTEND;TZID=America/Denver:20260911T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-235-dkcalendar@combined
+UID:2026-09-11-232-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260911T190000
 DTEND;TZID=America/Denver:20260911T223000
 SUMMARY:Heber Valley Railroad — HOBO Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-236-dkcalendar@combined
+UID:2026-09-11-233-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260911T160000
 DTEND;TZID=America/Denver:20260911T180000
 SUMMARY:Wasatch HS — Sophomore Soccer Girls vs Skyridge
 DESCRIPTION:sophomore soccer girls vs skyridge
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-237-dkcalendar@combined
+UID:2026-09-11-234-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260911T190000
 DTEND;TZID=America/Denver:20260911T210000
 SUMMARY:Wasatch HS — Football @ Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11-238-dkcalendar@combined
+UID:2026-09-11-235-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260911T190000
 DTEND;TZID=America/Denver:20260911T211500
 SUMMARY:Deer Creek HS — Varsity Football @ Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-239-dkcalendar@combined
+UID:2026-09-12-236-dkcalendar@combined
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Wasatch HS — Girls Volleyball Varsity Tournament @ UVU
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-240-dkcalendar@combined
+UID:2026-09-12-237-dkcalendar@combined
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Deer Creek HS — Girls Tennis @  St. George Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-241-dkcalendar@combined
+UID:2026-09-12-238-dkcalendar@combined
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Deer Creek HS — Girls Volleyball Varsity Tournament @ UVU
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-242-dkcalendar@combined
+UID:2026-09-12-239-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260912T130000
 DTEND;TZID=America/Denver:20260912T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-243-dkcalendar@combined
+UID:2026-09-12-240-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260912T153000
 DTEND;TZID=America/Denver:20260912T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-244-dkcalendar@combined
+UID:2026-09-12-241-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260912T120000
 DTEND;TZID=America/Denver:20260912T163000
 SUMMARY:Deer Creek HS — Boys Basketball vs. Wasatch/S.Summit
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-245-dkcalendar@combined
+UID:2026-09-12-242-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260912T070000
 DTEND;TZID=America/Denver:20260912T170000
 SUMMARY:Deer Creek HS — Youth Football Games
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-246-dkcalendar@combined
+UID:2026-09-12-243-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260912T083000
 DTEND;TZID=America/Denver:20260912T130000
 SUMMARY:Wasatch HS — Cross Country
 DESCRIPTION:Cross Country
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-247-dkcalendar@combined
+UID:2026-09-12-244-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260912T083000
 DTEND;TZID=America/Denver:20260912T163000
 SUMMARY:Deer Creek HS — Cross Country @ Border Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-14-248-dkcalendar@combined
+UID:2026-09-14-245-dkcalendar@combined
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-14-249-dkcalendar@combined
+UID:2026-09-14-246-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260914T130000
 DTEND;TZID=America/Denver:20260914T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-14-250-dkcalendar@combined
+UID:2026-09-14-247-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260914T153000
 DTEND;TZID=America/Denver:20260914T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-14-251-dkcalendar@combined
+UID:2026-09-14-248-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260914T190000
 DTEND;TZID=America/Denver:20260914T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-14-252-dkcalendar@combined
+UID:2026-09-14-249-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260914T140000
 DTEND;TZID=America/Denver:20260914T220000
 SUMMARY:Wasatch HS — Wasatch FFA at the Utah State Fair
 DESCRIPTION:Wasatch FFA members will be hosting guests at the "Little Hands on the Farm" exhibit at the Utah State Fair from 2 til 10 PM.
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-253-dkcalendar@combined
+UID:2026-09-15-250-dkcalendar@combined
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-254-dkcalendar@combined
+UID:2026-09-15-251-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T153000
 DTEND;TZID=America/Denver:20260915T163000
 SUMMARY:Wasatch HS — Girls Tennis vs Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-255-dkcalendar@combined
+UID:2026-09-15-252-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T153000
 DTEND;TZID=America/Denver:20260915T200000
 SUMMARY:Wasatch HS — Girls Volleyball vrs Summit
 DESCRIPTION:Soph 3:30 Nest\nJV 5:00 Nest\nVarsity 6:30 Nest
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-256-dkcalendar@combined
+UID:2026-09-15-253-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T153000
 DTEND;TZID=America/Denver:20260915T203000
 SUMMARY:Deer Creek HS — Girls Volleyball vs. Orem
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-257-dkcalendar@combined
+UID:2026-09-15-254-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T170000
 DTEND;TZID=America/Denver:20260915T190000
 SUMMARY:Wasatch HS — JV Girls Soccer vrs Mountain View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-258-dkcalendar@combined
+UID:2026-09-15-255-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T170000
 DTEND;TZID=America/Denver:20260915T183000
 SUMMARY:Deer Creek HS — Girls Soccer vs. Timpanogos
 DESCRIPTION:jv 5 pm on Aux Turf  v 7pm @ stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-259-dkcalendar@combined
+UID:2026-09-15-256-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T190000
 DTEND;TZID=America/Denver:20260915T210000
 SUMMARY:Wasatch HS — Var Girls Soccer @Home vs Mountain View
 DESCRIPTION:Varsity 7:00 Stadium\nJV 5:00 Quad\nagainst Mountain View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-260-dkcalendar@combined
+UID:2026-09-15-257-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T090000
 DTEND;TZID=America/Denver:20260915T130000
 SUMMARY:Wasatch HS — Boys Golf @ Uintah
 DESCRIPTION:Host Uintah\n\nDinaland Golf Course
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-15-261-dkcalendar@combined
+UID:2026-09-15-258-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260915T090000
 DTEND;TZID=America/Denver:20260915T153000
 SUMMARY:Deer Creek HS — Boys Golf @ Dinoland
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-262-dkcalendar@combined
+UID:2026-09-16-259-dkcalendar@combined
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-263-dkcalendar@combined
+UID:2026-09-16-260-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T130000
 DTEND;TZID=America/Denver:20260916T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-264-dkcalendar@combined
+UID:2026-09-16-261-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T153000
 DTEND;TZID=America/Denver:20260916T181500
 SUMMARY:Deer Creek HS — Cross Country @ Carbon Invite
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-265-dkcalendar@combined
+UID:2026-09-16-262-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T060000
 DTEND;TZID=America/Denver:20260916T090000
 SUMMARY:Deer Creek HS — Dance Co Practice
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-266-dkcalendar@combined
+UID:2026-09-16-263-dkcalendar@combined
+DTSTART;TZID=America/Denver:20260916T180000
+DTEND;TZID=America/Denver:20260916T200000
+SUMMARY:Wasatch HS — Girls Soccer Make a Difference Gala
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-264-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T180000
 DTEND;TZID=America/Denver:20260916T190000
-SUMMARY:Wasatch HS — Football (Fresh) vs Murray
+SUMMARY:Wasatch HS — Football (Fresh) @Uintah
 DESCRIPTION:Freshman Football @6:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-267-dkcalendar@combined
+UID:2026-09-16-265-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T180000
 DTEND;TZID=America/Denver:20260916T194500
 SUMMARY:Deer Creek HS — Frosh Football @ Skyline
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-268-dkcalendar@combined
+UID:2026-09-16-266-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T080000
 DTEND;TZID=America/Denver:20260916T120000
 SUMMARY:Wasatch HS — Boys Golf host Timpanogos. 
 DESCRIPTION:Host Timpangos\n\nRoosevelt 8 am shotgun
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16-269-dkcalendar@combined
+UID:2026-09-16-267-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260916T080000
 DTEND;TZID=America/Denver:20260916T150000
 SUMMARY:Deer Creek HS — Boys Golf @ Roosevelt
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-270-dkcalendar@combined
+UID:2026-09-17-268-dkcalendar@combined
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-271-dkcalendar@combined
+UID:2026-09-17-269-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T130000
 DTEND;TZID=America/Denver:20260917T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-272-dkcalendar@combined
+UID:2026-09-17-270-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-273-dkcalendar@combined
+UID:2026-09-17-271-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T183000
 SUMMARY:Wasatch HS — Girls Tennis @ Orem
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-274-dkcalendar@combined
+UID:2026-09-17-272-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T210000
 SUMMARY:Wasatch HS — Girls Volleyball@ Timpanogos
 DESCRIPTION:Fresh 5:00\nSoph 3:30\nJV 5:00\nVarsity 6:30\n@Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-275-dkcalendar@combined
+UID:2026-09-17-273-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T190000
 SUMMARY:Wasatch HS — Girls Soccer @Summit Academy
 DESCRIPTION:Varsity 3:30 \nJV 5:00 \n@summit academy
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-276-dkcalendar@combined
+UID:2026-09-17-274-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T193000
 SUMMARY:Deer Creek HS — Girls Soccer @ Orem
 DESCRIPTION:V 3:30 pm & JV 5 pm
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-277-dkcalendar@combined
+UID:2026-09-17-275-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T181500
 SUMMARY:Deer Creek HS — Girls Tennis vs. Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-278-dkcalendar@combined
+UID:2026-09-17-276-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T153000
 DTEND;TZID=America/Denver:20260917T203000
 SUMMARY:Deer Creek HS — Girls Volleyball @ Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-279-dkcalendar@combined
+UID:2026-09-17-277-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T163000
 DTEND;TZID=America/Denver:20260917T173000
 SUMMARY:Deer Creek HS — Frosh Soccer @ Granger
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-280-dkcalendar@combined
+UID:2026-09-17-278-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T170000
 DTEND;TZID=America/Denver:20260917T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-17-281-dkcalendar@combined
+UID:2026-09-17-279-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260917T060000
 DTEND;TZID=America/Denver:20260917T074500
 SUMMARY:Deer Creek HS — Dance Co Practice 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-282-dkcalendar@combined
+UID:2026-09-18-280-dkcalendar@combined
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-283-dkcalendar@combined
+UID:2026-09-18-281-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T130000
 DTEND;TZID=America/Denver:20260918T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-284-dkcalendar@combined
+UID:2026-09-18-282-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T153000
 DTEND;TZID=America/Denver:20260918T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-285-dkcalendar@combined
+UID:2026-09-18-283-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T190000
 DTEND;TZID=America/Denver:20260918T210000
 SUMMARY:Heber Valley Railroad — Wine & Cheese Tasting Train 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-286-dkcalendar@combined
+UID:2026-09-18-284-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T100000
 DTEND;TZID=America/Denver:20260918T110000
 SUMMARY:Deer Creek HS — Girls Volleyball Tournament @ Cottonwood
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-287-dkcalendar@combined
+UID:2026-09-18-285-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T103000
 DTEND;TZID=America/Denver:20260918T170000
 SUMMARY:Wasatch HS — Girls volleyball @ cottonwood tournament
 DESCRIPTION:volleyball tournament @ cottonwood
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-288-dkcalendar@combined
+UID:2026-09-18-286-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T170000
 DTEND;TZID=America/Denver:20260918T210000
 SUMMARY:Deer Creek HS — Dance Co Game Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-289-dkcalendar@combined
+UID:2026-09-18-287-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T060000
 DTEND;TZID=America/Denver:20260918T090000
 SUMMARY:Deer Creek HS — Dance Co Practice 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-290-dkcalendar@combined
+UID:2026-09-18-288-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T190000
 DTEND;TZID=America/Denver:20260918T210000
 SUMMARY:Wasatch HS — Football vs Uintah
 DESCRIPTION:Varsity 7:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18-291-dkcalendar@combined
+UID:2026-09-18-289-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260918T190000
 DTEND;TZID=America/Denver:20260918T211500
 SUMMARY:Deer Creek HS — Varsity Football vs. Mountain View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-292-dkcalendar@combined
+UID:2026-09-19-290-dkcalendar@combined
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Wasatch HS — Marching Band @ Payson High
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-293-dkcalendar@combined
+UID:2026-09-19-291-dkcalendar@combined
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Soldier Hollow — Whoop UCI Mountain Bike World Series Presented by Scott Sports
 DESCRIPTION:The world is coming to Soldier Hollow September 19 and 20 for the Whoop UCI Mountain Bike World Series Presented by Scott Sports! The track is slated to provide lots of entertainment\, with plenty of multiline sections and natural rock features. Soldier Hollow is also uniquely spectator-friendly\, so you won’t want to miss the chance to watch the action from up close. Please visit the official event website for tickets and details not found here. Event Website
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-294-dkcalendar@combined
+UID:2026-09-19-292-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260919T130000
 DTEND;TZID=America/Denver:20260919T143000
 SUMMARY:Heber Valley Railroad — Princess and Pirate Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-295-dkcalendar@combined
+UID:2026-09-19-293-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260919T153000
 DTEND;TZID=America/Denver:20260919T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-296-dkcalendar@combined
+UID:2026-09-19-294-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260919T080000
 DTEND;TZID=America/Denver:20260919T090000
 SUMMARY:Wasatch HS — Cross Country @Roy 
 DESCRIPTION:Cross Country Roy Invitational
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-297-dkcalendar@combined
+UID:2026-09-19-295-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260919T090000
 DTEND;TZID=America/Denver:20260919T163000
 SUMMARY:Deer Creek HS — Cross Country @ Wasatch Rendezvous
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-298-dkcalendar@combined
+UID:2026-09-21-296-dkcalendar@combined
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-299-dkcalendar@combined
+UID:2026-09-21-297-dkcalendar@combined
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Wasatch HS — Girls Tennis JV Region
 DESCRIPTION:JV Region Tournament\ntimes TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-300-dkcalendar@combined
+UID:2026-09-21-298-dkcalendar@combined
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Deer Creek HS — Girls Tennis JV Region Tourny @ Mtn View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-301-dkcalendar@combined
+UID:2026-09-21-299-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260921T130000
 DTEND;TZID=America/Denver:20260921T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-302-dkcalendar@combined
+UID:2026-09-21-300-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260921T153000
 DTEND;TZID=America/Denver:20260921T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-303-dkcalendar@combined
+UID:2026-09-21-301-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260921T190000
 DTEND;TZID=America/Denver:20260921T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-304-dkcalendar@combined
+UID:2026-09-21-302-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260921T160000
 DTEND;TZID=America/Denver:20260921T180000
 SUMMARY:Wasatch HS — sophomore girls soccer vs American fork
 DESCRIPTION:sophomore soccer vs american fork
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-21-305-dkcalendar@combined
+UID:2026-09-21-303-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260921T180000
 DTEND;TZID=America/Denver:20260921T191500
 SUMMARY:Deer Creek HS — Frosh Girls Soccer vs. Cedar Valley
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-306-dkcalendar@combined
+UID:2026-09-22-304-dkcalendar@combined
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-307-dkcalendar@combined
+UID:2026-09-22-305-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T100000
 DTEND;TZID=America/Denver:20260922T140000
 SUMMARY:Wasatch HS — Boys Golf @ Orem
 DESCRIPTION:host Orem\n\nPalisade 10 AM shotgun
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-308-dkcalendar@combined
+UID:2026-09-22-306-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T100000
 DTEND;TZID=America/Denver:20260922T160000
 SUMMARY:Deer Creek HS — Boys Golf @ Palisade State Park
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-309-dkcalendar@combined
+UID:2026-09-22-307-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T153000
 DTEND;TZID=America/Denver:20260922T200000
 SUMMARY:Wasatch HS — Girls volleyball vs Orem
 DESCRIPTION:volleyball vs orem\n\nsoph- 3:30\n\nJV 5:00\n\nVarsity 6:30
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-310-dkcalendar@combined
+UID:2026-09-22-308-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T153000
 DTEND;TZID=America/Denver:20260922T203000
 SUMMARY:Deer Creek HS — Girls Volleyball @ Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-311-dkcalendar@combined
+UID:2026-09-22-309-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T170000
 DTEND;TZID=America/Denver:20260922T200000
 SUMMARY:Wasatch HS — Girls Soccer @ Timpanogos
 DESCRIPTION:Varsity 7:00 Pm\nJV 5:00 PM\nAt Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-312-dkcalendar@combined
+UID:2026-09-22-310-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T170000
 DTEND;TZID=America/Denver:20260922T203000
 SUMMARY:Deer Creek HS — Girls Soccer vs. Provo
 DESCRIPTION:JV @ 5pm & V @ 7 pm
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-22-313-dkcalendar@combined
+UID:2026-09-22-311-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260922T084500
 DTEND;TZID=America/Denver:20260922T140000
 SUMMARY:Wasatch HS — Geology Field Trip @ Natural History Museum
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-23-314-dkcalendar@combined
+UID:2026-09-23-312-dkcalendar@combined
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-23-315-dkcalendar@combined
+UID:2026-09-23-313-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260923T130000
 DTEND;TZID=America/Denver:20260923T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-23-316-dkcalendar@combined
+UID:2026-09-23-314-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260923T180000
 DTEND;TZID=America/Denver:20260923T200000
 SUMMARY:Wasatch HS — Football (Fresh) vs Provo
 DESCRIPTION:Freshman @6:00 Pm
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-23-317-dkcalendar@combined
+UID:2026-09-23-315-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260923T180000
 DTEND;TZID=America/Denver:20260923T194500
 SUMMARY:Deer Creek HS — Frosh Football vs. Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-318-dkcalendar@combined
+UID:2026-09-24-316-dkcalendar@combined
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-319-dkcalendar@combined
+UID:2026-09-24-317-dkcalendar@combined
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Wasatch HS — Girls Tennis Region 
 DESCRIPTION:Region @ Deer Creek\nTimes TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-320-dkcalendar@combined
+UID:2026-09-24-318-dkcalendar@combined
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Deer Creek HS — Girls Tennis Region Tournament @ DCHS
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-321-dkcalendar@combined
+UID:2026-09-24-319-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T130000
 DTEND;TZID=America/Denver:20260924T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-322-dkcalendar@combined
+UID:2026-09-24-320-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T153000
 DTEND;TZID=America/Denver:20260924T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-323-dkcalendar@combined
+UID:2026-09-24-321-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T153000
 DTEND;TZID=America/Denver:20260924T200000
 SUMMARY:Wasatch HS — Girls Volleyball @Deer  Creek
 DESCRIPTION:Fresh 5:00\nSoph 3:30\nJV 5:00\nVarsity 6:30
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-324-dkcalendar@combined
+UID:2026-09-24-322-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T153000
 DTEND;TZID=America/Denver:20260924T163000
 SUMMARY:Deer Creek HS — Girls Soccer @ Summit
 DESCRIPTION:JV 3:30 PM V 5 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-325-dkcalendar@combined
+UID:2026-09-24-323-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T153000
 DTEND;TZID=America/Denver:20260924T203000
 SUMMARY:Deer Creek HS — Girls Volleyball vs. Wasatch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-326-dkcalendar@combined
+UID:2026-09-24-324-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T170000
 DTEND;TZID=America/Denver:20260924T193000
 SUMMARY:Wasatch HS — Cross Country@Juab Invitational
 DESCRIPTION:Cross Country Juab Invitational
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-327-dkcalendar@combined
+UID:2026-09-24-325-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T170000
 DTEND;TZID=America/Denver:20260924T190000
 SUMMARY:Wasatch HS — Cross Country
 DESCRIPTION:Cross Country Juab Invitational Canyon Hills Golf Course  Nephi Utah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-328-dkcalendar@combined
+UID:2026-09-24-326-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T170000
 DTEND;TZID=America/Denver:20260924T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-329-dkcalendar@combined
+UID:2026-09-24-327-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T170000
 DTEND;TZID=America/Denver:20260924T210000
 SUMMARY:Wasatch HS —  Jv Girls soccer vrs Uintah
 DESCRIPTION:Varsity 7:00 Stadium\nJV 500 Quad\nversus Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-330-dkcalendar@combined
+UID:2026-09-24-328-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T180000
 DTEND;TZID=America/Denver:20260924T200000
 SUMMARY:Wasatch HS — SIS/Canvas training for parents that speak Spanish
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-331-dkcalendar@combined
+UID:2026-09-24-329-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260924T190000
 DTEND;TZID=America/Denver:20260924T210000
 SUMMARY:Wasatch HS — Varsity Girls Soccer vrs Uintah
 DESCRIPTION:varsity girls soccer vrs Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-332-dkcalendar@combined
+UID:2026-09-25-330-dkcalendar@combined
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Wasatch HS — Girls volleyball tournament @ Corner Canyon Classic
 DESCRIPTION:JV and Sophomore Tournament @ Corner canyon classic
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-333-dkcalendar@combined
+UID:2026-09-25-331-dkcalendar@combined
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-334-dkcalendar@combined
+UID:2026-09-25-332-dkcalendar@combined
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Wasatch HS — Girls Tennis Region
 DESCRIPTION:Region Tournament @ Deer Creek\nTimes TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-335-dkcalendar@combined
+UID:2026-09-25-333-dkcalendar@combined
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Deer Creek HS — Girls Tennis Region Tournament @ DCHS
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-336-dkcalendar@combined
+UID:2026-09-25-334-dkcalendar@combined
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Deer Creek HS — Girls Volleyball Soph/JV Tournament @ Canyon Classic
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-337-dkcalendar@combined
+UID:2026-09-25-335-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260925T130000
 DTEND;TZID=America/Denver:20260925T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-338-dkcalendar@combined
+UID:2026-09-25-336-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260925T153000
 DTEND;TZID=America/Denver:20260925T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-339-dkcalendar@combined
+UID:2026-09-25-337-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260925T150000
 DTEND;TZID=America/Denver:20260925T200000
 SUMMARY:Deer Creek HS — Cross Country @ TwiKnight Invite
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-340-dkcalendar@combined
+UID:2026-09-25-338-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260925T190000
 DTEND;TZID=America/Denver:20260925T210000
 SUMMARY:Wasatch HS — Football @ Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-25-341-dkcalendar@combined
+UID:2026-09-25-339-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260925T190000
 DTEND;TZID=America/Denver:20260925T211500
 SUMMARY:Deer Creek HS — Varsity Football @ Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-342-dkcalendar@combined
+UID:2026-09-26-340-dkcalendar@combined
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Wasatch HS — Marching Band @ Herriman High School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-343-dkcalendar@combined
+UID:2026-09-26-341-dkcalendar@combined
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Deer Creek HS — Girls Volleyball JV/Soph @ Canyon Classic Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-344-dkcalendar@combined
+UID:2026-09-26-342-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260926T130000
 DTEND;TZID=America/Denver:20260926T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-345-dkcalendar@combined
+UID:2026-09-26-343-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260926T153000
 DTEND;TZID=America/Denver:20260926T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-346-dkcalendar@combined
+UID:2026-09-28-344-dkcalendar@combined
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-347-dkcalendar@combined
+UID:2026-09-28-345-dkcalendar@combined
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Wasatch HS — Homecoming Week
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-348-dkcalendar@combined
+UID:2026-09-28-346-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T130000
 DTEND;TZID=America/Denver:20260928T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-349-dkcalendar@combined
+UID:2026-09-28-347-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T153000
 DTEND;TZID=America/Denver:20260928T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-350-dkcalendar@combined
+UID:2026-09-28-348-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T190000
 DTEND;TZID=America/Denver:20260928T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-351-dkcalendar@combined
+UID:2026-09-28-349-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T131500
 DTEND;TZID=America/Denver:20260928T153000
 SUMMARY:Wasatch HS — Chalk-the-Block (After School)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-352-dkcalendar@combined
+UID:2026-09-28-350-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T190000
 DTEND;TZID=America/Denver:20260928T200000
 SUMMARY:Wasatch HS — Hometown Halftime Show @ Deer Creek High School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-353-dkcalendar@combined
+UID:2026-09-28-351-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T190000
 DTEND;TZID=America/Denver:20260928T213000
 SUMMARY:Deer Creek HS — Hometown Halftime?
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-354-dkcalendar@combined
+UID:2026-09-28-352-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T080000
 DTEND;TZID=America/Denver:20260928T120000
 SUMMARY:Wasatch HS — boys golf @ Mtn View
 DESCRIPTION:host Mtn View\n\nSleepy Ridge 8 am shotgun
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-28-355-dkcalendar@combined
+UID:2026-09-28-353-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260928T080000
 DTEND;TZID=America/Denver:20260928T151500
 SUMMARY:Deer Creek HS — Boys Golf Region Tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-356-dkcalendar@combined
+UID:2026-09-29-354-dkcalendar@combined
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-357-dkcalendar@combined
+UID:2026-09-29-355-dkcalendar@combined
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Wasatch HS — Homecoming Week
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-358-dkcalendar@combined
+UID:2026-09-29-356-dkcalendar@combined
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Deer Creek HS — Boys Region Golf @ Talon's Cove
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-359-dkcalendar@combined
+UID:2026-09-29-357-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260929T153000
 DTEND;TZID=America/Denver:20260929T200000
 SUMMARY:Wasatch HS — Girls Volleyball vs Uintah
 DESCRIPTION:volleyball vs Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-360-dkcalendar@combined
+UID:2026-09-29-358-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260929T153000
 DTEND;TZID=America/Denver:20260929T164500
 SUMMARY:Deer Creek HS — Girls Soccer vs. Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-361-dkcalendar@combined
+UID:2026-09-29-359-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260929T153000
 DTEND;TZID=America/Denver:20260929T203000
 SUMMARY:Deer Creek HS — Girls Volleyball vs. Summit Academy
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-29-362-dkcalendar@combined
+UID:2026-09-29-360-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260929T090000
 DTEND;TZID=America/Denver:20260929T140000
 SUMMARY:Wasatch HS — boys Golf Region
 DESCRIPTION:Region @ Talons Cove
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-363-dkcalendar@combined
+UID:2026-09-30-361-dkcalendar@combined
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-364-dkcalendar@combined
+UID:2026-09-30-362-dkcalendar@combined
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Wasatch HS — Homecoming Week
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-365-dkcalendar@combined
+UID:2026-09-30-363-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260930T130000
 DTEND;TZID=America/Denver:20260930T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-366-dkcalendar@combined
+UID:2026-09-30-364-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260930T143000
 DTEND;TZID=America/Denver:20260930T153000
 SUMMARY:Deer Creek HS — Cross Country @ Union Invite
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-367-dkcalendar@combined
+UID:2026-09-30-365-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260930T160000
 DTEND;TZID=America/Denver:20260930T180000
 SUMMARY:Wasatch HS — Sophomore girls soccer Vs West Lake
 DESCRIPTION:sophomore girls soccer west lake
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-368-dkcalendar@combined
+UID:2026-09-30-366-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260930T060000
 DTEND;TZID=America/Denver:20260930T090000
 SUMMARY:Deer Creek HS — Dance Co Practice
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-369-dkcalendar@combined
+UID:2026-09-30-367-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260930T180000
 DTEND;TZID=America/Denver:20260930T200000
 SUMMARY:Wasatch HS — Powder Puff
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-30-370-dkcalendar@combined
+UID:2026-09-30-368-dkcalendar@combined
 DTSTART;TZID=America/Denver:20260930T180000
 DTEND;TZID=America/Denver:20260930T194500
 SUMMARY:Deer Creek HS — Frosh Football @ Westlake 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-371-dkcalendar@combined
+UID:2026-10-01-369-dkcalendar@combined
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Wasatch HS — Shakespeare Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-372-dkcalendar@combined
+UID:2026-10-01-370-dkcalendar@combined
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-373-dkcalendar@combined
+UID:2026-10-01-371-dkcalendar@combined
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Wasatch HS — Homecoming Week
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-374-dkcalendar@combined
+UID:2026-10-01-372-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T130000
 DTEND;TZID=America/Denver:20261001T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-375-dkcalendar@combined
+UID:2026-10-01-373-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T153000
 DTEND;TZID=America/Denver:20261001T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-376-dkcalendar@combined
+UID:2026-10-01-374-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T190000
 DTEND;TZID=America/Denver:20261001T203000
 SUMMARY:Heber Valley Railroad — Witches' Night Out - A Halloween Party Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-377-dkcalendar@combined
+UID:2026-10-01-375-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T190000
 DTEND;TZID=America/Denver:20261001T203000
 SUMMARY:Heber Valley Railroad — The Halloween Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-378-dkcalendar@combined
+UID:2026-10-01-376-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T110000
 DTEND;TZID=America/Denver:20261001T130000
 SUMMARY:Wasatch HS — Homecoming Assembly
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-379-dkcalendar@combined
+UID:2026-10-01-377-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T153000
 DTEND;TZID=America/Denver:20261001T200000
 SUMMARY:Wasatch HS — Girls Volleyball vs Mountain View
 DESCRIPTION:volleyball Vs Mnt View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-380-dkcalendar@combined
+UID:2026-10-01-378-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T153000
 DTEND;TZID=America/Denver:20261001T203000
 SUMMARY:Deer Creek HS — Girls Volleyball vs. Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-381-dkcalendar@combined
+UID:2026-10-01-379-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T160000
 DTEND;TZID=America/Denver:20261001T170000
 SUMMARY:Wasatch HS — Football (JV) @ Park City
 DESCRIPTION:JV @4:00PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-382-dkcalendar@combined
+UID:2026-10-01-380-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T170000
 DTEND;TZID=America/Denver:20261001T190000
 SUMMARY:Wasatch HS — JV Girls Soccer vs Deer Creek
 DESCRIPTION:JV Girls Soccer vs Deer Creek
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-383-dkcalendar@combined
+UID:2026-10-01-381-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T170000
 DTEND;TZID=America/Denver:20261001T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-384-dkcalendar@combined
+UID:2026-10-01-382-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T170000
 DTEND;TZID=America/Denver:20261001T180000
 SUMMARY:Deer Creek HS — Frosh Soccer @ Wasatch
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-385-dkcalendar@combined
+UID:2026-10-01-383-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T170000
 DTEND;TZID=America/Denver:20261001T180000
 SUMMARY:Deer Creek HS — Frosh Soccer @ Wasatch 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-386-dkcalendar@combined
+UID:2026-10-01-384-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T170000
 DTEND;TZID=America/Denver:20261001T204500
 SUMMARY:Deer Creek HS — Girls Soccer @ Wasatch
 DESCRIPTION:JV 5 PM V 7 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-387-dkcalendar@combined
+UID:2026-10-01-385-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T060000
 DTEND;TZID=America/Denver:20261001T074500
 SUMMARY:Deer Creek HS — Dance Co Practice 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-388-dkcalendar@combined
+UID:2026-10-01-386-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T190000
 DTEND;TZID=America/Denver:20261001T203000
 SUMMARY:Wasatch HS — Girls Soccer Senior Night vs. DCHS
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-01-389-dkcalendar@combined
+UID:2026-10-01-387-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261001T190000
 DTEND;TZID=America/Denver:20261001T210000
 SUMMARY:Wasatch HS — Varsity Girls Soccer vs Deer Creek
 DESCRIPTION:Varsity 7:00 PM Stadium\nJV 5:00 PM Quad
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-390-dkcalendar@combined
+UID:2026-10-02-388-dkcalendar@combined
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Wasatch HS — Fall Baseball Tournament 
 DESCRIPTION:Hosting Fall Baseball tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-391-dkcalendar@combined
+UID:2026-10-02-389-dkcalendar@combined
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Wasatch HS — Shakespeare Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-392-dkcalendar@combined
+UID:2026-10-02-390-dkcalendar@combined
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-393-dkcalendar@combined
+UID:2026-10-02-391-dkcalendar@combined
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Wasatch HS — Homecoming Week
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-394-dkcalendar@combined
+UID:2026-10-02-392-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T130000
 DTEND;TZID=America/Denver:20261002T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-395-dkcalendar@combined
+UID:2026-10-02-393-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T153000
 DTEND;TZID=America/Denver:20261002T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-396-dkcalendar@combined
+UID:2026-10-02-394-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T190000
 DTEND;TZID=America/Denver:20261002T203000
 SUMMARY:Heber Valley Railroad — Witches' Night Out - A Halloween Party Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-397-dkcalendar@combined
+UID:2026-10-02-395-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T190000
 DTEND;TZID=America/Denver:20261002T203000
 SUMMARY:Heber Valley Railroad — The Halloween Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-398-dkcalendar@combined
+UID:2026-10-02-396-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T130000
 DTEND;TZID=America/Denver:20261002T150000
 SUMMARY:Wasatch HS — Homecoming Parade
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-399-dkcalendar@combined
+UID:2026-10-02-397-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T150000
 DTEND;TZID=America/Denver:20261002T180000
 SUMMARY:Wasatch HS — Cross Country@Orem Region
 DESCRIPTION:Cross Country Region Scera Park Orem
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-400-dkcalendar@combined
+UID:2026-10-02-398-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T150000
 DTEND;TZID=America/Denver:20261002T201500
 SUMMARY:Deer Creek HS — Cross Country @ Region
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-401-dkcalendar@combined
+UID:2026-10-02-399-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T160000
 DTEND;TZID=America/Denver:20261002T170000
 SUMMARY:Deer Creek HS — Frosh Soccer @ Maple Mountain
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-402-dkcalendar@combined
+UID:2026-10-02-400-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T060000
 DTEND;TZID=America/Denver:20261002T090000
 SUMMARY:Deer Creek HS — Dance Co Practice 
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-403-dkcalendar@combined
+UID:2026-10-02-401-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T190000
 DTEND;TZID=America/Denver:20261002T220000
 SUMMARY:Wasatch HS — Homecoming Football Game (Theme?) vs. Park City
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-404-dkcalendar@combined
+UID:2026-10-02-402-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T190000
 DTEND;TZID=America/Denver:20261002T210000
 SUMMARY:Wasatch HS — Football vs Park City -- Homecoming
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-02-405-dkcalendar@combined
+UID:2026-10-02-403-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261002T190000
 DTEND;TZID=America/Denver:20261002T211500
 SUMMARY:Deer Creek HS — Varsity Football vs. Salem Hills (SR Night)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-406-dkcalendar@combined
+UID:2026-10-03-404-dkcalendar@combined
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Wasatch HS — Marching Band @ USU Maverik Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-407-dkcalendar@combined
+UID:2026-10-03-405-dkcalendar@combined
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Wasatch HS — Shakespeare Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-408-dkcalendar@combined
+UID:2026-10-03-406-dkcalendar@combined
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Wasatch HS — Homecoming Week
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-409-dkcalendar@combined
+UID:2026-10-03-407-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T140000
 DTEND;TZID=America/Denver:20261003T144000
 SUMMARY:Heber Valley Railroad — The Pumpkin Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-410-dkcalendar@combined
+UID:2026-10-03-408-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T160000
 DTEND;TZID=America/Denver:20261003T164000
 SUMMARY:Heber Valley Railroad — The Pumpkin Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-411-dkcalendar@combined
+UID:2026-10-03-409-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T100000
 DTEND;TZID=America/Denver:20261003T104000
 SUMMARY:Heber Valley Railroad — The Pumpkin Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-412-dkcalendar@combined
+UID:2026-10-03-410-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T120000
 DTEND;TZID=America/Denver:20261003T130000
 SUMMARY:Deer Creek HS — DC Girls Basketball Skills Camp
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-413-dkcalendar@combined
+UID:2026-10-03-411-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T120000
 DTEND;TZID=America/Denver:20261003T124000
 SUMMARY:Heber Valley Railroad — The Pumpkin Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-414-dkcalendar@combined
+UID:2026-10-03-412-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T070000
 DTEND;TZID=America/Denver:20261003T170000
 SUMMARY:Deer Creek HS — Youth Football Games
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-03-415-dkcalendar@combined
+UID:2026-10-03-413-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261003T203000
 DTEND;TZID=America/Denver:20261003T230000
 SUMMARY:Wasatch HS — Homecoming Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-416-dkcalendar@combined
+UID:2026-10-05-414-dkcalendar@combined
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-417-dkcalendar@combined
+UID:2026-10-05-415-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261005T130000
 DTEND;TZID=America/Denver:20261005T143000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-418-dkcalendar@combined
+UID:2026-10-05-416-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261005T153000
 DTEND;TZID=America/Denver:20261005T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-419-dkcalendar@combined
+UID:2026-10-05-417-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261005T190000
 DTEND;TZID=America/Denver:20261005T203000
 SUMMARY:Heber Valley Railroad — Witches' Night Out - A Halloween Party Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-420-dkcalendar@combined
+UID:2026-10-05-418-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261005T190000
 DTEND;TZID=America/Denver:20261005T203000
 SUMMARY:Heber Valley Railroad — The Halloween Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-421-dkcalendar@combined
+UID:2026-10-05-419-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261005T143000
 DTEND;TZID=America/Denver:20261005T153000
 SUMMARY:Deer Creek HS — District Speech PLC
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-05-422-dkcalendar@combined
+UID:2026-10-05-420-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261005T170000
 DTEND;TZID=America/Denver:20261005T181500
 SUMMARY:Deer Creek HS — Soph Soccer vs. Fresh Soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-06-423-dkcalendar@combined
+UID:2026-10-05-421-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261005T080000
+DTEND;TZID=America/Denver:20261005T090000
+SUMMARY:Deer Creek HS — Health Department Flu Shot Clinic 
+DESCRIPTION:The Wasatch County Health Department will be providing flu shots for teachers and students
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-422-dkcalendar@combined
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-06-424-dkcalendar@combined
+UID:2026-10-06-423-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261006T153000
 DTEND;TZID=America/Denver:20261006T210000
 SUMMARY:Wasatch HS — Girls Volleyball (Pink Out) vs Provo
 DESCRIPTION:Fresh 5:00 Aux Gym\nSoph 3:30 Nest\nJv 5:00 nest\nVarsity 6:30 Nest\nvrs Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-06-425-dkcalendar@combined
+UID:2026-10-06-424-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261006T153000
 DTEND;TZID=America/Denver:20261006T203000
 SUMMARY:Deer Creek HS — Girls Volleyball @ Mt. View
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-06-426-dkcalendar@combined
+UID:2026-10-06-425-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261006T180000
 DTEND;TZID=America/Denver:20261006T200000
 SUMMARY:Wasatch HS — Football (Fresh)@ Skyline
 DESCRIPTION:Freshman 6:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-06-427-dkcalendar@combined
+UID:2026-10-06-426-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261006T180000
 DTEND;TZID=America/Denver:20261006T190000
 SUMMARY:Deer Creek HS — Frosh Football @ Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-07-428-dkcalendar@combined
+UID:2026-10-07-427-dkcalendar@combined
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Wasatch HS — Black Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-428-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261007T080000
+DTEND;TZID=America/Denver:20261007T160000
+SUMMARY:Deer Creek HS — Health Department Flu Shot Clinic 
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-429-dkcalendar@combined
@@ -3574,2452 +3575,2697 @@ SUMMARY:Deer Creek HS — DC girls basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-574-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261107T080000
+DTEND;TZID=America/Denver:20261107T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-575-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261107T203000
 DTEND;TZID=America/Denver:20261107T230000
 SUMMARY:Wasatch HS — Sadie Hawkins Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-09-575-dkcalendar@combined
+UID:2026-11-09-576-dkcalendar@combined
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-10-576-dkcalendar@combined
+UID:2026-11-10-577-dkcalendar@combined
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-11-577-dkcalendar@combined
+UID:2026-11-11-578-dkcalendar@combined
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-11-578-dkcalendar@combined
+UID:2026-11-11-579-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261111T190000
 DTEND;TZID=America/Denver:20261111T213000
 SUMMARY:Wasatch HS — Hello\, Dolly! (Fall Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-12-579-dkcalendar@combined
+UID:2026-11-12-580-dkcalendar@combined
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-12-580-dkcalendar@combined
+UID:2026-11-12-581-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261112T170000
 DTEND;TZID=America/Denver:20261112T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-13-581-dkcalendar@combined
+UID:2026-11-13-582-dkcalendar@combined
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-13-582-dkcalendar@combined
+UID:2026-11-13-583-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261113T190000
 DTEND;TZID=America/Denver:20261113T220000
 SUMMARY:Deer Creek HS — Pirates of Penzance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-14-583-dkcalendar@combined
+UID:2026-11-14-584-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261114T190000
 DTEND;TZID=America/Denver:20261114T213000
 SUMMARY:Wasatch HS — Hello Dolly (Fall Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-14-584-dkcalendar@combined
+UID:2026-11-14-585-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261114T190000
 DTEND;TZID=America/Denver:20261114T220000
 SUMMARY:Deer Creek HS — Pirates of Penzance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-16-585-dkcalendar@combined
+UID:2026-11-14-586-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261114T080000
+DTEND;TZID=America/Denver:20261114T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-587-dkcalendar@combined
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-16-586-dkcalendar@combined
+UID:2026-11-16-588-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261116T190000
 DTEND;TZID=America/Denver:20261116T213000
 SUMMARY:Wasatch HS — Hello Dolly (Fall Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-17-587-dkcalendar@combined
+UID:2026-11-17-589-dkcalendar@combined
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-17-588-dkcalendar@combined
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-17-589-dkcalendar@combined
+UID:2026-11-17-590-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261117T153000
 DTEND;TZID=America/Denver:20261117T210000
 SUMMARY:Wasatch HS — Girls Basketball @ Corner Canyon
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-18-590-dkcalendar@combined
+UID:2026-11-18-591-dkcalendar@combined
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-592-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261118T190000
 DTEND;TZID=America/Denver:20261118T220000
 SUMMARY:Deer Creek HS — Pirates of Penzance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-591-dkcalendar@combined
+UID:2026-11-19-593-dkcalendar@combined
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-592-dkcalendar@combined
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-593-dkcalendar@combined
+UID:2026-11-19-594-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261119T170000
 DTEND;TZID=America/Denver:20261119T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-594-dkcalendar@combined
+UID:2026-11-19-595-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261119T193000
 DTEND;TZID=America/Denver:20261119T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-595-dkcalendar@combined
+UID:2026-11-19-596-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261119T170000
 DTEND;TZID=America/Denver:20261119T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-596-dkcalendar@combined
+UID:2026-11-20-597-dkcalendar@combined
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-598-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261120T170000
 DTEND;TZID=America/Denver:20261120T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-597-dkcalendar@combined
+UID:2026-11-20-599-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261120T193000
 DTEND;TZID=America/Denver:20261120T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-598-dkcalendar@combined
+UID:2026-11-20-600-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261120T190000
 DTEND;TZID=America/Denver:20261120T213000
 SUMMARY:Wasatch HS — Hello Dolly (Fall Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-599-dkcalendar@combined
+UID:2026-11-20-601-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261120T190000
 DTEND;TZID=America/Denver:20261120T220000
 SUMMARY:Deer Creek HS — Pirates of Penzance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-600-dkcalendar@combined
+UID:2026-11-21-602-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261121T140000
 DTEND;TZID=America/Denver:20261121T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-601-dkcalendar@combined
+UID:2026-11-21-603-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261121T170000
 DTEND;TZID=America/Denver:20261121T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-602-dkcalendar@combined
+UID:2026-11-21-604-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261121T193000
 DTEND;TZID=America/Denver:20261121T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-603-dkcalendar@combined
+UID:2026-11-21-605-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261121T113000
 DTEND;TZID=America/Denver:20261121T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-604-dkcalendar@combined
+UID:2026-11-21-606-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261121T140000
 DTEND;TZID=America/Denver:20261121T163000
 SUMMARY:Wasatch HS — Hello Dolly (Fall Musical) - Matinee
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-605-dkcalendar@combined
+UID:2026-11-21-607-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261121T190000
 DTEND;TZID=America/Denver:20261121T220000
 SUMMARY:Deer Creek HS — Pirates of Penzance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-23-606-dkcalendar@combined
+UID:2026-11-23-608-dkcalendar@combined
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-23-607-dkcalendar@combined
+UID:2026-11-23-609-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261123T170000
 DTEND;TZID=America/Denver:20261123T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-23-608-dkcalendar@combined
+UID:2026-11-23-610-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261123T193000
 DTEND;TZID=America/Denver:20261123T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-24-609-dkcalendar@combined
+UID:2026-11-24-611-dkcalendar@combined
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-24-610-dkcalendar@combined
+UID:2026-11-24-612-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261124T170000
 DTEND;TZID=America/Denver:20261124T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-24-611-dkcalendar@combined
+UID:2026-11-24-613-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261124T193000
 DTEND;TZID=America/Denver:20261124T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-612-dkcalendar@combined
+UID:2026-11-24-614-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261124T153000
+DTEND;TZID=America/Denver:20261124T210000
+SUMMARY:Wasatch HS — Boys Basketball @ Clearfield
+DESCRIPTION:Sophomore 5:15\n\nJV 3:30\n\nVarsity 7:00\n\n\\\\
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-615-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261124T153000
+DTEND;TZID=America/Denver:20261124T170000
+SUMMARY:Wasatch HS — Basketball Fresh boys @Clearfield
+DESCRIPTION:freshman boys basketball @clearfield
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-616-dkcalendar@combined
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Wasatch HS — Thanksgiving Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-613-dkcalendar@combined
+UID:2026-11-25-617-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261125T170000
 DTEND;TZID=America/Denver:20261125T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-614-dkcalendar@combined
+UID:2026-11-25-618-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261125T193000
 DTEND;TZID=America/Denver:20261125T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-26-615-dkcalendar@combined
+UID:2026-11-26-619-dkcalendar@combined
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-26-616-dkcalendar@combined
+UID:2026-11-26-620-dkcalendar@combined
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Wasatch HS — Thanksgiving Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-617-dkcalendar@combined
+UID:2026-11-27-621-dkcalendar@combined
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-618-dkcalendar@combined
+UID:2026-11-27-622-dkcalendar@combined
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Wasatch HS — Thanksgiving Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-619-dkcalendar@combined
+UID:2026-11-27-623-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261127T140000
 DTEND;TZID=America/Denver:20261127T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-620-dkcalendar@combined
+UID:2026-11-27-624-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261127T170000
 DTEND;TZID=America/Denver:20261127T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-621-dkcalendar@combined
+UID:2026-11-27-625-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261127T193000
 DTEND;TZID=America/Denver:20261127T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-622-dkcalendar@combined
+UID:2026-11-27-626-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261127T113000
 DTEND;TZID=America/Denver:20261127T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-28-623-dkcalendar@combined
+UID:2026-11-28-627-dkcalendar@combined
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-28-624-dkcalendar@combined
+UID:2026-11-28-628-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261128T140000
 DTEND;TZID=America/Denver:20261128T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-28-625-dkcalendar@combined
+UID:2026-11-28-629-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261128T170000
 DTEND;TZID=America/Denver:20261128T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-28-626-dkcalendar@combined
+UID:2026-11-28-630-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261128T193000
 DTEND;TZID=America/Denver:20261128T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-28-627-dkcalendar@combined
+UID:2026-11-28-631-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261128T113000
 DTEND;TZID=America/Denver:20261128T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-29-628-dkcalendar@combined
+UID:2026-11-29-632-dkcalendar@combined
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-30-629-dkcalendar@combined
+UID:2026-11-30-633-dkcalendar@combined
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Wasatch HS — The Forgotten Carols
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-30-630-dkcalendar@combined
+UID:2026-11-30-634-dkcalendar@combined
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-30-631-dkcalendar@combined
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-30-632-dkcalendar@combined
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-30-633-dkcalendar@combined
+UID:2026-11-30-635-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261130T170000
 DTEND;TZID=America/Denver:20261130T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-30-634-dkcalendar@combined
+UID:2026-11-30-636-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261130T193000
 DTEND;TZID=America/Denver:20261130T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-01-635-dkcalendar@combined
+UID:2026-12-01-637-dkcalendar@combined
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-638-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T170000
 DTEND;TZID=America/Denver:20261201T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-01-636-dkcalendar@combined
+UID:2026-12-01-639-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T193000
 DTEND;TZID=America/Denver:20261201T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-01-637-dkcalendar@combined
+UID:2026-12-01-640-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T150000
 DTEND;TZID=America/Denver:20261201T200000
 SUMMARY:Wasatch HS — Girls Basketball vs. Cedar Valley
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-02-638-dkcalendar@combined
+UID:2026-12-01-641-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261201T153000
+DTEND;TZID=America/Denver:20261201T170000
+SUMMARY:Wasatch HS — Boys Basketball freshman vs Maple Mountain
+DESCRIPTION:freshman boys bb vrs Maple mountain
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-642-dkcalendar@combined
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Wasatch HS — WHS Choirs @ Temple Square
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-02-639-dkcalendar@combined
+UID:2026-12-02-643-dkcalendar@combined
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-02-640-dkcalendar@combined
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-02-641-dkcalendar@combined
+UID:2026-12-02-644-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261202T170000
 DTEND;TZID=America/Denver:20261202T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-02-642-dkcalendar@combined
+UID:2026-12-02-645-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261202T193000
 DTEND;TZID=America/Denver:20261202T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-02-643-dkcalendar@combined
+UID:2026-12-02-646-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261202T170000
 DTEND;TZID=America/Denver:20261202T210000
 SUMMARY:Wasatch HS — Boys Wrestling vs Spanish Fork
 DESCRIPTION:Weigh in @ 3:30\n\nJV 5:00\n\nVarsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-03-644-dkcalendar@combined
+UID:2026-12-03-647-dkcalendar@combined
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-648-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261203T170000
 DTEND;TZID=America/Denver:20261203T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-03-645-dkcalendar@combined
+UID:2026-12-03-649-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261203T193000
 DTEND;TZID=America/Denver:20261203T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-03-646-dkcalendar@combined
+UID:2026-12-03-650-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261203T153000
+DTEND;TZID=America/Denver:20261203T210000
+SUMMARY:Wasatch HS — Boys Basketball @Park City
+DESCRIPTION:soph 5:15 \n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-651-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261203T153000
+DTEND;TZID=America/Denver:20261203T210000
+SUMMARY:Wasatch HS — Boys Basketball @ Cottonwood
+DESCRIPTION:soph 5:14\n\nJV 3:30\n\nVarsity
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-652-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261203T170000
 DTEND;TZID=America/Denver:20261203T210000
 SUMMARY:Wasatch HS — Boys Wrestling @ Deer Creek
 DESCRIPTION:wrestling @ Deer Creek JV 5:00 PM\n\nVarsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-03-647-dkcalendar@combined
+UID:2026-12-03-653-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261203T170000
 DTEND;TZID=America/Denver:20261203T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-648-dkcalendar@combined
+UID:2026-12-03-654-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261203T171500
+DTEND;TZID=America/Denver:20261203T181500
+SUMMARY:Wasatch HS — Freshman Boys Basketball@Cottonwood
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-655-dkcalendar@combined
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-649-dkcalendar@combined
+UID:2026-12-04-656-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261204T170000
 DTEND;TZID=America/Denver:20261204T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-650-dkcalendar@combined
+UID:2026-12-04-657-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261204T193000
 DTEND;TZID=America/Denver:20261204T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-651-dkcalendar@combined
+UID:2026-12-04-658-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261204T143000
 DTEND;TZID=America/Denver:20261204T210000
 SUMMARY:Wasatch HS — Boys Wrestling @ Layton Invitational
 DESCRIPTION:tournament @ Layton High School
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-652-dkcalendar@combined
+UID:2026-12-04-659-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261204T150000
 DTEND;TZID=America/Denver:20261204T210000
 SUMMARY:Wasatch HS — Set up for Robotics Comp
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-653-dkcalendar@combined
+UID:2026-12-04-660-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261204T153000
+DTEND;TZID=America/Denver:20261204T170000
+SUMMARY:Wasatch HS — Freshman Basketball @ Park City
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-661-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261205T140000
 DTEND;TZID=America/Denver:20261205T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-654-dkcalendar@combined
+UID:2026-12-05-662-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261205T170000
 DTEND;TZID=America/Denver:20261205T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-655-dkcalendar@combined
+UID:2026-12-05-663-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261205T193000
 DTEND;TZID=America/Denver:20261205T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-656-dkcalendar@combined
+UID:2026-12-05-664-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261205T113000
 DTEND;TZID=America/Denver:20261205T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-657-dkcalendar@combined
+UID:2026-12-05-665-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261205T080000
 DTEND;TZID=America/Denver:20261205T160000
 SUMMARY:Wasatch HS — Robotics Wobble Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-07-658-dkcalendar@combined
+UID:2026-12-05-666-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261205T080000
+DTEND;TZID=America/Denver:20261205T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-667-dkcalendar@combined
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-07-659-dkcalendar@combined
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-07-660-dkcalendar@combined
+UID:2026-12-07-668-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261207T170000
 DTEND;TZID=America/Denver:20261207T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-07-661-dkcalendar@combined
+UID:2026-12-07-669-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261207T193000
 DTEND;TZID=America/Denver:20261207T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-662-dkcalendar@combined
+UID:2026-12-08-670-dkcalendar@combined
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-663-dkcalendar@combined
+UID:2026-12-08-671-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261208T170000
 DTEND;TZID=America/Denver:20261208T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-664-dkcalendar@combined
+UID:2026-12-08-672-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261208T193000
 DTEND;TZID=America/Denver:20261208T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-665-dkcalendar@combined
-DTSTART;TZID=America/Denver:20261208T170000
+UID:2026-12-08-673-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261208T153000
 DTEND;TZID=America/Denver:20261208T210000
-SUMMARY:Wasatch HS — Boys Wrestling vs Layton
-DESCRIPTION:JV 5:00 PM\n\nVarsity 7:00 PM
+SUMMARY:Wasatch HS — Boys Baskeball vs Springville
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-666-dkcalendar@combined
+UID:2026-12-08-674-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261208T153000
+DTEND;TZID=America/Denver:20261208T170000
+SUMMARY:Wasatch HS — Freshman Boys Basketball vs Springville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-675-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261208T190000
 DTEND;TZID=America/Denver:20261208T203000
 SUMMARY:Wasatch HS — Choir Holiday Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-667-dkcalendar@combined
+UID:2026-12-08-676-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261208T190000
 DTEND;TZID=America/Denver:20261208T200000
 SUMMARY:Deer Creek HS — Band Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-09-668-dkcalendar@combined
+UID:2026-12-09-677-dkcalendar@combined
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-09-669-dkcalendar@combined
+UID:2026-12-09-678-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261209T170000
 DTEND;TZID=America/Denver:20261209T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-09-670-dkcalendar@combined
+UID:2026-12-09-679-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261209T193000
 DTEND;TZID=America/Denver:20261209T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-10-671-dkcalendar@combined
+UID:2026-12-10-680-dkcalendar@combined
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-10-672-dkcalendar@combined
+UID:2026-12-10-681-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261210T170000
 DTEND;TZID=America/Denver:20261210T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-10-673-dkcalendar@combined
+UID:2026-12-10-682-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261210T193000
 DTEND;TZID=America/Denver:20261210T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-10-674-dkcalendar@combined
+UID:2026-12-10-683-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261210T170000
 DTEND;TZID=America/Denver:20261210T210000
 SUMMARY:Wasatch HS — Boys Wrestling vs Timpanogos
 DESCRIPTION:JV 5:00 PM\n\nVarsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-10-675-dkcalendar@combined
+UID:2026-12-10-684-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261210T170000
 DTEND;TZID=America/Denver:20261210T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-10-676-dkcalendar@combined
+UID:2026-12-10-685-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261210T190000
 DTEND;TZID=America/Denver:20261210T200000
 SUMMARY:Deer Creek HS — Orchestra Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-11-677-dkcalendar@combined
+UID:2026-12-11-686-dkcalendar@combined
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-11-678-dkcalendar@combined
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Wasatch HS — Intermountain Duals
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-11-679-dkcalendar@combined
+UID:2026-12-11-687-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261211T170000
 DTEND;TZID=America/Denver:20261211T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-11-680-dkcalendar@combined
+UID:2026-12-11-688-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261211T193000
 DTEND;TZID=America/Denver:20261211T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-681-dkcalendar@combined
+UID:2026-12-11-689-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261211T140000
+DTEND;TZID=America/Denver:20261211T210000
+SUMMARY:Wasatch HS — Boys Wrestling tournament
+DESCRIPTION:Wasatch Intermountain Duals
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-690-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261211T153000
+DTEND;TZID=America/Denver:20261211T213000
+SUMMARY:Wasatch HS — Boys Basketball @ salem Hills
+DESCRIPTION:soph- 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-691-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261211T153000
+DTEND;TZID=America/Denver:20261211T170000
+SUMMARY:Wasatch HS — Freshman Boys Basketball @ Salem Hills
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-692-dkcalendar@combined
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Wasatch HS — Intermountain Duals
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-682-dkcalendar@combined
+UID:2026-12-12-693-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261212T140000
 DTEND;TZID=America/Denver:20261212T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-683-dkcalendar@combined
+UID:2026-12-12-694-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261212T170000
 DTEND;TZID=America/Denver:20261212T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-684-dkcalendar@combined
+UID:2026-12-12-695-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261212T193000
 DTEND;TZID=America/Denver:20261212T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-685-dkcalendar@combined
+UID:2026-12-12-696-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261212T113000
 DTEND;TZID=America/Denver:20261212T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-686-dkcalendar@combined
+UID:2026-12-12-697-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261212T080000
+DTEND;TZID=America/Denver:20261212T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-698-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261212T203000
 DTEND;TZID=America/Denver:20261212T223000
 SUMMARY:Wasatch HS — Winter Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-687-dkcalendar@combined
+UID:2026-12-12-699-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261212T203000
 DTEND;TZID=America/Denver:20261212T230000
 SUMMARY:Wasatch HS — Winter Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-14-688-dkcalendar@combined
+UID:2026-12-14-700-dkcalendar@combined
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-14-689-dkcalendar@combined
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-14-690-dkcalendar@combined
+UID:2026-12-14-701-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261214T170000
 DTEND;TZID=America/Denver:20261214T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-14-691-dkcalendar@combined
+UID:2026-12-14-702-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261214T193000
 DTEND;TZID=America/Denver:20261214T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-15-692-dkcalendar@combined
+UID:2026-12-15-703-dkcalendar@combined
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-704-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261215T170000
 DTEND;TZID=America/Denver:20261215T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-15-693-dkcalendar@combined
+UID:2026-12-15-705-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261215T193000
 DTEND;TZID=America/Denver:20261215T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-15-694-dkcalendar@combined
+UID:2026-12-15-706-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261215T190000
 DTEND;TZID=America/Denver:20261215T200000
 SUMMARY:Wasatch HS — CAPS Showcase
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-15-695-dkcalendar@combined
+UID:2026-12-15-707-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261215T190000
 DTEND;TZID=America/Denver:20261215T200000
 SUMMARY:Wasatch HS — Orchestra Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-15-696-dkcalendar@combined
+UID:2026-12-15-708-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261215T190000
 DTEND;TZID=America/Denver:20261215T200000
 SUMMARY:Deer Creek HS — Choir Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-16-697-dkcalendar@combined
+UID:2026-12-16-709-dkcalendar@combined
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-16-698-dkcalendar@combined
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-16-699-dkcalendar@combined
+UID:2026-12-16-710-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261216T170000
 DTEND;TZID=America/Denver:20261216T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-16-700-dkcalendar@combined
+UID:2026-12-16-711-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261216T193000
 DTEND;TZID=America/Denver:20261216T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-16-701-dkcalendar@combined
+UID:2026-12-16-712-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261216T100000
 DTEND;TZID=America/Denver:20261216T130000
 SUMMARY:Wasatch HS — Christmas Party (Class and Lunch)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-17-702-dkcalendar@combined
+UID:2026-12-17-713-dkcalendar@combined
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-714-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261217T170000
 DTEND;TZID=America/Denver:20261217T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-17-703-dkcalendar@combined
+UID:2026-12-17-715-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261217T193000
 DTEND;TZID=America/Denver:20261217T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-17-704-dkcalendar@combined
+UID:2026-12-17-716-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261217T170000
 DTEND;TZID=America/Denver:20261217T210000
 SUMMARY:Wasatch HS — Boys Wrestling @Payson 
 DESCRIPTION:Payson Dual JV 5:00 Varsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-17-705-dkcalendar@combined
+UID:2026-12-17-717-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261217T170000
 DTEND;TZID=America/Denver:20261217T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-706-dkcalendar@combined
+UID:2026-12-18-718-dkcalendar@combined
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Wasatch HS — Boys Wrestling Christmas Clash
-DESCRIPTION:Christmas Clash tournament @ Western Sports Park
+SUMMARY:Wasatch HS — Boys Basketball Tournament @ Las Vegas Tarkanian Classic
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-707-dkcalendar@combined
+UID:2026-12-18-719-dkcalendar@combined
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-708-dkcalendar@combined
+UID:2026-12-18-720-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261218T170000
 DTEND;TZID=America/Denver:20261218T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-709-dkcalendar@combined
+UID:2026-12-18-721-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261218T193000
 DTEND;TZID=America/Denver:20261218T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-710-dkcalendar@combined
+UID:2026-12-18-722-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261218T110000
 DTEND;TZID=America/Denver:20261218T130000
 SUMMARY:Wasatch HS — Winter Assembly (Reyonlds)
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-19-711-dkcalendar@combined
+UID:2026-12-19-723-dkcalendar@combined
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Wasatch HS — Boys Basketball Tournament @ Las Vegas Tarkanian Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-724-dkcalendar@combined
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Wasatch HS — Boys Wrestling Christmas Clash
+DESCRIPTION:Christmas Clash tournament @ Western Sports Park
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-725-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261219T140000
 DTEND;TZID=America/Denver:20261219T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-19-712-dkcalendar@combined
+UID:2026-12-19-726-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261219T170000
 DTEND;TZID=America/Denver:20261219T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-19-713-dkcalendar@combined
+UID:2026-12-19-727-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261219T193000
 DTEND;TZID=America/Denver:20261219T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-19-714-dkcalendar@combined
+UID:2026-12-19-728-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261219T113000
 DTEND;TZID=America/Denver:20261219T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-21-715-dkcalendar@combined
+UID:2026-12-19-729-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261219T080000
+DTEND;TZID=America/Denver:20261219T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-730-dkcalendar@combined
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Wasatch HS — Boys Basketball Tournament @ Las Vegas Tarkanian Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-731-dkcalendar@combined
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-21-716-dkcalendar@combined
+UID:2026-12-21-732-dkcalendar@combined
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-21-717-dkcalendar@combined
+UID:2026-12-21-733-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261221T140000
 DTEND;TZID=America/Denver:20261221T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-21-718-dkcalendar@combined
+UID:2026-12-21-734-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261221T170000
 DTEND;TZID=America/Denver:20261221T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-21-719-dkcalendar@combined
+UID:2026-12-21-735-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261221T193000
 DTEND;TZID=America/Denver:20261221T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-21-720-dkcalendar@combined
+UID:2026-12-21-736-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261221T113000
 DTEND;TZID=America/Denver:20261221T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-721-dkcalendar@combined
+UID:2026-12-22-737-dkcalendar@combined
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Wasatch HS — Boys Basketball Tournament @ Las Vegas Tarkanian Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-738-dkcalendar@combined
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-722-dkcalendar@combined
+UID:2026-12-22-739-dkcalendar@combined
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-723-dkcalendar@combined
+UID:2026-12-22-740-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261222T140000
 DTEND;TZID=America/Denver:20261222T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-724-dkcalendar@combined
+UID:2026-12-22-741-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261222T170000
 DTEND;TZID=America/Denver:20261222T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-725-dkcalendar@combined
+UID:2026-12-22-742-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261222T193000
 DTEND;TZID=America/Denver:20261222T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-726-dkcalendar@combined
+UID:2026-12-22-743-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261222T113000
 DTEND;TZID=America/Denver:20261222T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-727-dkcalendar@combined
+UID:2026-12-23-744-dkcalendar@combined
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-728-dkcalendar@combined
+UID:2026-12-23-745-dkcalendar@combined
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-729-dkcalendar@combined
+UID:2026-12-23-746-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261223T140000
 DTEND;TZID=America/Denver:20261223T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-730-dkcalendar@combined
+UID:2026-12-23-747-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261223T170000
 DTEND;TZID=America/Denver:20261223T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-731-dkcalendar@combined
+UID:2026-12-23-748-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261223T193000
 DTEND;TZID=America/Denver:20261223T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-732-dkcalendar@combined
+UID:2026-12-23-749-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261223T113000
 DTEND;TZID=America/Denver:20261223T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-24-733-dkcalendar@combined
+UID:2026-12-24-750-dkcalendar@combined
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-24-734-dkcalendar@combined
+UID:2026-12-24-751-dkcalendar@combined
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-25-735-dkcalendar@combined
+UID:2026-12-25-752-dkcalendar@combined
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-25-736-dkcalendar@combined
+UID:2026-12-25-753-dkcalendar@combined
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-26-737-dkcalendar@combined
+UID:2026-12-26-754-dkcalendar@combined
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-26-738-dkcalendar@combined
+UID:2026-12-26-755-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261226T140000
 DTEND;TZID=America/Denver:20261226T153000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-26-739-dkcalendar@combined
+UID:2026-12-26-756-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261226T170000
 DTEND;TZID=America/Denver:20261226T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-26-740-dkcalendar@combined
+UID:2026-12-26-757-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261226T193000
 DTEND;TZID=America/Denver:20261226T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-26-741-dkcalendar@combined
+UID:2026-12-26-758-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261226T113000
 DTEND;TZID=America/Denver:20261226T130000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-27-742-dkcalendar@combined
+UID:2026-12-27-759-dkcalendar@combined
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-28-743-dkcalendar@combined
+UID:2026-12-28-760-dkcalendar@combined
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-28-744-dkcalendar@combined
+UID:2026-12-28-761-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261228T170000
 DTEND;TZID=America/Denver:20261228T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-28-745-dkcalendar@combined
+UID:2026-12-28-762-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261228T193000
 DTEND;TZID=America/Denver:20261228T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-29-746-dkcalendar@combined
+UID:2026-12-29-763-dkcalendar@combined
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-29-747-dkcalendar@combined
+UID:2026-12-29-764-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261229T170000
 DTEND;TZID=America/Denver:20261229T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-29-748-dkcalendar@combined
+UID:2026-12-29-765-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261229T193000
 DTEND;TZID=America/Denver:20261229T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-29-749-dkcalendar@combined
+UID:2026-12-29-766-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261229T170000
 DTEND;TZID=America/Denver:20261229T210000
 SUMMARY:Wasatch HS — Boys wrestling @ Salem HIlls 
 DESCRIPTION:JV 5:00 \n\nVarsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-30-750-dkcalendar@combined
+UID:2026-12-30-767-dkcalendar@combined
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-30-751-dkcalendar@combined
+UID:2026-12-30-768-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261230T170000
 DTEND;TZID=America/Denver:20261230T183000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-30-752-dkcalendar@combined
+UID:2026-12-30-769-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261230T193000
 DTEND;TZID=America/Denver:20261230T210000
 SUMMARY:Heber Valley Railroad — North Pole Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-30-753-dkcalendar@combined
+UID:2026-12-30-770-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261230T153000
+DTEND;TZID=America/Denver:20261230T210000
+SUMMARY:Wasatch HS — Boys Basketball vs Payson
+DESCRIPTION:soph-5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-771-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261230T153000
+DTEND;TZID=America/Denver:20261230T170000
+SUMMARY:Wasatch HS — freshman boys basketball vs Payson
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-772-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261230T170000
 DTEND;TZID=America/Denver:20261230T210000
 SUMMARY:Wasatch HS — Boys wrestling @ Juab HS
 DESCRIPTION:JV 5:00 PM\n\nvarsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-31-754-dkcalendar@combined
+UID:2026-12-31-773-dkcalendar@combined
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-31-755-dkcalendar@combined
+UID:2026-12-31-774-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261231T213000
 DTEND;TZID=America/Denver:20261231T003000
 SUMMARY:Heber Valley Railroad — New Year's Eve Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-01-756-dkcalendar@combined
+UID:2027-01-01-775-dkcalendar@combined
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-01-757-dkcalendar@combined
+UID:2027-01-01-776-dkcalendar@combined
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Wasatch HS — Winter Break
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-04-758-dkcalendar@combined
+UID:2027-01-04-777-dkcalendar@combined
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Wasatch HS — Teacher Professional Development Day -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-05-759-dkcalendar@combined
+UID:2027-01-05-778-dkcalendar@combined
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Wasatch HS — Teacher Professional Development Day -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-06-760-dkcalendar@combined
+UID:2027-01-05-779-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270105T153000
+DTEND;TZID=America/Denver:20270105T173000
+SUMMARY:Wasatch HS — Freshman Boy Basketball @ Provo
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-780-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270105T170000
+DTEND;TZID=America/Denver:20270105T210000
+SUMMARY:Wasatch HS — Boys Wrestling Vs Layton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-781-dkcalendar@combined
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-07-761-dkcalendar@combined
+UID:2027-01-07-782-dkcalendar@combined
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-07-762-dkcalendar@combined
+UID:2027-01-07-783-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270107T170000
 DTEND;TZID=America/Denver:20270107T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-08-763-dkcalendar@combined
+UID:2027-01-08-784-dkcalendar@combined
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Wasatch HS — Boys Wrestling Rollie Lane Invitational
 DESCRIPTION:Rollie Lane @ Idaho Center
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-08-764-dkcalendar@combined
+UID:2027-01-08-785-dkcalendar@combined
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-09-765-dkcalendar@combined
+UID:2027-01-08-786-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270108T153000
+DTEND;TZID=America/Denver:20270108T210000
+SUMMARY:Wasatch HS — Boys Basketball vrs Mountain View
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-787-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270109T080000
+DTEND;TZID=America/Denver:20270109T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-788-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270109T203000
 DTEND;TZID=America/Denver:20270109T213000
 SUMMARY:Deer Creek HS — Winter Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-11-766-dkcalendar@combined
+UID:2027-01-11-789-dkcalendar@combined
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-12-767-dkcalendar@combined
+UID:2027-01-12-790-dkcalendar@combined
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-12-768-dkcalendar@combined
+UID:2027-01-12-791-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270112T153000
+DTEND;TZID=America/Denver:20270112T210000
+SUMMARY:Wasatch HS — Boys Basketball vs Summit Academy
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-792-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270112T153000
+DTEND;TZID=America/Denver:20270112T173000
+SUMMARY:Wasatch HS — Freshman Boys Basketball  Vs Summit Academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-793-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270112T170000
 DTEND;TZID=America/Denver:20270112T210000
 SUMMARY:Wasatch HS — Boys Wrestling @ Mnt View HS
 DESCRIPTION:JV 5:00 PM\n\nVarsity 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-13-769-dkcalendar@combined
+UID:2027-01-13-794-dkcalendar@combined
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-13-770-dkcalendar@combined
+UID:2027-01-13-795-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270113T110000
 DTEND;TZID=America/Denver:20270113T130000
 SUMMARY:Wasatch HS — Club Swarm @Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-14-771-dkcalendar@combined
+UID:2027-01-14-796-dkcalendar@combined
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-14-772-dkcalendar@combined
+UID:2027-01-14-797-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270114T170000
 DTEND;TZID=America/Denver:20270114T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-15-773-dkcalendar@combined
+UID:2027-01-15-798-dkcalendar@combined
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-15-774-dkcalendar@combined
+UID:2027-01-15-799-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270115T153000
+DTEND;TZID=America/Denver:20270115T173000
+SUMMARY:Wasatch HS — Freshman Boys Basketball vs Timpanogos
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-800-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270115T083000
 DTEND;TZID=America/Denver:20270115T170000
 SUMMARY:Wasatch HS — Boys Wrestling@ PIne View tournament
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-18-775-dkcalendar@combined
+UID:2027-01-16-801-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270116T080000
+DTEND;TZID=America/Denver:20270116T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-802-dkcalendar@combined
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Wasatch HS — Martin Luther King Jr. Day -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-19-776-dkcalendar@combined
+UID:2027-01-19-803-dkcalendar@combined
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-20-777-dkcalendar@combined
+UID:2027-01-19-804-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270119T153000
+DTEND;TZID=America/Denver:20270119T210000
+SUMMARY:Wasatch HS — Boys Basketball @Uintah
+DESCRIPTION:soph-5:15\n\nJv 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-805-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270119T153000
+DTEND;TZID=America/Denver:20270119T173000
+SUMMARY:Wasatch HS — Freshman boys basketball @ Uintah
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-806-dkcalendar@combined
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-20-778-dkcalendar@combined
+UID:2027-01-20-807-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270120T170000
 DTEND;TZID=America/Denver:20270120T210000
 SUMMARY:Wasatch HS — Boys Wrestling Vs Uintah
 DESCRIPTION:JV 5:00 \n\nVarsity 7:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-21-779-dkcalendar@combined
+UID:2027-01-21-808-dkcalendar@combined
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-21-780-dkcalendar@combined
+UID:2027-01-21-809-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270121T170000
 DTEND;TZID=America/Denver:20270121T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-22-781-dkcalendar@combined
+UID:2027-01-22-810-dkcalendar@combined
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Wasatch HS — Boys Wrestling Rockwell Rumble. @ Western Sports Park
 DESCRIPTION:Rockwell Rumble @ Western Sports Park
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-22-782-dkcalendar@combined
+UID:2027-01-22-811-dkcalendar@combined
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-24-783-dkcalendar@combined
+UID:2027-01-23-812-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270123T080000
+DTEND;TZID=America/Denver:20270123T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-813-dkcalendar@combined
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-25-784-dkcalendar@combined
+UID:2027-01-25-814-dkcalendar@combined
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-26-785-dkcalendar@combined
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-26-786-dkcalendar@combined
+UID:2027-01-26-815-dkcalendar@combined
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-28-787-dkcalendar@combined
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
+UID:2027-01-26-816-dkcalendar@combined
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-28-788-dkcalendar@combined
+UID:2027-01-26-817-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270126T153000
+DTEND;TZID=America/Denver:20270126T163000
+SUMMARY:Wasatch HS — Boys Basketball Vs Deer Creek
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-818-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270126T153000
+DTEND;TZID=America/Denver:20270126T173000
+SUMMARY:Wasatch HS — Freshman boys basketball Vs Deer Creek
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-819-dkcalendar@combined
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-28-789-dkcalendar@combined
+UID:2027-01-28-820-dkcalendar@combined
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Wasatch HS — Black Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-821-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270128T170000
 DTEND;TZID=America/Denver:20270128T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-01-790-dkcalendar@combined
+UID:2027-01-29-822-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270129T153000
+DTEND;TZID=America/Denver:20270129T210000
+SUMMARY:Wasatch HS — Boys Basketball vs Provo
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-823-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270129T153000
+DTEND;TZID=America/Denver:20270129T173000
+SUMMARY:Wasatch HS — freshman boys baskeball Vs Provo
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-824-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270130T080000
+DTEND;TZID=America/Denver:20270130T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-825-dkcalendar@combined
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-01-791-dkcalendar@combined
-DTSTART;VALUE=DATE:20270201
-DTEND;VALUE=DATE:20270202
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-01-792-dkcalendar@combined
-DTSTART;VALUE=DATE:20270201
-DTEND;VALUE=DATE:20270202
+UID:2027-02-02-826-dkcalendar@combined
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-03-793-dkcalendar@combined
+UID:2027-02-02-827-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270202T153000
+DTEND;TZID=America/Denver:20270202T210000
+SUMMARY:Wasatch HS — Boys Basketball @ Mountain View
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-828-dkcalendar@combined
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Wasatch HS — Boys Wrestling Divisionals @ Jordan HS
 DESCRIPTION:Divisionals @ Jordan HS
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-03-794-dkcalendar@combined
+UID:2027-02-03-829-dkcalendar@combined
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-03-795-dkcalendar@combined
-DTSTART;VALUE=DATE:20270203
-DTEND;VALUE=DATE:20270204
+UID:2027-02-04-830-dkcalendar@combined
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-04-796-dkcalendar@combined
+UID:2027-02-04-831-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270204T170000
 DTEND;TZID=America/Denver:20270204T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-05-797-dkcalendar@combined
+UID:2027-02-05-832-dkcalendar@combined
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-06-798-dkcalendar@combined
+UID:2027-02-05-833-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270205T150000
+DTEND;TZID=America/Denver:20270205T210000
+SUMMARY:Wasatch HS — Boys Basketball @ summit academy
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-834-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270205T153000
+DTEND;TZID=America/Denver:20270205T173000
+SUMMARY:Wasatch HS — Freshman Boys Basketball @Summit Academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-835-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270206T080000
+DTEND;TZID=America/Denver:20270206T100000
+SUMMARY:Deer Creek HS — Boys Basketball: Little Dribblers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-836-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270206T203000
 DTEND;TZID=America/Denver:20270206T230000
 SUMMARY:Deer Creek HS — Sweethearts Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-06-799-dkcalendar@combined
+UID:2027-02-06-837-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270206T213000
 DTEND;TZID=America/Denver:20270206T000000
 SUMMARY:Wasatch HS — Sweethearts Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-07-800-dkcalendar@combined
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-08-801-dkcalendar@combined
+UID:2027-02-08-838-dkcalendar@combined
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-09-802-dkcalendar@combined
+UID:2027-02-09-839-dkcalendar@combined
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-09-803-dkcalendar@combined
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-SUMMARY:Wasatch HS — Gold Day
+UID:2027-02-09-840-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270209T153000
+DTEND;TZID=America/Denver:20270209T173000
+SUMMARY:Wasatch HS — Freshman Boys Basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-09-804-dkcalendar@combined
+UID:2027-02-09-841-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270209T190000
 DTEND;TZID=America/Denver:20270209T201500
 SUMMARY:Wasatch HS — "Songs & Sweets" Choir Event
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-10-805-dkcalendar@combined
+UID:2027-02-10-842-dkcalendar@combined
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-843-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270210T190000
 DTEND;TZID=America/Denver:20270210T203000
 SUMMARY:Wasatch HS — Murder on the Orient Express (Winter Play)
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-11-806-dkcalendar@combined
+UID:2027-02-11-844-dkcalendar@combined
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-11-807-dkcalendar@combined
-DTSTART;VALUE=DATE:20270211
-DTEND;VALUE=DATE:20270212
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-11-808-dkcalendar@combined
+UID:2027-02-11-845-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270211T170000
 DTEND;TZID=America/Denver:20270211T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-11-809-dkcalendar@combined
+UID:2027-02-11-846-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270211T190000
 DTEND;TZID=America/Denver:20270211T213000
 SUMMARY:Wasatch HS — Murder on the Orient Express (Winter Play)
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-12-810-dkcalendar@combined
+UID:2027-02-12-847-dkcalendar@combined
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-848-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270212T153000
+DTEND;TZID=America/Denver:20270212T210000
+SUMMARY:Wasatch HS — Boys Basketball Vs Uintah
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-849-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270212T153000
+DTEND;TZID=America/Denver:20270212T173000
+SUMMARY:Wasatch HS — Freshman boys basketball Vs Uintah
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-850-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270212T190000
 DTEND;TZID=America/Denver:20270212T203000
 SUMMARY:Wasatch HS — Murder on the Orient Express (Winter Play) 
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-13-811-dkcalendar@combined
+UID:2027-02-13-851-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270213T190000
 DTEND;TZID=America/Denver:20270213T213000
 SUMMARY:Wasatch HS — Murder on the Orient Express (Winter Play) 
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-16-812-dkcalendar@combined
+UID:2027-02-16-852-dkcalendar@combined
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-16-813-dkcalendar@combined
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270217
+UID:2027-02-17-853-dkcalendar@combined
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-17-814-dkcalendar@combined
+UID:2027-02-17-854-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270217T120000
 DTEND;TZID=America/Denver:20270217T210000
 SUMMARY:Wasatch HS — Boys Wrestling State Championships @ UCCU
 DESCRIPTION:state tournament @ UCCU
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-17-815-dkcalendar@combined
+UID:2027-02-17-855-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270217T190000
 DTEND;TZID=America/Denver:20270217T201500
 SUMMARY:Wasatch HS — Wasatch District Orchestra Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-18-816-dkcalendar@combined
+UID:2027-02-18-856-dkcalendar@combined
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-18-817-dkcalendar@combined
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270219
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-18-818-dkcalendar@combined
+UID:2027-02-18-857-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270218T170000
 DTEND;TZID=America/Denver:20270218T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-18-819-dkcalendar@combined
+UID:2027-02-18-858-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270218T190000
 DTEND;TZID=America/Denver:20270218T203000
 SUMMARY:Wasatch HS — Wasatch District Band Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-18-820-dkcalendar@combined
+UID:2027-02-18-859-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270218T190000
 DTEND;TZID=America/Denver:20270218T200000
 SUMMARY:Deer Creek HS — District Orchestra Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-22-821-dkcalendar@combined
-DTSTART;VALUE=DATE:20270222
-DTEND;VALUE=DATE:20270223
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-22-822-dkcalendar@combined
-DTSTART;VALUE=DATE:20270222
-DTEND;VALUE=DATE:20270223
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-22-823-dkcalendar@combined
-DTSTART;VALUE=DATE:20270222
-DTEND;VALUE=DATE:20270223
+UID:2027-02-19-860-dkcalendar@combined
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-24-824-dkcalendar@combined
+UID:2027-02-19-861-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270219T153000
+DTEND;TZID=America/Denver:20270219T210000
+SUMMARY:Wasatch HS — Boys Basketball @ Deer Creek
+DESCRIPTION:soph 5:15\n\nJV 3:30\n\nVarsity 7:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-862-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270219T153000
+DTEND;TZID=America/Denver:20270219T163000
+SUMMARY:Wasatch HS — freshman boys basketball@ Deer Creek
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-863-dkcalendar@combined
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Wasatch HS — Black Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-864-dkcalendar@combined
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Wasatch HS — Black Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-865-dkcalendar@combined
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-866-dkcalendar@combined
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-24-825-dkcalendar@combined
-DTSTART;VALUE=DATE:20270224
-DTEND;VALUE=DATE:20270225
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-24-826-dkcalendar@combined
+UID:2027-02-24-867-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270224T120000
 DTEND;TZID=America/Denver:20270224T190000
 SUMMARY:Wasatch HS — Region Instrumental Solo & Ensemble Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-24-827-dkcalendar@combined
+UID:2027-02-24-868-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270224T160000
+DTEND;TZID=America/Denver:20270224T170000
+SUMMARY:Wasatch HS — Boys Basketball State Round 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-869-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270224T080000
 DTEND;TZID=America/Denver:20270224T090000
 SUMMARY:Deer Creek HS — Orchestra Instrumental S&E @ Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-25-828-dkcalendar@combined
+UID:2027-02-25-870-dkcalendar@combined
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-871-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270225T170000
 DTEND;TZID=America/Denver:20270225T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-26-829-dkcalendar@combined
+UID:2027-02-26-872-dkcalendar@combined
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-28-830-dkcalendar@combined
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:Wasatch HS — Gold Day
+UID:2027-02-26-873-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270226T113000
+DTEND;TZID=America/Denver:20270226T123000
+SUMMARY:Wasatch HS — Boys Basketball State Round 2 TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-01-831-dkcalendar@combined
+UID:2027-03-01-874-dkcalendar@combined
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-02-832-dkcalendar@combined
+UID:2027-03-01-875-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270301T113000
+DTEND;TZID=America/Denver:20270301T123000
+SUMMARY:Wasatch HS — Boys Basketball state Quarters
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-876-dkcalendar@combined
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-02-833-dkcalendar@combined
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270303
+UID:2027-03-02-877-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270302T113000
+DTEND;TZID=America/Denver:20270302T123000
+SUMMARY:Wasatch HS — Boys Basketball Semifinals @ UCCU
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-878-dkcalendar@combined
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-03-834-dkcalendar@combined
+UID:2027-03-03-879-dkcalendar@combined
+DTSTART;TZID=America/Denver:20270303T113000
+DTEND;TZID=America/Denver:20270303T123000
+SUMMARY:Wasatch HS — Boys Basketball state Championship @ UCCU
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-880-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270303T120000
 DTEND;TZID=America/Denver:20270303T190000
 SUMMARY:Wasatch HS — Region Jazz Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-03-835-dkcalendar@combined
+UID:2027-03-03-881-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270303T183000
 DTEND;TZID=America/Denver:20270303T203000
 SUMMARY:Wasatch HS — Issues Conference 
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-03-836-dkcalendar@combined
+UID:2027-03-03-882-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270303T080000
 DTEND;TZID=America/Denver:20270303T090000
 SUMMARY:Deer Creek HS — Jazz Band @ Timp
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-04-837-dkcalendar@combined
+UID:2027-03-04-883-dkcalendar@combined
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-04-838-dkcalendar@combined
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-04-839-dkcalendar@combined
+UID:2027-03-04-884-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270304T170000
 DTEND;TZID=America/Denver:20270304T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-04-840-dkcalendar@combined
+UID:2027-03-04-885-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270304T190000
 DTEND;TZID=America/Denver:20270304T203000
 SUMMARY:Wasatch HS — Choir Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-05-841-dkcalendar@combined
+UID:2027-03-05-886-dkcalendar@combined
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-887-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270305T180000
 DTEND;TZID=America/Denver:20270305T210000
 SUMMARY:Deer Creek HS — Drill Showcase
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-08-842-dkcalendar@combined
+UID:2027-03-08-888-dkcalendar@combined
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-08-843-dkcalendar@combined
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-08-844-dkcalendar@combined
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-08-845-dkcalendar@combined
+UID:2027-03-08-889-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270308T160000
 DTEND;TZID=America/Denver:20270308T190000
 SUMMARY:Deer Creek HS — Drill Try Outs
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-09-846-dkcalendar@combined
+UID:2027-03-09-890-dkcalendar@combined
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Wasatch HS — Gold Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-891-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270309T160000
 DTEND;TZID=America/Denver:20270309T190000
 SUMMARY:Deer Creek HS — Drill Try Outs
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-10-847-dkcalendar@combined
+UID:2027-03-10-892-dkcalendar@combined
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-10-848-dkcalendar@combined
+UID:2027-03-10-893-dkcalendar@combined
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Wasatch HS — End of Term 3
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-10-849-dkcalendar@combined
+UID:2027-03-10-894-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270310T130000
 DTEND;TZID=America/Denver:20270310T180000
 SUMMARY:Wasatch HS — Region Vocal Solo & Ensemble Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-10-850-dkcalendar@combined
+UID:2027-03-10-895-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270310T160000
 DTEND;TZID=America/Denver:20270310T190000
 SUMMARY:Deer Creek HS — Drill Try Outs
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-10-851-dkcalendar@combined
+UID:2027-03-10-896-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270310T080000
 DTEND;TZID=America/Denver:20270310T090000
 SUMMARY:Deer Creek HS — Vocal & Piano S&E @ Timpanogos
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-11-852-dkcalendar@combined
+UID:2027-03-11-897-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270311T170000
 DTEND;TZID=America/Denver:20270311T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-12-853-dkcalendar@combined
+UID:2027-03-12-898-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270312T120000
 DTEND;TZID=America/Denver:20270312T220000
 SUMMARY:Wasatch HS — Dance Co. Fundraiser - Step Up Dance Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-12-854-dkcalendar@combined
+UID:2027-03-12-899-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270312T120000
 DTEND;TZID=America/Denver:20270312T220000
 SUMMARY:Wasatch HS — Step-up Dance Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-13-855-dkcalendar@combined
+UID:2027-03-13-900-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270313T070000
 DTEND;TZID=America/Denver:20270313T220000
 SUMMARY:Wasatch HS — Step-up Dance Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-15-856-dkcalendar@combined
+UID:2027-03-15-901-dkcalendar@combined
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-15-857-dkcalendar@combined
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270316
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-16-858-dkcalendar@combined
+UID:2027-03-16-902-dkcalendar@combined
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-17-859-dkcalendar@combined
+UID:2027-03-17-903-dkcalendar@combined
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-17-860-dkcalendar@combined
+UID:2027-03-17-904-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270317T120000
 DTEND;TZID=America/Denver:20270317T180000
 SUMMARY:Wasatch HS — Region Orchestra Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-17-861-dkcalendar@combined
+UID:2027-03-17-905-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270317T080000
 DTEND;TZID=America/Denver:20270317T090000
 SUMMARY:Deer Creek HS — Orchestra Festival @ Mtn. View
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-18-862-dkcalendar@combined
+UID:2027-03-18-906-dkcalendar@combined
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-18-863-dkcalendar@combined
+UID:2027-03-18-907-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270318T170000
 DTEND;TZID=America/Denver:20270318T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-19-864-dkcalendar@combined
+UID:2027-03-19-908-dkcalendar@combined
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-22-865-dkcalendar@combined
+UID:2027-03-22-909-dkcalendar@combined
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-22-866-dkcalendar@combined
+UID:2027-03-22-910-dkcalendar@combined
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-22-867-dkcalendar@combined
+UID:2027-03-22-911-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270322T070000
 DTEND;TZID=America/Denver:20270322T074500
 SUMMARY:Deer Creek HS — Promenade Practice
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-23-868-dkcalendar@combined
+UID:2027-03-23-912-dkcalendar@combined
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-23-869-dkcalendar@combined
+UID:2027-03-23-913-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270323T070000
 DTEND;TZID=America/Denver:20270323T074500
 SUMMARY:Deer Creek HS — Promenade Practice
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-24-870-dkcalendar@combined
+UID:2027-03-24-914-dkcalendar@combined
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-24-871-dkcalendar@combined
+UID:2027-03-24-915-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270324T070000
 DTEND;TZID=America/Denver:20270324T074500
 SUMMARY:Deer Creek HS — Promenade Practice-Mandatory
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-24-872-dkcalendar@combined
+UID:2027-03-24-916-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270324T080000
 DTEND;TZID=America/Denver:20270324T090000
 SUMMARY:Deer Creek HS — Concert Band Festival @ Uintah
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-24-873-dkcalendar@combined
+UID:2027-03-24-917-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270324T090000
 DTEND;TZID=America/Denver:20270324T210000
 SUMMARY:Wasatch HS — Region Band Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-25-874-dkcalendar@combined
+UID:2027-03-25-918-dkcalendar@combined
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Wasatch HS — Region Theatre Competition-One Act
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-25-875-dkcalendar@combined
+UID:2027-03-25-919-dkcalendar@combined
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-25-876-dkcalendar@combined
+UID:2027-03-25-920-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270325T170000
 DTEND;TZID=America/Denver:20270325T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-25-877-dkcalendar@combined
+UID:2027-03-25-921-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270325T070000
 DTEND;TZID=America/Denver:20270325T074500
 SUMMARY:Deer Creek HS — Promenade Practice-Mandatory
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-26-878-dkcalendar@combined
+UID:2027-03-26-922-dkcalendar@combined
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Wasatch HS — NUES Region Sterling Scholar Competition
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-26-879-dkcalendar@combined
+UID:2027-03-26-923-dkcalendar@combined
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-26-880-dkcalendar@combined
+UID:2027-03-26-924-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270326T070000
 DTEND;TZID=America/Denver:20270326T074500
 SUMMARY:Deer Creek HS — Promenade Practice-Mandatory
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-27-881-dkcalendar@combined
+UID:2027-03-27-925-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270327T203000
 DTEND;TZID=America/Denver:20270327T230000
 SUMMARY:Deer Creek HS — Prom
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-29-882-dkcalendar@combined
+UID:2027-03-29-926-dkcalendar@combined
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-29-883-dkcalendar@combined
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-30-884-dkcalendar@combined
+UID:2027-03-30-927-dkcalendar@combined
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-31-885-dkcalendar@combined
+UID:2027-03-31-928-dkcalendar@combined
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-31-886-dkcalendar@combined
+UID:2027-03-31-929-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270331T130000
 DTEND;TZID=America/Denver:20270331T200000
 SUMMARY:Wasatch HS — Region Large Choir Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-31-887-dkcalendar@combined
+UID:2027-03-31-930-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270331T190000
 DTEND;TZID=America/Denver:20270331T220000
 SUMMARY:Deer Creek HS — Dance Company Show
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-03-31-888-dkcalendar@combined
+UID:2027-03-31-931-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270331T080000
 DTEND;TZID=America/Denver:20270331T090000
 SUMMARY:Deer Creek HS — Large Choir @ Mountain View
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-01-889-dkcalendar@combined
+UID:2027-04-01-932-dkcalendar@combined
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-01-890-dkcalendar@combined
+UID:2027-04-01-933-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270401T190000
 DTEND;TZID=America/Denver:20270401T220000
 SUMMARY:Deer Creek HS — Dance Company Show
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-02-891-dkcalendar@combined
+UID:2027-04-02-934-dkcalendar@combined
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-05-892-dkcalendar@combined
+UID:2027-04-05-935-dkcalendar@combined
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:Wasatch HS — Spring Break -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-06-893-dkcalendar@combined
+UID:2027-04-06-936-dkcalendar@combined
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Wasatch HS — Spring Break -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-07-894-dkcalendar@combined
+UID:2027-04-07-937-dkcalendar@combined
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Wasatch HS — Spring Break -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-08-895-dkcalendar@combined
+UID:2027-04-08-938-dkcalendar@combined
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:Wasatch HS — Spring Break -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-08-896-dkcalendar@combined
+UID:2027-04-08-939-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270408T170000
 DTEND;TZID=America/Denver:20270408T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-09-897-dkcalendar@combined
+UID:2027-04-09-940-dkcalendar@combined
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Wasatch HS — Spring Break -- No School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-12-898-dkcalendar@combined
+UID:2027-04-12-941-dkcalendar@combined
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-12-899-dkcalendar@combined
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270413
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-04-13-900-dkcalendar@combined
+UID:2027-04-13-942-dkcalendar@combined
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-14-901-dkcalendar@combined
+UID:2027-04-14-943-dkcalendar@combined
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-14-902-dkcalendar@combined
+UID:2027-04-14-944-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270414T130000
 DTEND;TZID=America/Denver:20270414T170000
 SUMMARY:Wasatch HS — Region Training Choir Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-14-903-dkcalendar@combined
+UID:2027-04-14-945-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270414T080000
 DTEND;TZID=America/Denver:20270414T090000
 SUMMARY:Deer Creek HS — Training Choir Festival @ Provo
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-15-904-dkcalendar@combined
+UID:2027-04-15-946-dkcalendar@combined
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Wasatch HS — State Theatre Competition - One Acts
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-15-905-dkcalendar@combined
+UID:2027-04-15-947-dkcalendar@combined
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-15-906-dkcalendar@combined
+UID:2027-04-15-948-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270415T170000
 DTEND;TZID=America/Denver:20270415T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-16-907-dkcalendar@combined
+UID:2027-04-16-949-dkcalendar@combined
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Wasatch HS — State Theatre Competition - One Acts
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-16-908-dkcalendar@combined
+UID:2027-04-16-950-dkcalendar@combined
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-17-909-dkcalendar@combined
+UID:2027-04-17-951-dkcalendar@combined
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Wasatch HS — State Theatre Competition - Individual Events
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-17-910-dkcalendar@combined
+UID:2027-04-17-952-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270417T180000
 DTEND;TZID=America/Denver:20270417T193000
 SUMMARY:Wasatch HS — Promenade
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-17-911-dkcalendar@combined
+UID:2027-04-17-953-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270417T203000
 DTEND;TZID=America/Denver:20270417T230000
 SUMMARY:Wasatch HS — Junior Prom Dance
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-19-912-dkcalendar@combined
+UID:2027-04-19-954-dkcalendar@combined
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-19-913-dkcalendar@combined
-DTSTART;VALUE=DATE:20270419
-DTEND;VALUE=DATE:20270420
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-04-20-914-dkcalendar@combined
+UID:2027-04-20-955-dkcalendar@combined
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-21-915-dkcalendar@combined
+UID:2027-04-21-956-dkcalendar@combined
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-22-916-dkcalendar@combined
+UID:2027-04-22-957-dkcalendar@combined
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-22-917-dkcalendar@combined
+UID:2027-04-22-958-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270422T170000
 DTEND;TZID=America/Denver:20270422T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-23-918-dkcalendar@combined
+UID:2027-04-23-959-dkcalendar@combined
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-23-919-dkcalendar@combined
+UID:2027-04-23-960-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270423T190000
 DTEND;TZID=America/Denver:20270423T203000
 SUMMARY:Wasatch HS — Tuck Everlasting (Spring Musical) 
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-23-920-dkcalendar@combined
+UID:2027-04-23-961-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270423T190000
 DTEND;TZID=America/Denver:20270423T220000
 SUMMARY:Deer Creek HS — Spring Musical TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-24-921-dkcalendar@combined
+UID:2027-04-24-962-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270424T190000
 DTEND;TZID=America/Denver:20270424T203000
 SUMMARY:Wasatch HS — Tuck Everlasting (Spring Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-24-922-dkcalendar@combined
+UID:2027-04-24-963-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270424T190000
 DTEND;TZID=America/Denver:20270424T220000
 SUMMARY:Deer Creek HS — Spring Musical TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-26-923-dkcalendar@combined
+UID:2027-04-26-964-dkcalendar@combined
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-26-924-dkcalendar@combined
-DTSTART;VALUE=DATE:20270426
-DTEND;VALUE=DATE:20270427
-SUMMARY:Wasatch HS — Black Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-04-26-925-dkcalendar@combined
+UID:2027-04-26-965-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270426T190000
 DTEND;TZID=America/Denver:20270426T203000
 SUMMARY:Wasatch HS — Tuck Everlasting (Spring Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-27-926-dkcalendar@combined
+UID:2027-04-27-966-dkcalendar@combined
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-28-927-dkcalendar@combined
+UID:2027-04-28-967-dkcalendar@combined
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-28-928-dkcalendar@combined
+UID:2027-04-28-968-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270428T190000
 DTEND;TZID=America/Denver:20270428T203000
 SUMMARY:Wasatch HS — Tuck Everlasting (Spring Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-29-929-dkcalendar@combined
+UID:2027-04-29-969-dkcalendar@combined
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-29-930-dkcalendar@combined
+UID:2027-04-29-970-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270429T170000
 DTEND;TZID=America/Denver:20270429T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-30-931-dkcalendar@combined
+UID:2027-04-30-971-dkcalendar@combined
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-30-932-dkcalendar@combined
+UID:2027-04-30-972-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270430T190000
 DTEND;TZID=America/Denver:20270430T213000
 SUMMARY:Wasatch HS — Tuck Everlasting (Spring Musical)
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-01-933-dkcalendar@combined
+UID:2027-05-01-973-dkcalendar@combined
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Wasatch HS — State Solo & Ensemble Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-01-934-dkcalendar@combined
+UID:2027-05-01-974-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270501T070000
 DTEND;TZID=America/Denver:20270501T131500
 SUMMARY:Wasatch HS — PEAK 5K
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-03-935-dkcalendar@combined
+UID:2027-05-03-975-dkcalendar@combined
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 SUMMARY:Wasatch HS — State Orchestra Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-03-936-dkcalendar@combined
+UID:2027-05-03-976-dkcalendar@combined
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-03-937-dkcalendar@combined
-DTSTART;VALUE=DATE:20270503
-DTEND;VALUE=DATE:20270504
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-05-03-938-dkcalendar@combined
+UID:2027-05-03-977-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270503T170000
 DTEND;TZID=America/Denver:20270503T210000
 SUMMARY:Wasatch HS — Rotary Honors Night
 DESCRIPTION:The event will be at 7pm.
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-04-939-dkcalendar@combined
+UID:2027-05-04-978-dkcalendar@combined
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:Wasatch HS — State Orchestra Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-04-940-dkcalendar@combined
+UID:2027-05-04-979-dkcalendar@combined
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-05-941-dkcalendar@combined
+UID:2027-05-05-980-dkcalendar@combined
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Wasatch HS — State Orchestra Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-05-942-dkcalendar@combined
+UID:2027-05-05-981-dkcalendar@combined
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-06-943-dkcalendar@combined
+UID:2027-05-06-982-dkcalendar@combined
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Wasatch HS — State Band Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-06-944-dkcalendar@combined
+UID:2027-05-06-983-dkcalendar@combined
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-06-945-dkcalendar@combined
+UID:2027-05-06-984-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270506T170000
 DTEND;TZID=America/Denver:20270506T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-07-946-dkcalendar@combined
+UID:2027-05-07-985-dkcalendar@combined
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Wasatch HS — State Band Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-07-947-dkcalendar@combined
+UID:2027-05-07-986-dkcalendar@combined
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-08-948-dkcalendar@combined
+UID:2027-05-08-987-dkcalendar@combined
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Wasatch HS — State Band Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-10-949-dkcalendar@combined
+UID:2027-05-10-988-dkcalendar@combined
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-10-950-dkcalendar@combined
+UID:2027-05-10-989-dkcalendar@combined
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-11-951-dkcalendar@combined
+UID:2027-05-11-990-dkcalendar@combined
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-11-952-dkcalendar@combined
+UID:2027-05-11-991-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270511T190000
 DTEND;TZID=America/Denver:20270511T203000
 SUMMARY:Wasatch HS — Orchestra Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-12-953-dkcalendar@combined
+UID:2027-05-12-992-dkcalendar@combined
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-12-954-dkcalendar@combined
+UID:2027-05-12-993-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270512T190000
 DTEND;TZID=America/Denver:20270512T213000
 SUMMARY:Deer Creek HS — Performing Arts Gala
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-13-955-dkcalendar@combined
+UID:2027-05-13-994-dkcalendar@combined
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Wasatch HS — State Choir Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-13-956-dkcalendar@combined
+UID:2027-05-13-995-dkcalendar@combined
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-13-957-dkcalendar@combined
+UID:2027-05-13-996-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270513T170000
 DTEND;TZID=America/Denver:20270513T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-13-958-dkcalendar@combined
+UID:2027-05-13-997-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270513T190000
 DTEND;TZID=America/Denver:20270513T201500
 SUMMARY:Wasatch HS — Choir Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-14-959-dkcalendar@combined
+UID:2027-05-14-998-dkcalendar@combined
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Wasatch HS — State Choir Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-14-960-dkcalendar@combined
+UID:2027-05-14-999-dkcalendar@combined
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-15-961-dkcalendar@combined
+UID:2027-05-15-1000-dkcalendar@combined
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Wasatch HS — State Choir Festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-17-962-dkcalendar@combined
+UID:2027-05-17-1001-dkcalendar@combined
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-17-963-dkcalendar@combined
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270518
-SUMMARY:Wasatch HS — Gold Day
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-05-18-964-dkcalendar@combined
+UID:2027-05-18-1002-dkcalendar@combined
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-18-965-dkcalendar@combined
+UID:2027-05-18-1003-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270518T190000
 DTEND;TZID=America/Denver:20270518T203000
 SUMMARY:Wasatch HS — Band Concert
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-19-966-dkcalendar@combined
+UID:2027-05-19-1004-dkcalendar@combined
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-19-967-dkcalendar@combined
+UID:2027-05-19-1005-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270519T183000
 DTEND;TZID=America/Denver:20270519T200000
 SUMMARY:Wasatch HS — Theatre Recognition Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-20-968-dkcalendar@combined
+UID:2027-05-20-1006-dkcalendar@combined
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-20-969-dkcalendar@combined
+UID:2027-05-20-1007-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270520T170000
 DTEND;TZID=America/Denver:20270520T183000
 SUMMARY:Wasatch HS — Math Tutoring
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-21-970-dkcalendar@combined
+UID:2027-05-21-1008-dkcalendar@combined
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-24-971-dkcalendar@combined
+UID:2027-05-24-1009-dkcalendar@combined
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-24-972-dkcalendar@combined
+UID:2027-05-24-1010-dkcalendar@combined
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-25-973-dkcalendar@combined
+UID:2027-05-25-1011-dkcalendar@combined
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-26-974-dkcalendar@combined
+UID:2027-05-26-1012-dkcalendar@combined
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-27-975-dkcalendar@combined
+UID:2027-05-27-1013-dkcalendar@combined
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-27-976-dkcalendar@combined
+UID:2027-05-27-1014-dkcalendar@combined
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Wasatch HS — Last Day of School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-28-977-dkcalendar@combined
+UID:2027-06-28-1015-dkcalendar@combined
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-29-978-dkcalendar@combined
+UID:2027-06-29-1016-dkcalendar@combined
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-30-979-dkcalendar@combined
+UID:2027-06-30-1017-dkcalendar@combined
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Wasatch HS — All Sports Moratorium
