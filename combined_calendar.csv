@@ -229,8 +229,6 @@ Mountain View 8 am Shotgun"
 2026-09-02,6:00 PM,7:45 PM,Deer Creek HS,Frosh Football @ Wasatch,
 2026-09-03,,,Wasatch HS,Gold Day,
 2026-09-03,,,Deer Creek HS,WBL- Bringhurst,
-2026-09-03,01:00 PM,02:30 PM,Heber Valley Railroad,Deer Creek Express,
-2026-09-03,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2026-09-03,3:00 PM,7:00 PM,Deer Creek HS,Girls Soccer @ Uintah,V @ 5pm
 2026-09-03,3:30 PM,6:30 PM,Wasatch HS,Girls Tennis VS MVHS,
 2026-09-03,3:30 PM,8:00 PM,Wasatch HS,Girls Volleyball @Mountain View,"Fresh 5:00
@@ -275,7 +273,7 @@ JV 5:00 PM
 2026-09-09,,,Wasatch HS,Black Day,
 2026-09-09,01:00 PM,02:30 PM,Heber Valley Railroad,Deer Creek Express,
 2026-09-09,3:00 PM,6:00 PM,Wasatch HS,JV Boys Golf @ cedar hills,JV vrs Lone Peak @ Cedar Hills G.C.
-2026-09-09,3:00 PM,4:00 PM,Wasatch HS,Tennis vrs Timpanogas High School,
+2026-09-09,3:00 PM,4:00 PM,Wasatch HS,Tennis vs Timpanogas High School,
 2026-09-09,3:30 PM,6:15 PM,Deer Creek HS,Girls Tennis,
 2026-09-09,4:30 PM,5:30 PM,Deer Creek HS,Frosh Soccer @ Salt Lake Academy,
 2026-09-09,6:00 PM,8:00 PM,Wasatch HS,Football ( Fresh) @ Timpanogos,Freshman Football
@@ -325,6 +323,9 @@ JV 5:00 Pm"
 2026-09-14,2:00 PM,10:00 PM,Wasatch HS,Wasatch FFA at the Utah State Fair,"Wasatch FFA members will be hosting guests at the ""Little Hands on the Farm"" exhibit at the Utah State Fair from 2 til 10 PM."
 2026-09-15,,,Wasatch HS,Black Day,
 2026-09-15,3:30 PM,4:30 PM,Wasatch HS,Girls Tennis vs Uintah,
+2026-09-15,3:30 PM,8:00 PM,Wasatch HS,Girls Volleyball vs Summit,"Soph 3:30 Nest
+JV 5:00 Nest
+Varsity 6:30 Nest"
 2026-09-15,3:30 PM,8:30 PM,Deer Creek HS,Girls Volleyball vs. Orem,
 2026-09-15,4:00 PM,5:00 PM,Wasatch HS,Mini Cheer,
 2026-09-15,5:00 PM,7:00 PM,Wasatch HS,JV Girls Soccer vrs Mountain View,
@@ -435,7 +436,6 @@ Varsity 6:30"
 2026-09-24,5:00 PM,9:00 PM,Wasatch HS, Jv Girls soccer vrs Uintah,"Varsity 7:00 Stadium
 JV 500 Quad
 versus Uintah"
-2026-09-24,6:00 PM,8:00 PM,Wasatch HS,SIS/Canvas training for parents that speak Spanish,
 2026-09-24,7:00 PM,9:00 PM,Wasatch HS,Varsity Girls Soccer vrs Uintah,varsity girls soccer vrs Uintah
 2026-09-25,,,Wasatch HS,Girls volleyball tournament @ Corner Canyon Classic,JV and Sophomore Tournament @ Corner canyon classic
 2026-09-25,,,Wasatch HS,Black Day,
@@ -533,7 +533,6 @@ JV 5:00 PM Quad"
 2026-10-05,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2026-10-05,07:00 PM,08:30 PM,Heber Valley Railroad,Witches' Night Out - A Halloween Party Train,
 2026-10-05,07:00 PM,08:30 PM,Heber Valley Railroad,The Halloween Express,
-2026-10-05,2:30 PM,3:30 PM,Deer Creek HS,District Speech PLC,
 2026-10-05,5:00 PM,6:15 PM,Deer Creek HS,Soph Soccer vs. Fresh Soccer,
 2026-10-05,8:00 AM,9:00 AM,Deer Creek HS,Health Department Flu Shot Clinic ,The Wasatch County Health Department will be providing flu shots for teachers and students
 2026-10-06,,,Wasatch HS,Gold Day,
@@ -629,6 +628,7 @@ Varsity 7:00"
 JV 5:00
 Varsity 6:30"
 2026-10-20,3:30 PM,8:30 PM,Deer Creek HS,Girls Volleyball vs. Uintah,
+2026-10-20,6:00 PM,8:00 PM,Wasatch HS,SIS/Canvas training for parents that speak Spanish,
 2026-10-21,,,Wasatch HS,FFA Nationals - Indianapolis,
 2026-10-21,,,Wasatch HS,Gold Day,
 2026-10-22,,,Wasatch HS,FFA Nationals - Indianapolis,
@@ -698,6 +698,7 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-10-31,01:00 PM,02:30 PM,Heber Valley Railroad,Deer Creek Express,
 2026-10-31,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2026-11-02,,,Wasatch HS,Gold Day,
+2026-11-02,2:30 PM,3:45 PM,Deer Creek HS,District Speech PLC,
 2026-11-02,3:00 PM,5:30 PM,Deer Creek HS,DC girls basketball,
 2026-11-03,,,Wasatch HS,Black Day,
 2026-11-03,3:00 PM,5:30 PM,Deer Creek HS,DC girls basketball,
@@ -705,6 +706,7 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-11-04,,,Wasatch HS,Gold Day,
 2026-11-04,,,Deer Creek HS,Student Government Leadership Trip,
 2026-11-04,3:00 PM,5:30 PM,Deer Creek HS,DC girls basketball,
+2026-11-04,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-05,,,Wasatch HS,Black Day,
 2026-11-05,,,Deer Creek HS,WBL- Bringhurst,
 2026-11-05,3:00 PM,5:30 PM,Deer Creek HS,DC girls basketball,
@@ -714,6 +716,7 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-11-06,,,Wasatch HS,Gold Day,
 2026-11-06,,,Deer Creek HS,WBL- Bringhurst,
 2026-11-06,3:00 PM,5:30 PM,Deer Creek HS,DC girls basketball,
+2026-11-06,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-07,11:00 AM,12:00 PM,Wasatch HS,swimming @ Deer Creek,Wasatch Kickoff Invite
 2026-11-07,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
 2026-11-07,8:30 PM,11:00 PM,Wasatch HS,Sadie Hawkins Dance,
@@ -721,12 +724,14 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-11-10,,,Wasatch HS,Gold Day,
 2026-11-11,,,Wasatch HS,Black Day,
 2026-11-11,3:45 PM,4:45 PM,Wasatch HS,Swimming vs Lone Peak & Brighton,Lone Peak & Brighton @ wasatch
+2026-11-11,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-11,7:00 PM,9:30 PM,Wasatch HS,"Hello, Dolly! (Fall Musical)",
 2026-11-12,,,Wasatch HS,Gold Day,
 2026-11-12,,,Deer Creek HS,WBL- Bringhurst,
 2026-11-12,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
 2026-11-13,,,Wasatch HS,Black Day,
 2026-11-13,,,Deer Creek HS,WBL- Bringhurst,
+2026-11-13,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-13,7:00 PM,10:00 PM,Deer Creek HS,Pirates of Penzance,
 2026-11-14,7:00 PM,9:30 PM,Wasatch HS,Hello Dolly (Fall Musical),
 2026-11-14,7:00 PM,10:00 PM,Deer Creek HS,Pirates of Penzance,
@@ -737,6 +742,7 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-11-17,3:30 PM,9:00 PM,Wasatch HS,Girls Basketball @ Corner Canyon,
 2026-11-18,,,Wasatch HS,Gold Day,
 2026-11-18,3:30 PM,5:30 PM,Wasatch HS,swimming @ Corner Canyon & westlake,swimming @ Corner canyon & westlake
+2026-11-18,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-18,7:00 PM,10:00 PM,Deer Creek HS,Pirates of Penzance,
 2026-11-19,,,Wasatch HS,Black Day,
 2026-11-19,,,Deer Creek HS,WBL- Bringhurst,
@@ -747,6 +753,7 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-11-20,,,Deer Creek HS,WBL- Bringhurst,
 2026-11-20,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-20,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
+2026-11-20,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-20,7:00 PM,9:30 PM,Wasatch HS,Hello Dolly (Fall Musical),
 2026-11-20,7:00 PM,10:00 PM,Deer Creek HS,Pirates of Penzance,
 2026-11-21,02:00 PM,03:30 PM,Heber Valley Railroad,North Pole Express,
@@ -755,6 +762,7 @@ Juniors will go to the nest.  They don't need excused from class early, they wil
 2026-11-21,11:30 AM,01:00 PM,Heber Valley Railroad,North Pole Express,
 2026-11-21,2:00 PM,4:30 PM,Wasatch HS,Hello Dolly (Fall Musical) - Matinee,
 2026-11-21,7:00 PM,10:00 PM,Deer Creek HS,Pirates of Penzance,
+2026-11-21,8:00 AM,9:00 AM,Wasatch HS,swimming Wasatch Back Thanksgiving Invitational,Wasatch Back Thanksgiving Invitational
 2026-11-23,,,Wasatch HS,Black Day,
 2026-11-23,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-23,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
@@ -772,6 +780,7 @@ Varsity 7:00
 2026-11-25,,,Wasatch HS,Thanksgiving Break,
 2026-11-25,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-25,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
+2026-11-25,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-26,,,Wasatch HS,All Sports Moratorium,
 2026-11-26,,,Wasatch HS,Thanksgiving Break,
 2026-11-26,,,Deer Creek HS,WBL- Bringhurst,
@@ -782,21 +791,21 @@ Varsity 7:00
 2026-11-27,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-27,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-11-27,11:30 AM,01:00 PM,Heber Valley Railroad,North Pole Express,
+2026-11-27,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-11-28,,,Wasatch HS,All Sports Moratorium,
 2026-11-28,02:00 PM,03:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-28,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-28,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-11-28,11:30 AM,01:00 PM,Heber Valley Railroad,North Pole Express,
 2026-11-29,,,Wasatch HS,All Sports Moratorium,
-2026-11-30,,,Wasatch HS,The Forgotten Carols,
 2026-11-30,,,Wasatch HS,Black Day,
 2026-11-30,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-11-30,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-01,,,Wasatch HS,Gold Day,
 2026-12-01,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-01,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
-2026-12-01,3:00 PM,8:00 PM,Wasatch HS,Girls Basketball vs. Cedar Valley,
 2026-12-01,3:30 PM,5:00 PM,Wasatch HS,Boys Basketball freshman vs Maple Mountain,freshman boys bb vrs Maple mountain
+2026-12-01,3:30 PM,9:15 PM,Wasatch HS,Girls Basketball vs. Cedar Valley,
 2026-12-02,,,Wasatch HS,WHS Choirs @ Temple Square,
 2026-12-02,,,Wasatch HS,Black Day,
 2026-12-02,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -806,6 +815,7 @@ Varsity 7:00
 JV 5:00
 
 Varsity 7:00 PM"
+2026-12-02,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-03,,,Wasatch HS,Gold Day,
 2026-12-03,,,Deer Creek HS,WBL- Bringhurst,
 2026-12-03,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -826,7 +836,13 @@ Varsity 7:00 PM"
 2026-12-04,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-04,2:30 PM,9:00 PM,Wasatch HS,Boys Wrestling @ Layton Invitational,tournament @ Layton High School
 2026-12-04,3:00 PM,9:00 PM,Wasatch HS,Set up for Robotics Comp,
+2026-12-04,3:30 PM,9:00 PM,Wasatch HS,Boys Basketball vs Park City,"Varsity 7:00 PM
+
+JV 3:30
+
+Soph 5:15"
 2026-12-04,3:30 PM,5:00 PM,Wasatch HS,Freshman Basketball @ Park City,
+2026-12-04,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-05,02:00 PM,03:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-05,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-05,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
@@ -851,6 +867,7 @@ Varsity 7:00"
 2026-12-09,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-09,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-09,5:30 PM,8:30 PM,Wasatch HS,Girls Wrestling @ Provo w/Summit,
+2026-12-09,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-10,,,Wasatch HS,Black Day,
 2026-12-10,,,Deer Creek HS,WBL- Bringhurst,
 2026-12-10,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -865,6 +882,7 @@ Varsity 7:00 PM"
 2026-12-11,,,Deer Creek HS,WBL- Bringhurst,
 2026-12-11,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-11,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
+2026-12-11,10:00 AM,4:00 PM,Wasatch HS,Swimming Wasatch Winter Invitational,Wasatch Winter Invitational
 2026-12-11,2:00 PM,9:00 PM,Wasatch HS,Boys Wrestling tournament,Wasatch Intermountain Duals
 2026-12-11,3:30 PM,9:30 PM,Wasatch HS,Boys Basketball @ salem Hills,"soph- 5:15
 
@@ -872,6 +890,7 @@ JV 3:30
 
 Varsity 7:00"
 2026-12-11,3:30 PM,5:00 PM,Wasatch HS,Freshman Boys Basketball @ Salem Hills,
+2026-12-11,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-12,,,Wasatch HS,Intermountain Duals,
 2026-12-12,02:00 PM,03:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-12,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -886,6 +905,7 @@ Varsity 7:00"
 2026-12-15,,,Wasatch HS,Gold Day,
 2026-12-15,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-15,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
+2026-12-15,3:00 PM,6:00 PM,Wasatch HS,swimming vs Skyridge,
 2026-12-15,7:00 PM,8:00 PM,Wasatch HS,CAPS Showcase,
 2026-12-15,7:00 PM,8:00 PM,Wasatch HS,Orchestra Concert,
 2026-12-15,7:00 PM,8:00 PM,Deer Creek HS,Choir Concert,
@@ -894,6 +914,7 @@ Varsity 7:00"
 2026-12-16,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-16,10:00 AM,1:00 PM,Wasatch HS,Christmas Party (Class and Lunch),
 2026-12-16,5:30 PM,8:30 PM,Wasatch HS,Girls wrestling vs MVHS and Timpanogos,
+2026-12-16,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-17,,,Wasatch HS,Gold Day,
 2026-12-17,,,Deer Creek HS,WBL- Bringhurst,
 2026-12-17,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -907,6 +928,7 @@ Varsity 7:00"
 2026-12-18,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-18,11:00 AM,1:00 PM,Wasatch HS,Winter Assembly (Reyonlds),
 2026-12-18,1:00 PM,9:00 PM,Wasatch HS,Boys Wrestling Christmas Clash,
+2026-12-18,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-19,,,Wasatch HS,Boys Basketball Tournament @ Las Vegas Tarkanian Classic,
 2026-12-19,,,Wasatch HS,Boys Wrestling Christmas Clash,Christmas Clash tournament @ Western Sports Park
 2026-12-19,02:00 PM,03:30 PM,Heber Valley Railroad,North Pole Express,
@@ -934,12 +956,14 @@ Varsity 7:00"
 2026-12-23,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-23,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-23,11:30 AM,01:00 PM,Heber Valley Railroad,North Pole Express,
+2026-12-23,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-24,,,Wasatch HS,All Sports Moratorium,
 2026-12-24,,,Wasatch HS,Winter Break,
 2026-12-24,,,Deer Creek HS,WBL- Bringhurst,
 2026-12-25,,,Wasatch HS,All Sports Moratorium,
 2026-12-25,,,Wasatch HS,Winter Break,
 2026-12-25,,,Deer Creek HS,WBL- Bringhurst,
+2026-12-25,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-26,,,Wasatch HS,Winter Break,
 2026-12-26,02:00 PM,03:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-26,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -967,12 +991,14 @@ Varsity 7:00"
 2026-12-30,5:00 PM,9:00 PM,Wasatch HS,Boys wrestling @ Juab HS,"JV 5:00 PM
 
 varsity 7:00 PM"
+2026-12-30,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2026-12-31,,,Wasatch HS,Winter Break,
 2026-12-31,,,Deer Creek HS,WBL- Bringhurst,
 2026-12-31,09:30 PM,12:30 AM,Heber Valley Railroad,New Year's Eve Train,
 2027-01-01,,,Wasatch HS,All Sports Moratorium,
 2027-01-01,,,Wasatch HS,Winter Break,
 2027-01-01,,,Deer Creek HS,WBL- Bringhurst,
+2027-01-01,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-04,,,Wasatch HS,Teacher Professional Development Day -- No School,
 2027-01-05,,,Wasatch HS,Teacher Professional Development Day -- No School,
 2027-01-05,3:30 PM,9:00 PM,Wasatch HS,Boys Basketball @ Provo,"Varsity 7:00
@@ -984,6 +1010,7 @@ Sophomore 5:15"
 2027-01-05,5:00 PM,9:00 PM,Wasatch HS,Boys Wrestling Vs Layton,
 2027-01-06,,,Wasatch HS,Gold Day,
 2027-01-06,5:30 PM,8:30 PM,Wasatch HS,Girls wrestling Vs Deer Creek & Orem,
+2027-01-06,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-07,,,Wasatch HS,swimming St George Invitational @ Utah Tech,St. George Invitational
 2027-01-07,,,Wasatch HS,Black Day,
 2027-01-07,,,Deer Creek HS,WBL- Bringhurst,
@@ -996,6 +1023,7 @@ Sophomore 5:15"
 JV 3:30
 
 Varsity 7:00"
+2027-01-08,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-09,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
 2027-01-09,8:30 PM,9:30 PM,Deer Creek HS,Winter Dance,
 2027-01-11,,,Wasatch HS,Black Day,
@@ -1012,6 +1040,7 @@ Varsity 7:00 PM"
 2027-01-13,,,Wasatch HS,Black Day,
 2027-01-13,11:00 AM,1:00 PM,Wasatch HS,Club Swarm @Lunch,
 2027-01-13,5:30 PM,8:30 PM,Wasatch HS,Girls Wrestling @ Uintah,
+2027-01-13,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-14,,,Wasatch HS,Gold Day,
 2027-01-14,,,Deer Creek HS,WBL- Bringhurst,
 2027-01-14,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
@@ -1023,6 +1052,7 @@ JV 3:30
 
 Sophomore 5:15"
 2027-01-15,3:30 PM,5:30 PM,Wasatch HS,Freshman Boys Basketball vs Timpanogos,
+2027-01-15,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-15,8:30 AM,5:00 PM,Wasatch HS,Boys Wrestling@ PIne View tournament,
 2027-01-16,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
 2027-01-18,,,Wasatch HS,Martin Luther King Jr. Day -- No School,
@@ -1037,12 +1067,17 @@ Varsity 7:00"
 2027-01-20,5:00 PM,9:00 PM,Wasatch HS,Boys Wrestling Vs Uintah,"JV 5:00 
 
 Varsity 7:00"
+2027-01-20,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-21,,,Wasatch HS,Gold Day,
 2027-01-21,,,Deer Creek HS,WBL- Bringhurst,
+2027-01-21,3:45 PM,4:45 PM,Wasatch HS,swimming @ Deer Creek (senior night),"senior night.
+
+Wasatch @ Deer Creek"
 2027-01-21,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
 2027-01-22,,,Wasatch HS,Boys Wrestling Rockwell Rumble. @ Western Sports Park,Rockwell Rumble @ Western Sports Park
 2027-01-22,,,Wasatch HS,Black Day,
 2027-01-22,,,Deer Creek HS,WBL- Bringhurst,
+2027-01-22,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-23,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
 2027-01-24,,,Wasatch HS,Gold Day,
 2027-01-25,,,Wasatch HS,Gold Day,
@@ -1054,6 +1089,7 @@ JV 3:30
 
 Varsity 7:00"
 2027-01-26,3:30 PM,5:30 PM,Wasatch HS,Freshman boys basketball Vs Deer Creek,
+2027-01-27,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-28,,,Wasatch HS,Gold Day,
 2027-01-28,,,Wasatch HS,Black Day,
 2027-01-28,,,Deer Creek HS,WBL- Bringhurst,
@@ -1065,6 +1101,7 @@ JV 3:30
 
 Varsity 7:00"
 2027-01-29,3:30 PM,5:30 PM,Wasatch HS,freshman boys baskeball Vs Provo,
+2027-01-29,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-01-30,2:00 PM,9:00 PM,Wasatch HS,Swimming Region @ South Davis,Region swim @ South Davis
 2027-01-30,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
 2027-02-01,,,Wasatch HS,Black Day,
@@ -1076,6 +1113,7 @@ JV 3:30
 Varsity 7:00"
 2027-02-03,,,Wasatch HS,Boys Wrestling Divisionals @ Jordan HS,Divisionals @ Jordan HS
 2027-02-03,,,Wasatch HS,Black Day,
+2027-02-03,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-04,,,Wasatch HS,Gold Day,
 2027-02-04,,,Deer Creek HS,WBL- Bringhurst,
 2027-02-04,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
@@ -1087,6 +1125,7 @@ JV 3:30
 
 Varsity 7:00"
 2027-02-05,3:30 PM,5:30 PM,Wasatch HS,Freshman Boys Basketball @Summit Academy,
+2027-02-05,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-06,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
 2027-02-06,8:30 PM,11:00 PM,Deer Creek HS,Sweethearts Dance,
 2027-02-06,9:30 PM,12:00 AM,Wasatch HS,Sweethearts Dance,
@@ -1100,6 +1139,7 @@ sophomore 3:30"
 2027-02-09,3:30 PM,5:30 PM,Wasatch HS,Freshman Boys Basketball @ Timpanogos,
 2027-02-09,7:00 PM,8:15 PM,Wasatch HS,"""Songs & Sweets"" Choir Event",
 2027-02-10,,,Wasatch HS,Gold Day,
+2027-02-10,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-10,7:00 PM,8:30 PM,Wasatch HS,Murder on the Orient Express (Winter Play),
 2027-02-11,,,Wasatch HS,Black Day,
 2027-02-11,,,Deer Creek HS,WBL- Bringhurst,
@@ -1113,11 +1153,13 @@ JV 3:30
 
 Varsity 7:00"
 2027-02-12,3:30 PM,5:30 PM,Wasatch HS,Freshman boys basketball Vs Uintah,
+2027-02-12,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-12,7:00 PM,8:30 PM,Wasatch HS,Murder on the Orient Express (Winter Play) ,
 2027-02-13,7:00 PM,9:30 PM,Wasatch HS,Murder on the Orient Express (Winter Play) ,
 2027-02-16,,,Wasatch HS,Black Day,
 2027-02-17,,,Wasatch HS,Gold Day,
 2027-02-17,12:00 PM,9:00 PM,Wasatch HS,Boys Wrestling State Championships @ UCCU,state tournament @ UCCU
+2027-02-17,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-17,7:00 PM,8:15 PM,Wasatch HS,Wasatch District Orchestra Concert,
 2027-02-18,,,Wasatch HS,Black Day,
 2027-02-18,,,Deer Creek HS,WBL- Bringhurst,
@@ -1133,12 +1175,14 @@ JV 3:30
 Varsity 7:00"
 2027-02-19,3:30 PM,4:30 PM,Wasatch HS,freshman boys basketball@ Deer Creek,
 2027-02-19,5:30 PM,9:30 PM,Wasatch HS,6A State Championship Prelims @ BYU,swimming prelims state
+2027-02-19,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-22,,,Wasatch HS,Black Day,
 2027-02-22,,,Wasatch HS,Black Day,
 2027-02-23,,,Wasatch HS,Gold Day,
 2027-02-24,,,Wasatch HS,Black Day,
 2027-02-24,12:00 PM,7:00 PM,Wasatch HS,Region Instrumental Solo & Ensemble Festival,
 2027-02-24,4:00 PM,5:00 PM,Wasatch HS,Boys Basketball State Round 1,
+2027-02-24,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-02-24,8:00 AM,9:00 AM,Deer Creek HS,Orchestra Instrumental S&E @ Provo,
 2027-02-25,,,Wasatch HS,Gold Day,
 2027-02-25,,,Deer Creek HS,WBL- Bringhurst,
@@ -1146,6 +1190,7 @@ Varsity 7:00"
 2027-02-26,,,Wasatch HS,Black Day,
 2027-02-26,,,Deer Creek HS,WBL- Bringhurst,
 2027-02-26,11:30 AM,12:30 PM,Wasatch HS,Boys Basketball State Round 2 TBD,
+2027-02-26,6:00 AM,7:45 AM,Wasatch HS,Weights Club West Campus,Wasatch Weight Lifting Club this is for 5-8th graders in west weight room
 2027-03-01,,,Wasatch HS,Gold Day,
 2027-03-01,11:30 AM,12:30 PM,Wasatch HS,Boys Basketball state Quarters,
 2027-03-02,,,Wasatch HS,Black Day,
@@ -1153,6 +1198,7 @@ Varsity 7:00"
 2027-03-03,,,Wasatch HS,Gold Day,
 2027-03-03,11:30 AM,12:30 PM,Wasatch HS,Boys Basketball state Championship @ UCCU,
 2027-03-03,12:00 PM,7:00 PM,Wasatch HS,Region Jazz Festival,
+2027-03-03,6:30 AM,7:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-03,6:30 PM,8:30 PM,Wasatch HS,Issues Conference ,
 2027-03-03,8:00 AM,9:00 AM,Deer Creek HS,Jazz Band @ Timp,
 2027-03-04,,,Wasatch HS,Black Day,
@@ -1162,6 +1208,7 @@ Varsity 7:00"
 2027-03-05,,,Wasatch HS,Gold Day,
 2027-03-05,,,Deer Creek HS,WBL- Bringhurst,
 2027-03-05,6:00 PM,9:00 PM,Deer Creek HS,Drill Showcase,
+2027-03-05,6:30 AM,7:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-08,,,Wasatch HS,Black Day,
 2027-03-08,4:00 PM,7:00 PM,Deer Creek HS,Drill Try Outs,
 2027-03-09,,,Wasatch HS,Gold Day,
@@ -1170,21 +1217,25 @@ Varsity 7:00"
 2027-03-10,,,Wasatch HS,End of Term 3,
 2027-03-10,1:00 PM,6:00 PM,Wasatch HS,Region Vocal Solo & Ensemble Festival,
 2027-03-10,4:00 PM,7:00 PM,Deer Creek HS,Drill Try Outs,
+2027-03-10,6:30 AM,7:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-10,8:00 AM,9:00 AM,Deer Creek HS,Vocal & Piano S&E @ Timpanogos,
 2027-03-11,,,Deer Creek HS,WBL- Bringhurst,
 2027-03-11,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
 2027-03-12,,,Deer Creek HS,WBL- Bringhurst,
 2027-03-12,12:00 PM,10:00 PM,Wasatch HS,Dance Co. Fundraiser - Step Up Dance Competition,
 2027-03-12,12:00 PM,10:00 PM,Wasatch HS,Step-up Dance Competition,
+2027-03-12,6:30 AM,7:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-13,7:00 AM,10:00 PM,Wasatch HS,Step-up Dance Competition,
 2027-03-15,,,Wasatch HS,Gold Day,
 2027-03-16,,,Wasatch HS,Black Day,
+2027-03-16,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-17,,,Wasatch HS,Gold Day,
 2027-03-17,12:00 PM,6:00 PM,Wasatch HS,Region Orchestra Festival,
 2027-03-17,8:00 AM,9:00 AM,Deer Creek HS,Orchestra Festival @ Mtn. View,
 2027-03-18,,,Wasatch HS,Black Day,
 2027-03-18,,,Deer Creek HS,WBL- Bringhurst,
 2027-03-18,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-03-18,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-19,,,Wasatch HS,Gold Day,
 2027-03-19,,,Deer Creek HS,WBL- Bringhurst,
 2027-03-22,,,Wasatch HS,Black Day,
@@ -1192,6 +1243,7 @@ Varsity 7:00"
 2027-03-22,7:00 AM,7:45 AM,Deer Creek HS,Promenade Practice,
 2027-03-23,,,Wasatch HS,Gold Day,
 2027-03-23,7:00 AM,7:45 AM,Deer Creek HS,Promenade Practice,
+2027-03-23,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-24,,,Wasatch HS,Black Day,
 2027-03-24,7:00 AM,7:45 AM,Deer Creek HS,Promenade Practice-Mandatory,
 2027-03-24,8:00 AM,9:00 AM,Deer Creek HS,Concert Band Festival @ Uintah,
@@ -1201,6 +1253,7 @@ Varsity 7:00"
 2027-03-25,,,Deer Creek HS,WBL- Bringhurst,
 2027-03-25,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
 2027-03-25,7:00 AM,7:45 AM,Deer Creek HS,Promenade Practice-Mandatory,
+2027-03-25,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-26,,,Wasatch HS,NUES Region Sterling Scholar Competition,
 2027-03-26,,,Wasatch HS,Black Day,
 2027-03-26,,,Deer Creek HS,WBL- Bringhurst,
@@ -1208,6 +1261,7 @@ Varsity 7:00"
 2027-03-27,8:30 PM,11:00 PM,Deer Creek HS,Prom,
 2027-03-29,,,Wasatch HS,Gold Day,
 2027-03-30,,,Wasatch HS,Black Day,
+2027-03-30,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-03-31,,,Wasatch HS,Gold Day,
 2027-03-31,1:00 PM,8:00 PM,Wasatch HS,Region Large Choir Festival,
 2027-03-31,7:00 PM,10:00 PM,Deer Creek HS,Dance Company Show,
@@ -1215,18 +1269,22 @@ Varsity 7:00"
 2027-04-01,,,Wasatch HS,Black Day,
 2027-04-01,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-01,7:00 PM,10:00 PM,Deer Creek HS,Dance Company Show,
+2027-04-01,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-02,,,Wasatch HS,Gold Day,
 2027-04-02,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-05,,,Wasatch HS,Spring Break -- No School,
 2027-04-06,,,Wasatch HS,Spring Break -- No School,
+2027-04-06,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-07,,,Wasatch HS,Spring Break -- No School,
 2027-04-08,,,Wasatch HS,Spring Break -- No School,
 2027-04-08,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-08,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-04-08,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-09,,,Wasatch HS,Spring Break -- No School,
 2027-04-09,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-12,,,Wasatch HS,Black Day,
 2027-04-13,,,Wasatch HS,Gold Day,
+2027-04-13,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-14,,,Wasatch HS,Black Day,
 2027-04-14,1:00 PM,5:00 PM,Wasatch HS,Region Training Choir Festival,
 2027-04-14,8:00 AM,9:00 AM,Deer Creek HS,Training Choir Festival @ Provo,
@@ -1234,6 +1292,7 @@ Varsity 7:00"
 2027-04-15,,,Wasatch HS,Gold Day,
 2027-04-15,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-15,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-04-15,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-16,,,Wasatch HS,State Theatre Competition - One Acts,
 2027-04-16,,,Wasatch HS,Black Day,
 2027-04-16,,,Deer Creek HS,WBL- Bringhurst,
@@ -1242,12 +1301,14 @@ Varsity 7:00"
 2027-04-17,8:30 PM,11:00 PM,Wasatch HS,Junior Prom Dance,
 2027-04-19,,,Wasatch HS,Gold Day,
 2027-04-20,,,Wasatch HS,Black Day,
+2027-04-20,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-21,,,Wasatch HS,NUES Regional Art Show,
 2027-04-21,,,Wasatch HS,Gold Day,
 2027-04-22,,,Wasatch HS,NUES Regional Art Show,
 2027-04-22,,,Wasatch HS,Black Day,
 2027-04-22,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-22,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-04-22,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-23,,,Wasatch HS,NUES Regional Art Show,
 2027-04-23,,,Wasatch HS,Gold Day,
 2027-04-23,,,Deer Creek HS,WBL- Bringhurst,
@@ -1259,11 +1320,13 @@ Varsity 7:00"
 2027-04-26,,,Wasatch HS,Black Day,
 2027-04-26,7:00 PM,8:30 PM,Wasatch HS,Tuck Everlasting (Spring Musical),
 2027-04-27,,,Wasatch HS,Gold Day,
+2027-04-27,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-28,,,Wasatch HS,Black Day,
 2027-04-28,7:00 PM,8:30 PM,Wasatch HS,Tuck Everlasting (Spring Musical),
 2027-04-29,,,Wasatch HS,Gold Day,
 2027-04-29,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-29,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-04-29,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-04-30,,,Wasatch HS,Black Day,
 2027-04-30,,,Deer Creek HS,WBL- Bringhurst,
 2027-04-30,7:00 PM,9:30 PM,Wasatch HS,Tuck Everlasting (Spring Musical),
@@ -1274,12 +1337,14 @@ Varsity 7:00"
 2027-05-03,5:00 PM,9:00 PM,Wasatch HS,Rotary Honors Night,The event will be at 7pm.
 2027-05-04,,,Wasatch HS,State Orchestra Festival,
 2027-05-04,,,Wasatch HS,Black Day,
+2027-05-04,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-05,,,Wasatch HS,State Orchestra Festival,
 2027-05-05,,,Wasatch HS,Gold Day,
 2027-05-06,,,Wasatch HS,State Band Festival,
 2027-05-06,,,Wasatch HS,Black Day,
 2027-05-06,,,Deer Creek HS,WBL- Bringhurst,
 2027-05-06,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-05-06,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-07,,,Wasatch HS,State Band Festival,
 2027-05-07,,,Wasatch HS,Gold Day,
 2027-05-07,,,Deer Creek HS,WBL- Bringhurst,
@@ -1288,6 +1353,7 @@ Varsity 7:00"
 2027-05-10,,,Wasatch HS,Black Day,
 2027-05-11,,,Wasatch HS,Gold Day,
 2027-05-11,7:00 PM,8:30 PM,Wasatch HS,Orchestra Concert,
+2027-05-11,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-12,,,Wasatch HS,Black Day,
 2027-05-12,7:00 PM,9:30 PM,Deer Creek HS,Performing Arts Gala,
 2027-05-13,,,Wasatch HS,State Choir Festival,
@@ -1295,6 +1361,7 @@ Varsity 7:00"
 2027-05-13,,,Deer Creek HS,WBL- Bringhurst,
 2027-05-13,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
 2027-05-13,7:00 PM,8:15 PM,Wasatch HS,Choir Concert,
+2027-05-13,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-14,,,Wasatch HS,State Choir Festival,
 2027-05-14,,,Wasatch HS,Black Day,
 2027-05-14,,,Deer Creek HS,WBL- Bringhurst,
@@ -1302,20 +1369,24 @@ Varsity 7:00"
 2027-05-17,,,Wasatch HS,Gold Day,
 2027-05-18,,,Wasatch HS,Black Day,
 2027-05-18,7:00 PM,8:30 PM,Wasatch HS,Band Concert,
+2027-05-18,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-19,,,Wasatch HS,Gold Day,
 2027-05-19,6:30 PM,8:00 PM,Wasatch HS,Theatre Recognition Night,
 2027-05-20,,,Wasatch HS,Black Day,
 2027-05-20,,,Deer Creek HS,WBL- Bringhurst,
 2027-05-20,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
+2027-05-20,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-21,,,Wasatch HS,Gold Day,
 2027-05-21,,,Deer Creek HS,WBL- Bringhurst,
 2027-05-24,,,Wasatch HS,Black Day,
 2027-05-24,,,Wasatch HS,Black Day,
 2027-05-25,,,Wasatch HS,Gold Day,
+2027-05-25,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-26,,,Wasatch HS,Black Day,
 2027-05-27,,,Wasatch HS,Gold Day,
 2027-05-27,,,Wasatch HS,Last Day of School,
 2027-05-27,,,Deer Creek HS,WBL- Bringhurst,
+2027-05-27,7:30 AM,8:45 AM,Wasatch HS,Wasatch Weight Lifting Club,5th-8th grade weight lifting club at West Weight Room
 2027-05-28,,,Deer Creek HS,WBL- Bringhurst,
 2027-06-28,,,Wasatch HS,All Sports Moratorium,
 2027-06-29,,,Wasatch HS,All Sports Moratorium,
