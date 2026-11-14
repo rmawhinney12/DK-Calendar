@@ -4098,10 +4098,10 @@ DESCRIPTION:Varsity 7:00 PM.  JV 5:15. soph 3:30
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-657-dkcalendar@combined
-DTSTART;TZID=America/Denver:20261120T153000
-DTEND;TZID=America/Denver:20261120T203000
+DTSTART;TZID=America/Denver:20261120T171500
+DTEND;TZID=America/Denver:20261120T204500
 SUMMARY:Deer Creek HS — Girls BB vs. Morgan
-DESCRIPTION:soph 330\n\njv 515\n\nv 7
+DESCRIPTION:soph 5:15\n\nv 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-658-dkcalendar@combined
@@ -4222,8 +4222,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-677-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261124T153000
-DTEND;TZID=America/Denver:20261124T210000
-SUMMARY:Deer Creek HS — Boys & Girls Basketball @ Park City
+DTEND;TZID=America/Denver:20261124T213000
+SUMMARY:Deer Creek HS — Girls & Boys Basketball @ Park City
+DESCRIPTION:Girls V 5:15\n\nBoys V 7 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-678-dkcalendar@combined
@@ -4446,35 +4447,36 @@ SUMMARY:Wasatch HS — Girls Basketball vs. Cedar Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-714-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261201T153000
+DTEND;TZID=America/Denver:20261201T190000
+SUMMARY:Deer Creek HS — Girls BB VS. North Summit
+DESCRIPTION:soph 3:30 pm\n\nv 5:15 pm
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-715-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T171500
 DTEND;TZID=America/Denver:20261201T184500
 SUMMARY:Wasatch HS — Boys Basketball freshman vs Maple Mountain
 DESCRIPTION:freshman boys bb vrs Maple mountain
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-01-715-dkcalendar@combined
+UID:2026-12-01-716-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T060000
 DTEND;TZID=America/Denver:20261201T080000
 SUMMARY:Deer Creek HS — Dance Co
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-01-716-dkcalendar@combined
+UID:2026-12-01-717-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T180000
 DTEND;TZID=America/Denver:20261201T200000
 SUMMARY:Wasatch HS — Girls Wrestling @ Corner Canyon
 DESCRIPTION:Varsity 6:00 JV after
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-01-717-dkcalendar@combined
+UID:2026-12-01-718-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261201T183000
 DTEND;TZID=America/Denver:20261201T203000
 SUMMARY:Wasatch HS — ASL Deaf Experience Dinner @ DCHS
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-01-718-dkcalendar@combined
-DTSTART;TZID=America/Denver:20261201T190000
-DTEND;TZID=America/Denver:20261201T200000
-SUMMARY:Deer Creek HS — Girls BB VS. North Summit
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-719-dkcalendar@combined
@@ -4822,21 +4824,22 @@ DESCRIPTION:soph 3:30\n\njv5:15\n\nfr 5:15\n\nv 7 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-774-dkcalendar@combined
+DTSTART;TZID=America/Denver:20261208T153000
+DTEND;TZID=America/Denver:20261208T190000
+SUMMARY:Deer Creek HS — Girls BB @ Spanish Fork
+DESCRIPTION:soph 3:30\n\nv @ 5:15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-775-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261208T171500
 DTEND;TZID=America/Denver:20261208T184500
 SUMMARY:Wasatch HS — Freshman Boys Basketball vs Springville
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-775-dkcalendar@combined
+UID:2026-12-08-776-dkcalendar@combined
 DTSTART;TZID=America/Denver:20261208T190000
 DTEND;TZID=America/Denver:20261208T203000
 SUMMARY:Wasatch HS — Choir Holiday Concert
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-08-776-dkcalendar@combined
-DTSTART;TZID=America/Denver:20261208T190000
-DTEND;TZID=America/Denver:20261208T200000
-SUMMARY:Deer Creek HS — Girls BB @ Spanish Fork
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-777-dkcalendar@combined
@@ -4991,7 +4994,7 @@ UID:2026-12-11-801-dkcalendar@combined
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Soldier Hollow — IMD Season Opener / Super Tour
-DESCRIPTION:The U.S. Ski and Snowboard SuperTour presented by the National Nordic Foundation is recognized by FIS as the Continental Cup for the United States—the highest level of competition in the country. The overall leader of the SuperTour after each Period is granted World Cup Start rights for the following Period of World Cup (with expenses paid by FIS). Top racers compete head-to-head in a variety of disciplines across the country\, with World Cup start spots and funding on the line. Soldier Hollow is the second stop during Period 1 of the 2026-2027 Super Tour\, and includes a skate sprint\, a classic interval start\, and a skate mass start race. Super Tour Site
+DESCRIPTION:The U.S. Ski and Snowboard SuperTour presented by the National Nordic Foundation is recognized by FIS as the Continental Cup for the United States—the highest level of competition in the country. The overall leader of the SuperTour after each Period is granted World Cup Start rights for the following Period of World Cup (with expenses paid by FIS). Top racers compete head-to-head in a variety of disciplines across the country\, with World Cup start spots and funding on the line. Soldier Hollow is the second stop during Period 1 of the 2026-2027 Super Tour\, and includes a skate sprint\, a classic interval start\, and a skate mass start race. Register Here
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-802-dkcalendar@combined
@@ -5831,15 +5834,16 @@ DESCRIPTION:soph 3:30\n\njv5:15\n\nfr 5:15\n\nv 7 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-938-dkcalendar@combined
-DTSTART;TZID=America/Denver:20270105T171500
-DTEND;TZID=America/Denver:20270105T184500
-SUMMARY:Wasatch HS — Freshman Boy Basketball @ Provo
+DTSTART;TZID=America/Denver:20270105T153000
+DTEND;TZID=America/Denver:20270105T190000
+SUMMARY:Deer Creek HS — Girls BB @ Mountain View
+DESCRIPTION:soph3:30\n\nv 5:15
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-939-dkcalendar@combined
-DTSTART;TZID=America/Denver:20270105T173000
-DTEND;TZID=America/Denver:20270105T193000
-SUMMARY:Deer Creek HS — Girls BB @ Mountain View
+DTSTART;TZID=America/Denver:20270105T171500
+DTEND;TZID=America/Denver:20270105T184500
+SUMMARY:Wasatch HS — Freshman Boy Basketball @ Provo
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-940-dkcalendar@combined
@@ -5951,7 +5955,7 @@ UID:2027-01-08-957-dkcalendar@combined
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Soldier Hollow — US Para Nordic National Championships
-DESCRIPTION:More information coming soon!
+DESCRIPTION:Cheer on the nation’s top Para Nordic athletes as they compete for national championship titles. Races will span three days and include both biathlon and cross-country events in vision impaired\, standing\, and sitting categories. Participant Waiver
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-958-dkcalendar@combined
@@ -9710,796 +9714,802 @@ BEGIN:VEVENT
 UID:2027-05-25-1567-dkcalendar@combined
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
+SUMMARY:Wasatch HS — Graduation Day
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-25-1568-dkcalendar@combined
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-26-1568-dkcalendar@combined
+UID:2027-05-26-1569-dkcalendar@combined
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:Wasatch HS — Black Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-26-1569-dkcalendar@combined
+UID:2027-05-26-1570-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270526T153000
 DTEND;TZID=America/Denver:20270526T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-27-1570-dkcalendar@combined
+UID:2027-05-27-1571-dkcalendar@combined
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Wasatch HS — Gold Day
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-27-1571-dkcalendar@combined
+UID:2027-05-27-1572-dkcalendar@combined
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Wasatch HS — Last Day of School
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-27-1572-dkcalendar@combined
+UID:2027-05-27-1573-dkcalendar@combined
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Deer Creek HS — WBL- Bringhurst
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-27-1573-dkcalendar@combined
+UID:2027-05-27-1574-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270527T153000
 DTEND;TZID=America/Denver:20270527T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-28-1574-dkcalendar@combined
+UID:2027-05-28-1575-dkcalendar@combined
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 SUMMARY:Deer Creek HS — WBL- Bringhurst
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-28-1575-dkcalendar@combined
+UID:2027-05-28-1576-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270528T153000
 DTEND;TZID=America/Denver:20270528T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-29-1576-dkcalendar@combined
+UID:2027-05-29-1577-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270529T153000
 DTEND;TZID=America/Denver:20270529T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-05-31-1577-dkcalendar@combined
+UID:2027-05-31-1578-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270531T153000
 DTEND;TZID=America/Denver:20270531T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-02-1578-dkcalendar@combined
+UID:2027-06-02-1579-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270602T153000
 DTEND;TZID=America/Denver:20270602T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-03-1579-dkcalendar@combined
+UID:2027-06-03-1580-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270603T153000
 DTEND;TZID=America/Denver:20270603T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-04-1580-dkcalendar@combined
+UID:2027-06-04-1581-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270604T153000
 DTEND;TZID=America/Denver:20270604T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-05-1581-dkcalendar@combined
+UID:2027-06-05-1582-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270605T153000
 DTEND;TZID=America/Denver:20270605T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-07-1582-dkcalendar@combined
+UID:2027-06-07-1583-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270607T153000
 DTEND;TZID=America/Denver:20270607T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-07-1583-dkcalendar@combined
+UID:2027-06-07-1584-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270607T190000
 DTEND;TZID=America/Denver:20270607T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-09-1584-dkcalendar@combined
+UID:2027-06-09-1585-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270609T153000
 DTEND;TZID=America/Denver:20270609T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-10-1585-dkcalendar@combined
+UID:2027-06-10-1586-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270610T153000
 DTEND;TZID=America/Denver:20270610T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-11-1586-dkcalendar@combined
+UID:2027-06-11-1587-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270611T153000
 DTEND;TZID=America/Denver:20270611T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-12-1587-dkcalendar@combined
+UID:2027-06-12-1588-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270612T153000
 DTEND;TZID=America/Denver:20270612T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-14-1588-dkcalendar@combined
+UID:2027-06-14-1589-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270614T153000
 DTEND;TZID=America/Denver:20270614T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-14-1589-dkcalendar@combined
+UID:2027-06-14-1590-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270614T190000
 DTEND;TZID=America/Denver:20270614T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-16-1590-dkcalendar@combined
+UID:2027-06-16-1591-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270616T153000
 DTEND;TZID=America/Denver:20270616T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-17-1591-dkcalendar@combined
+UID:2027-06-17-1592-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270617T153000
 DTEND;TZID=America/Denver:20270617T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-18-1592-dkcalendar@combined
+UID:2027-06-18-1593-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270618T153000
 DTEND;TZID=America/Denver:20270618T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-19-1593-dkcalendar@combined
+UID:2027-06-19-1594-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270619T153000
 DTEND;TZID=America/Denver:20270619T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-21-1594-dkcalendar@combined
+UID:2027-06-21-1595-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270621T153000
 DTEND;TZID=America/Denver:20270621T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-21-1595-dkcalendar@combined
+UID:2027-06-21-1596-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270621T190000
 DTEND;TZID=America/Denver:20270621T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-23-1596-dkcalendar@combined
+UID:2027-06-23-1597-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270623T153000
 DTEND;TZID=America/Denver:20270623T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-24-1597-dkcalendar@combined
+UID:2027-06-24-1598-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270624T153000
 DTEND;TZID=America/Denver:20270624T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-25-1598-dkcalendar@combined
+UID:2027-06-25-1599-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270625T153000
 DTEND;TZID=America/Denver:20270625T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-26-1599-dkcalendar@combined
+UID:2027-06-26-1600-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270626T153000
 DTEND;TZID=America/Denver:20270626T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-28-1600-dkcalendar@combined
+UID:2027-06-28-1601-dkcalendar@combined
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-28-1601-dkcalendar@combined
+UID:2027-06-28-1602-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270628T153000
 DTEND;TZID=America/Denver:20270628T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-28-1602-dkcalendar@combined
+UID:2027-06-28-1603-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270628T190000
 DTEND;TZID=America/Denver:20270628T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-29-1603-dkcalendar@combined
+UID:2027-06-29-1604-dkcalendar@combined
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-30-1604-dkcalendar@combined
+UID:2027-06-30-1605-dkcalendar@combined
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Wasatch HS — All Sports Moratorium
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-30-1605-dkcalendar@combined
+UID:2027-06-30-1606-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270630T153000
 DTEND;TZID=America/Denver:20270630T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-01-1606-dkcalendar@combined
+UID:2027-07-01-1607-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270701T153000
 DTEND;TZID=America/Denver:20270701T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-02-1607-dkcalendar@combined
+UID:2027-07-02-1608-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270702T153000
 DTEND;TZID=America/Denver:20270702T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-03-1608-dkcalendar@combined
+UID:2027-07-03-1609-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270703T153000
 DTEND;TZID=America/Denver:20270703T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-07-1609-dkcalendar@combined
+UID:2027-07-07-1610-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270707T153000
 DTEND;TZID=America/Denver:20270707T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-08-1610-dkcalendar@combined
+UID:2027-07-08-1611-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270708T153000
 DTEND;TZID=America/Denver:20270708T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-09-1611-dkcalendar@combined
+UID:2027-07-09-1612-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270709T153000
 DTEND;TZID=America/Denver:20270709T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-10-1612-dkcalendar@combined
+UID:2027-07-10-1613-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270710T153000
 DTEND;TZID=America/Denver:20270710T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-12-1613-dkcalendar@combined
+UID:2027-07-12-1614-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270712T153000
 DTEND;TZID=America/Denver:20270712T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-12-1614-dkcalendar@combined
+UID:2027-07-12-1615-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270712T190000
 DTEND;TZID=America/Denver:20270712T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-14-1615-dkcalendar@combined
+UID:2027-07-14-1616-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270714T153000
 DTEND;TZID=America/Denver:20270714T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-15-1616-dkcalendar@combined
+UID:2027-07-15-1617-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270715T153000
 DTEND;TZID=America/Denver:20270715T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-16-1617-dkcalendar@combined
+UID:2027-07-16-1618-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270716T153000
 DTEND;TZID=America/Denver:20270716T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-17-1618-dkcalendar@combined
+UID:2027-07-17-1619-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270717T153000
 DTEND;TZID=America/Denver:20270717T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-19-1619-dkcalendar@combined
+UID:2027-07-19-1620-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270719T153000
 DTEND;TZID=America/Denver:20270719T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-19-1620-dkcalendar@combined
+UID:2027-07-19-1621-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270719T190000
 DTEND;TZID=America/Denver:20270719T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-21-1621-dkcalendar@combined
+UID:2027-07-21-1622-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270721T153000
 DTEND;TZID=America/Denver:20270721T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-22-1622-dkcalendar@combined
+UID:2027-07-22-1623-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270722T153000
 DTEND;TZID=America/Denver:20270722T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-23-1623-dkcalendar@combined
+UID:2027-07-23-1624-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270723T153000
 DTEND;TZID=America/Denver:20270723T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-23-1624-dkcalendar@combined
+UID:2027-07-23-1625-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270723T190000
 DTEND;TZID=America/Denver:20270723T203000
 SUMMARY:Heber Valley Railroad — Rock-n-Roll Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-24-1625-dkcalendar@combined
+UID:2027-07-24-1626-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270724T153000
 DTEND;TZID=America/Denver:20270724T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-26-1626-dkcalendar@combined
+UID:2027-07-26-1627-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270726T153000
 DTEND;TZID=America/Denver:20270726T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-26-1627-dkcalendar@combined
+UID:2027-07-26-1628-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270726T190000
 DTEND;TZID=America/Denver:20270726T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-28-1628-dkcalendar@combined
+UID:2027-07-28-1629-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270728T153000
 DTEND;TZID=America/Denver:20270728T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-29-1629-dkcalendar@combined
+UID:2027-07-29-1630-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270729T153000
 DTEND;TZID=America/Denver:20270729T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-30-1630-dkcalendar@combined
+UID:2027-07-30-1631-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270730T153000
 DTEND;TZID=America/Denver:20270730T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-07-31-1631-dkcalendar@combined
+UID:2027-07-31-1632-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270731T153000
 DTEND;TZID=America/Denver:20270731T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-02-1632-dkcalendar@combined
+UID:2027-08-02-1633-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270802T153000
 DTEND;TZID=America/Denver:20270802T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-02-1633-dkcalendar@combined
+UID:2027-08-02-1634-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270802T190000
 DTEND;TZID=America/Denver:20270802T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-04-1634-dkcalendar@combined
+UID:2027-08-04-1635-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270804T153000
 DTEND;TZID=America/Denver:20270804T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-05-1635-dkcalendar@combined
+UID:2027-08-05-1636-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270805T153000
 DTEND;TZID=America/Denver:20270805T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-06-1636-dkcalendar@combined
+UID:2027-08-06-1637-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270806T153000
 DTEND;TZID=America/Denver:20270806T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-07-1637-dkcalendar@combined
+UID:2027-08-07-1638-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270807T153000
 DTEND;TZID=America/Denver:20270807T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-09-1638-dkcalendar@combined
+UID:2027-08-09-1639-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270809T153000
 DTEND;TZID=America/Denver:20270809T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-09-1639-dkcalendar@combined
+UID:2027-08-09-1640-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270809T190000
 DTEND;TZID=America/Denver:20270809T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-11-1640-dkcalendar@combined
+UID:2027-08-11-1641-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270811T153000
 DTEND;TZID=America/Denver:20270811T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-12-1641-dkcalendar@combined
+UID:2027-08-12-1642-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270812T153000
 DTEND;TZID=America/Denver:20270812T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-13-1642-dkcalendar@combined
+UID:2027-08-13-1643-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270813T153000
 DTEND;TZID=America/Denver:20270813T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-14-1643-dkcalendar@combined
+UID:2027-08-14-1644-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270814T153000
 DTEND;TZID=America/Denver:20270814T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-16-1644-dkcalendar@combined
+UID:2027-08-16-1645-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270816T153000
 DTEND;TZID=America/Denver:20270816T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-16-1645-dkcalendar@combined
+UID:2027-08-16-1646-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270816T190000
 DTEND;TZID=America/Denver:20270816T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-18-1646-dkcalendar@combined
+UID:2027-08-18-1647-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270818T153000
 DTEND;TZID=America/Denver:20270818T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-19-1647-dkcalendar@combined
+UID:2027-08-19-1648-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270819T153000
 DTEND;TZID=America/Denver:20270819T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-20-1648-dkcalendar@combined
+UID:2027-08-20-1649-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270820T153000
 DTEND;TZID=America/Denver:20270820T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-21-1649-dkcalendar@combined
+UID:2027-08-21-1650-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270821T153000
 DTEND;TZID=America/Denver:20270821T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-23-1650-dkcalendar@combined
+UID:2027-08-23-1651-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270823T153000
 DTEND;TZID=America/Denver:20270823T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-23-1651-dkcalendar@combined
+UID:2027-08-23-1652-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270823T190000
 DTEND;TZID=America/Denver:20270823T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-25-1652-dkcalendar@combined
+UID:2027-08-25-1653-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270825T153000
 DTEND;TZID=America/Denver:20270825T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-26-1653-dkcalendar@combined
+UID:2027-08-26-1654-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270826T153000
 DTEND;TZID=America/Denver:20270826T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-27-1654-dkcalendar@combined
+UID:2027-08-27-1655-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270827T153000
 DTEND;TZID=America/Denver:20270827T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-28-1655-dkcalendar@combined
+UID:2027-08-28-1656-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270828T153000
 DTEND;TZID=America/Denver:20270828T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-30-1656-dkcalendar@combined
+UID:2027-08-30-1657-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270830T153000
 DTEND;TZID=America/Denver:20270830T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-08-30-1657-dkcalendar@combined
+UID:2027-08-30-1658-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270830T190000
 DTEND;TZID=America/Denver:20270830T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-01-1658-dkcalendar@combined
+UID:2027-09-01-1659-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270901T153000
 DTEND;TZID=America/Denver:20270901T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-02-1659-dkcalendar@combined
+UID:2027-09-02-1660-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270902T153000
 DTEND;TZID=America/Denver:20270902T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-03-1660-dkcalendar@combined
+UID:2027-09-03-1661-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270903T153000
 DTEND;TZID=America/Denver:20270903T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-04-1661-dkcalendar@combined
+UID:2027-09-04-1662-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270904T153000
 DTEND;TZID=America/Denver:20270904T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-06-1662-dkcalendar@combined
+UID:2027-09-06-1663-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270906T153000
 DTEND;TZID=America/Denver:20270906T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-06-1663-dkcalendar@combined
+UID:2027-09-06-1664-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270906T190000
 DTEND;TZID=America/Denver:20270906T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-08-1664-dkcalendar@combined
+UID:2027-09-08-1665-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270908T153000
 DTEND;TZID=America/Denver:20270908T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-09-1665-dkcalendar@combined
+UID:2027-09-09-1666-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270909T153000
 DTEND;TZID=America/Denver:20270909T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-10-1666-dkcalendar@combined
+UID:2027-09-10-1667-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270910T153000
 DTEND;TZID=America/Denver:20270910T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-11-1667-dkcalendar@combined
+UID:2027-09-11-1668-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270911T153000
 DTEND;TZID=America/Denver:20270911T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-13-1668-dkcalendar@combined
+UID:2027-09-13-1669-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270913T153000
 DTEND;TZID=America/Denver:20270913T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-13-1669-dkcalendar@combined
+UID:2027-09-13-1670-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270913T190000
 DTEND;TZID=America/Denver:20270913T203000
 SUMMARY:Heber Valley Railroad — Monday Night Train
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-15-1670-dkcalendar@combined
+UID:2027-09-15-1671-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270915T153000
 DTEND;TZID=America/Denver:20270915T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-16-1671-dkcalendar@combined
+UID:2027-09-16-1672-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270916T153000
 DTEND;TZID=America/Denver:20270916T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-17-1672-dkcalendar@combined
+UID:2027-09-17-1673-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270917T153000
 DTEND;TZID=America/Denver:20270917T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-18-1673-dkcalendar@combined
+UID:2027-09-18-1674-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270918T153000
 DTEND;TZID=America/Denver:20270918T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-20-1674-dkcalendar@combined
+UID:2027-09-20-1675-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270920T153000
 DTEND;TZID=America/Denver:20270920T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-22-1675-dkcalendar@combined
+UID:2027-09-22-1676-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270922T153000
 DTEND;TZID=America/Denver:20270922T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-23-1676-dkcalendar@combined
+UID:2027-09-23-1677-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270923T153000
 DTEND;TZID=America/Denver:20270923T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-24-1677-dkcalendar@combined
+UID:2027-09-24-1678-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270924T153000
 DTEND;TZID=America/Denver:20270924T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-25-1678-dkcalendar@combined
+UID:2027-09-25-1679-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270925T153000
 DTEND;TZID=America/Denver:20270925T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-27-1679-dkcalendar@combined
+UID:2027-09-27-1680-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270927T153000
 DTEND;TZID=America/Denver:20270927T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-29-1680-dkcalendar@combined
+UID:2027-09-29-1681-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270929T153000
 DTEND;TZID=America/Denver:20270929T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-09-30-1681-dkcalendar@combined
+UID:2027-09-30-1682-dkcalendar@combined
 DTSTART;TZID=America/Denver:20270930T153000
 DTEND;TZID=America/Denver:20270930T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-01-1682-dkcalendar@combined
+UID:2027-10-01-1683-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271001T153000
 DTEND;TZID=America/Denver:20271001T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-04-1683-dkcalendar@combined
+UID:2027-10-04-1684-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271004T153000
 DTEND;TZID=America/Denver:20271004T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-06-1684-dkcalendar@combined
+UID:2027-10-06-1685-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271006T153000
 DTEND;TZID=America/Denver:20271006T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-07-1685-dkcalendar@combined
+UID:2027-10-07-1686-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271007T153000
 DTEND;TZID=America/Denver:20271007T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-08-1686-dkcalendar@combined
+UID:2027-10-08-1687-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271008T153000
 DTEND;TZID=America/Denver:20271008T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-11-1687-dkcalendar@combined
+UID:2027-10-11-1688-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271011T153000
 DTEND;TZID=America/Denver:20271011T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-13-1688-dkcalendar@combined
+UID:2027-10-13-1689-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271013T153000
 DTEND;TZID=America/Denver:20271013T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-14-1689-dkcalendar@combined
+UID:2027-10-14-1690-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271014T153000
 DTEND;TZID=America/Denver:20271014T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-15-1690-dkcalendar@combined
+UID:2027-10-15-1691-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271015T153000
 DTEND;TZID=America/Denver:20271015T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-18-1691-dkcalendar@combined
+UID:2027-10-18-1692-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271018T153000
 DTEND;TZID=America/Denver:20271018T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-20-1692-dkcalendar@combined
+UID:2027-10-20-1693-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271020T153000
 DTEND;TZID=America/Denver:20271020T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-21-1693-dkcalendar@combined
+UID:2027-10-21-1694-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271021T153000
 DTEND;TZID=America/Denver:20271021T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-22-1694-dkcalendar@combined
+UID:2027-10-22-1695-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271022T153000
 DTEND;TZID=America/Denver:20271022T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-25-1695-dkcalendar@combined
+UID:2027-10-25-1696-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271025T153000
 DTEND;TZID=America/Denver:20271025T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-27-1696-dkcalendar@combined
+UID:2027-10-27-1697-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271027T153000
 DTEND;TZID=America/Denver:20271027T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-28-1697-dkcalendar@combined
+UID:2027-10-28-1698-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271028T153000
 DTEND;TZID=America/Denver:20271028T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-29-1698-dkcalendar@combined
+UID:2027-10-29-1699-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271029T153000
 DTEND;TZID=America/Denver:20271029T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-10-30-1699-dkcalendar@combined
+UID:2027-10-30-1700-dkcalendar@combined
 DTSTART;TZID=America/Denver:20271030T153000
 DTEND;TZID=America/Denver:20271030T170000
 SUMMARY:Heber Valley Railroad — Deer Creek Express
