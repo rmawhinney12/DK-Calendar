@@ -769,8 +769,6 @@ Banquet 7-9:00"
 2026-11-16,7:00 PM,9:30 PM,Wasatch HS,Hello Dolly (Fall Musical),Buy tickets here: <https://whsheberut.booktix.com/>
 2026-11-16,8:00 AM,9:00 AM,Deer Creek HS,Dance Co,
 2026-11-17,,,Wasatch HS,Black Day,
-2026-11-17,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express Rehearsal,
-2026-11-17,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express Rehearsal,
 2026-11-17,2:45 PM,3:15 PM,Deer Creek HS,LIA Dance Practice,
 2026-11-17,3:30 PM,9:00 PM,Wasatch HS,Girls Basketball @ Corner Canyon,Varsity 7:00
 2026-11-17,3:30 PM,8:00 PM,Deer Creek HS,Girls BB vs. Northridge,"soph 3:30
@@ -834,13 +832,20 @@ Varsity 7:00
 \\"
 2026-11-24,3:30 PM,9:30 PM,Deer Creek HS,Girls & Boys Basketball @ Park City,"Girls V 5:15
 
-Boys V 7 pm"
+Boys V 7 pm
+
+Boys Fresh & JV 3:30
+
+girls soph 7 pm
+
+boys soph 5:15"
 2026-11-24,5:00 PM,8:15 PM,Deer Creek HS,Boys Wrestling VS. Bear River ,"jv 5 pm
 
 v 7 pm"
 2026-11-24,6:00 AM,8:00 AM,Deer Creek HS,Dance Co,
 2026-11-24,6:00 PM,8:00 PM,Wasatch HS,Boys Wrestling Inter Squad Duals,
 2026-11-24,6:00 PM,8:00 PM,Wasatch HS,Girls Wrestling Inter-Squad Dual,inner-squad dual
+2026-11-24,6:00 PM,8:00 PM,Deer Creek HS,Girls Wrestling Inter Squad Dual,
 2026-11-24,7:30 AM,9:00 AM,Deer Creek HS,Dance Co Breakfast,
 2026-11-24,8:00 AM,9:00 AM,Deer Creek HS,Dance Co,
 2026-11-25,,,Wasatch HS,Thanksgiving Break,
@@ -884,6 +889,7 @@ v 5:15 pm"
 2026-12-01,5:15 PM,6:45 PM,Wasatch HS,Boys Basketball freshman vs Maple Mountain,freshman boys bb vrs Maple mountain
 2026-12-01,6:00 AM,8:00 AM,Deer Creek HS,Dance Co,
 2026-12-01,6:00 PM,8:00 PM,Wasatch HS,Girls Wrestling @ Corner Canyon,Varsity 6:00 JV after
+2026-12-01,6:00 PM,8:00 PM,Deer Creek HS,Girls Wrestling @ Corner Canyon,
 2026-12-01,6:30 PM,8:30 PM,Wasatch HS,ASL Deaf Experience Dinner @ DCHS,
 2026-12-02,,,Wasatch HS,Cross Country Foot Locker Trip,
 2026-12-02,,,Wasatch HS,WHS Choirs @ Temple Square,
@@ -935,6 +941,7 @@ Bus Leaves saturday @5:30 AM"
 2026-12-04,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-04,12:30 PM,1:30 PM,Deer Creek HS,Boys Wrestling @ Layton Invitational Tournament,
 2026-12-04,2:00 PM,8:00 PM,Wasatch HS,Tour of SLCC Fashion College Field Trip,
+2026-12-04,2:30 PM,3:30 PM,Deer Creek HS,Girls Wrestling @ Skyhawk Showdown,
 2026-12-04,2:45 PM,4:15 PM,Deer Creek HS,Track and Field Weights,
 2026-12-04,3:30 PM,9:00 PM,Wasatch HS,Boys Basketball vs Park City,"Varsity 7:00 PM
 
@@ -998,6 +1005,7 @@ v @ 5:15"
 2026-12-09,11:00 AM,12:00 PM,Wasatch HS,Winter Dance lunch activity,We will have games during lunch.
 2026-12-09,2:45 PM,4:15 PM,Deer Creek HS,Track and Field Weights,
 2026-12-09,3:30 PM,9:00 PM,Wasatch HS,Girls Basketball @ N. Summit,
+2026-12-09,4:30 PM,6:45 PM,Deer Creek HS,Girls Wrestling @ Provo,
 2026-12-09,5:00 PM,8:30 PM,Deer Creek HS,Boys Wrestling @ Uinah Dual,
 2026-12-09,5:30 PM,8:30 PM,Wasatch HS,Girls Wrestling @ Provo w/Summit,
 2026-12-09,8:00 AM,9:00 AM,Deer Creek HS,Dance Co,
@@ -1055,6 +1063,7 @@ Bus leaves @ 5:00 AM Time TBD"
 2026-12-12,11:00 AM,7:00 PM,Deer Creek HS,Drill Team @ SUU Thunderbird Competition,
 2026-12-12,11:30 AM,01:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-12,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
+2026-12-12,8:30 AM,12:45 PM,Deer Creek HS,Girls Wrestling @ Bear River Dual,
 2026-12-12,8:30 PM,11:00 PM,Wasatch HS,Winter Dance,
 2026-12-14,,,Wasatch HS,Black Day,
 2026-12-14,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
@@ -1090,6 +1099,7 @@ Westlake weigh-in @ 4:30"
 2026-12-16,10:00 AM,1:00 PM,Wasatch HS,Christmas Party (Class and Lunch),
 2026-12-16,2:45 PM,4:15 PM,Deer Creek HS,Track and Field Weights,
 2026-12-16,5:30 PM,8:30 PM,Wasatch HS,Girls wrestling vs MVHS and Timpanogos,
+2026-12-16,6:00 PM,8:00 PM,Deer Creek HS,Girls Wrestling vs. Orem/MV/Timp,
 2026-12-17,,,Wasatch HS,Girls Wrestling  varsity @ Reno Event Center,Reno TOC (Varsity)
 2026-12-17,,,Wasatch HS,Gold Day,
 2026-12-17,,,Deer Creek HS,WBL- Bringhurst,
@@ -1106,9 +1116,10 @@ Westlake weigh-in @ 4:30"
 2026-12-18,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express,
 2026-12-18,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express,
 2026-12-18,11:00 AM,1:00 PM,Wasatch HS,Winter Assembly (Reyonlds),
-2026-12-18,12:30 PM,1:30 PM,Deer Creek HS,Boys Wrestling at Christmas Clash,
+2026-12-18,12:30 PM,1:30 PM,Deer Creek HS,Girls & Boys JV Wrestling at Christmas Clash,
 2026-12-18,1:00 PM,9:00 PM,Wasatch HS,Boys Wrestling Christmas Clash,
 2026-12-18,2:45 PM,4:15 PM,Deer Creek HS,Track and Field Weights,
+2026-12-18,3:00 PM,4:00 PM,Deer Creek HS,Reno Tournament of Champions Wrestling ,
 2026-12-18,3:30 PM,9:00 PM,Wasatch HS,Girls Basketball vs Mnt view,"Varsity 5:15
 
 JV 3:39
@@ -1622,6 +1633,7 @@ v 7 pm"
 2027-02-18,,,Deer Creek HS,WBL- Bringhurst,
 2027-02-18,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2027-02-18,1:00 PM,6:00 PM,Wasatch HS,Baseball/Softball Team Practices,
+2027-02-18,5:00 PM,9:00 PM,Wasatch HS,Drill Spectacular Extra ,
 2027-02-18,5:00 PM,9:30 PM,Wasatch HS,Drill Spectacular ,
 2027-02-18,5:00 PM,6:30 PM,Wasatch HS,Math Tutoring,
 2027-02-18,6:00 PM,9:00 PM,Deer Creek HS,Boys Volleyball Open Gym,
