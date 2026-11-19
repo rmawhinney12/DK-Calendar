@@ -1,6 +1,4 @@
 Train,Date,Start Time,End Time,Duration (Minutes)
-North Pole Express Rehearsal,2026-11-18,05:00 PM,06:30 PM,90
-North Pole Express Rehearsal,2026-11-18,07:30 PM,09:00 PM,90
 North Pole Express,2026-11-19,05:00 PM,06:30 PM,90
 North Pole Express,2026-11-19,07:30 PM,09:00 PM,90
 North Pole Express,2026-11-20,05:00 PM,06:30 PM,90
@@ -87,7 +85,6 @@ North Pole Express,2026-12-29,05:00 PM,06:30 PM,90
 North Pole Express,2026-12-29,07:30 PM,09:00 PM,90
 North Pole Express,2026-12-30,05:00 PM,06:30 PM,90
 North Pole Express,2026-12-30,07:30 PM,09:00 PM,90
-New Year's Eve Train,2026-12-31,09:30 PM,12:30 AM,180
 Deer Creek Express,2027-01-18,03:30 PM,05:00 PM,90
 Monday Night Train,2027-01-18,07:00 PM,08:30 PM,90
 Deer Creek Express,2027-01-21,03:30 PM,05:00 PM,90

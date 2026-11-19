@@ -780,8 +780,6 @@ jv 3:30
 
 soph 5:15"
 2026-11-18,,,Wasatch HS,Gold Day,
-2026-11-18,05:00 PM,06:30 PM,Heber Valley Railroad,North Pole Express Rehearsal,
-2026-11-18,07:30 PM,09:00 PM,Heber Valley Railroad,North Pole Express Rehearsal,
 2026-11-18,2:45 PM,4:15 PM,Deer Creek HS,Track and Field Weights,
 2026-11-18,3:30 PM,5:30 PM,Wasatch HS,Swimming @ Corner Canyon & Westlake,swimming @ Corner canyon & westlake
 2026-11-18,7:00 PM,10:00 PM,Deer Creek HS,Pirates of Penzance,
@@ -1189,11 +1187,11 @@ varsity 7:00 PM"
 2026-12-30,5:15 PM,6:45 PM,Wasatch HS,freshman boys basketball vs Payson,
 2026-12-31,,,Wasatch HS,Winter Break,
 2026-12-31,,,Deer Creek HS,WBL- Bringhurst,
-2026-12-31,09:30 PM,12:30 AM,Heber Valley Railroad,New Year's Eve Train,
 2027-01-01,,,Wasatch HS,All Sports Moratorium,
 2027-01-01,,,Wasatch HS,Winter Break,
 2027-01-01,,,Deer Creek HS,WBL- Bringhurst,
 2027-01-02,8:00 AM,8:00 PM,Wasatch HS,Girls Wrestling Beehive 25 Invitational,Beehive 25 Invitational
+2027-01-02,9:00 AM,10:00 AM,Deer Creek HS,Girls Wrestling @ Beehive 25 Invitational,
 2027-01-04,,,Wasatch HS,Teacher Professional Development Day -- No School,
 2027-01-05,,,Wasatch HS,Teacher Professional Development Day -- No School,
 2027-01-05,3:30 PM,9:00 PM,Wasatch HS,Girls Basketball @ Provo,"Varsity 5:15
@@ -1257,8 +1255,9 @@ jv5:15
 fr 5:15
 
 v 7 pm"
-2027-01-08,5:30 PM,6:30 PM,Deer Creek HS,Girls BB @ Timpanogos,
-2027-01-08,5:30 PM,7:00 PM,Deer Creek HS,Girls Basketball @ Timpanogos,
+2027-01-08,3:30 PM,7:00 PM,Deer Creek HS,Girls BB @ Timpanogos,"jv 330
+
+v515"
 2027-01-08,8:00 AM,2:00 PM,Wasatch HS,SOS Outreach Learn to Ride Program,
 2027-01-09,,,Wasatch HS,Wrestling Rollie Lane Tournament,
 2027-01-09,,,Soldier Hollow,Wasatch Citizen Series at SOHO,"Nordic ski racing for everyone! The Wasatch Citizens Series is designed to be inclusive, supportive, and fun , whether it’s your first race or your fiftieth. January 9 is the second race in the WCS, and this year, it’s the 10k skiathlon with a wave start. Learn More"
@@ -1324,8 +1323,10 @@ jv5:15
 fr 5:15
 
 v 7 pm"
+2027-01-15,3:30 PM,7:00 PM,Deer Creek HS,Girls BB @ Provo,"jv 330
+
+v 515"
 2027-01-15,5:15 PM,6:45 PM,Wasatch HS,Freshman Boys Basketball vs Timpanogos,
-2027-01-15,5:30 PM,6:30 PM,Deer Creek HS,Girls BB @ Provo,
 2027-01-15,6:00 PM,8:00 PM,Wasatch HS,Hispanic Parent Workshop,Angelica is the organizer. Details to follow
 2027-01-16,,,Wasatch HS,Girls Wrestling @ Vernal tournament of Champions,
 2027-01-16,,,Wasatch HS,Royal Classic (Drill ),
@@ -1356,7 +1357,6 @@ fr 5:15
 v 7 pm"
 2027-01-19,5:15 PM,6:45 PM,Wasatch HS,Freshman boys basketball @ Uintah,
 2027-01-19,7:00 PM,8:00 PM,Deer Creek HS,Girls BB VS. Summit,
-2027-01-19,7:00 PM,8:00 PM,Deer Creek HS,Girls Basketball VS. Summit Academy,
 2027-01-20,,,Wasatch HS,Black Day,
 2027-01-20,1:00 PM,6:00 PM,Wasatch HS,Baseball/Softball Team Practices,
 2027-01-20,5:00 PM,9:00 PM,Wasatch HS,Boys Wrestling Vs Uintah,"JV 5:00 
@@ -1382,22 +1382,16 @@ Wasatch @ Deer Creek"
 2027-01-22,07:00 PM,08:30 PM,Heber Valley Railroad,Chocolate Lovers Train,
 2027-01-22,1:00 PM,6:00 PM,Wasatch HS,Baseball/Softball Team Practices,
 2027-01-22,1:00 PM,2:00 PM,Deer Creek HS,Boys Wrestling At Rockwell Rumble Tournament,
-2027-01-22,1:00 PM,2:00 PM,Deer Creek HS,Girls BB VS. Uintah,
 2027-01-22,3:30 PM,9:00 PM,Wasatch HS,Girls basketball @ Orem,"varsity 5:15
 
 JV 3:30
 
 sophomore 7:00"
-2027-01-22,3:30 PM,4:30 PM,Deer Creek HS,Boys Basketball VS. Uintah,"soph 3:30
-
-jv5:15
-
-fr 5:15
-
-v 7 pm"
 2027-01-22,3:30 PM,9:00 PM,Deer Creek HS,Boys Baksetball VS. Uintah,
+2027-01-22,3:30 PM,7:00 PM,Deer Creek HS,Girls BB VS. Uintah,"soph 330
+
+v 515"
 2027-01-22,5:15 PM,6:45 PM,Wasatch HS,Freshman Boys Basketball @ Cyprus,
-2027-01-22,5:30 PM,6:30 PM,Deer Creek HS,Girls Basketball VS. Uintah,
 2027-01-23,,,Wasatch HS,Theater Drama Con Trip,
 2027-01-23,,,Wasatch HS,Boys Wrestling @ Rockwell Rumble,
 2027-01-23,,,Wasatch HS,Girls wrestling @ rockwell rumble Farmington,
@@ -1470,7 +1464,9 @@ jv5:15
 fr 5:15
 
 v 7 pm"
-2027-01-29,7:00 PM,8:00 PM,Deer Creek HS,Girls BB VS Mountain View,
+2027-01-29,3:30 PM,7:00 PM,Deer Creek HS,Girls BB VS Mountain View,"330 SOPH
+
+515V"
 2027-01-30,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2027-01-30,10:00 AM,11:00 AM,Deer Creek HS,Swim Region 8 Championship Finals @ Wasatch,
 2027-01-30,2:00 PM,9:00 PM,Wasatch HS,Swimming Region @ South Davis,Region swim @ South Davis
@@ -1499,8 +1495,10 @@ jv5:15
 fr 5:15
 
 v 7 pm"
+2027-02-02,3:30 PM,7:00 PM,Deer Creek HS,Girls BB VS. Timpanogos,"SOPH 330
+
+V 515"
 2027-02-02,5:15 PM,6:45 PM,Wasatch HS,Freshman Boys Basketball @ Timpview,bus will go to timpview first drop off then go to Mountain view for varsity game
-2027-02-02,5:30 PM,6:30 PM,Deer Creek HS,Girls BB VS. Timpanogos,
 2027-02-03,,,Wasatch HS,Boys Wrestling Divisionals @ Jordan HS,Divisionals @ Jordan HS
 2027-02-03,,,Wasatch HS,Black Day,
 2027-02-03,1:00 PM,6:00 PM,Wasatch HS,Baseball/Softball Team Practices,
@@ -1528,7 +1526,9 @@ Varsity 7:00"
 JV 3:30
 
 sophomore 7:00"
-2027-02-05,5:30 PM,6:30 PM,Deer Creek HS,Girls BB @ Orem,
+2027-02-05,3:30 PM,7:00 PM,Deer Creek HS,Girls BB @ Orem,"330 SOPH
+
+V 515"
 2027-02-06,,,Wasatch HS,Girls Wrestling 4A Divisionals @ Cottonwood,
 2027-02-06,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2027-02-06,8:00 AM,10:00 AM,Deer Creek HS,Boys Basketball: Little Dribblers,
@@ -1557,8 +1557,10 @@ jv5:15
 fr 5:15
 
 v 7 pm"
+2027-02-09,3:30 PM,7:00 PM,Deer Creek HS,Girls BB VS. Provo,"soph 330
+
+v 515"
 2027-02-09,7:00 PM,8:15 PM,Wasatch HS,"""Songs & Sweets"" Choir Event",
-2027-02-09,7:00 PM,8:00 PM,Deer Creek HS,Girls BB VS. Provo,
 2027-02-10,,,Wasatch HS,Gold Day,
 2027-02-10,1:00 PM,6:00 PM,Wasatch HS,Baseball/Softball Team Practices,
 2027-02-10,6:00 PM,9:00 PM,Deer Creek HS,Boys Volleyball Open Gym,
@@ -1594,7 +1596,7 @@ fr 5:15
 v 7 pm"
 2027-02-12,5:00 PM,6:00 PM,Deer Creek HS,Swim 4A State Championship Prelims @ BYU,
 2027-02-12,5:15 PM,6:45 PM,Wasatch HS,Freshman boys basketball Vs Uintah,
-2027-02-12,5:30 PM,6:30 PM,Deer Creek HS,Girls BB @ Summit ,
+2027-02-12,5:15 PM,6:15 PM,Deer Creek HS,Girls BB @ Summit jv,
 2027-02-12,7:00 PM,8:30 PM,Wasatch HS,Murder on the Orient Express (Winter Play) ,
 2027-02-13,,,Wasatch HS,Freshman Boys Basketball Tournament @ Highland,"Tournament @ Highland Feb 13,15,20, and 22"
 2027-02-13,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
@@ -1620,8 +1622,10 @@ jv5:15
 fr 5:15
 
 v 7 pm"
+2027-02-16,3:30 PM,7:00 PM,Deer Creek HS,Girls BB @ Uintah,"soph 330
+
+v 515"
 2027-02-16,5:00 PM,6:30 PM,Wasatch HS,Drill mini waspettes,
-2027-02-16,5:30 PM,6:30 PM,Deer Creek HS,Girls BB @ Uintah,
 2027-02-16,6:00 PM,9:00 PM,Deer Creek HS,Boys Volleyball Open Gym,
 2027-02-17,,,Wasatch HS,Girls Wrestling State Championships @ UCCU,
 2027-02-17,,,Wasatch HS,Gold Day,
@@ -1662,10 +1666,12 @@ jv5:15
 fr 5:15
 
 v 7 pm"
+2027-02-19,3:30 PM,7:00 PM,Deer Creek HS,Girls BB VS Wasatch,"soph 330
+
+v 515"
 2027-02-19,5:15 PM,6:45 PM,Wasatch HS,freshman boys basketball@ Deer Creek,
 2027-02-19,5:30 PM,6:30 PM,Wasatch HS,Swimming 6A state prelims @ BYU,
 2027-02-19,5:30 PM,9:30 PM,Wasatch HS,6A State Championship Prelims @ BYU,swimming prelims state
-2027-02-19,7:00 PM,8:00 PM,Deer Creek HS,Girls BB VS Wasatch,
 2027-02-20,,,Wasatch HS,Freshman Boys Basketball tournament @ Highland,"tournament Feb 13, 15, 20 & 22"
 2027-02-20,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2027-02-20,10:00 AM,1:00 PM,Wasatch HS,Boys Volleyball Camp,
@@ -1705,7 +1711,6 @@ v 7 pm"
 2027-02-26,12:00 PM,1:00 PM,Wasatch HS,Girls Baskeball First Round play-offs @ home site,
 2027-02-26,1:00 PM,6:00 PM,Wasatch HS,Baseball/Softball Team Practices,
 2027-02-27,,,Wasatch HS,Drill Team California Trip,
-2027-02-27,,,Soldier Hollow,Wasatch Citizen Series at SOHO,"Nordic ski racing for everyone! The Wasatch Citizens Series is designed to be inclusive, supportive, and fun , whether it’s your first race or your fiftieth. February 27 is the second of two WCS races at SOHO this season. February’s race is the 15k skate with a wave start. Learn More"
 2027-02-27,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
 2027-03-01,,,Wasatch HS,Gold Day,
 2027-03-01,03:30 PM,05:00 PM,Heber Valley Railroad,Deer Creek Express,
