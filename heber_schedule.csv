@@ -1,5 +1,4 @@
 Train,Date,Start Time,End Time,Duration (Minutes)
-North Pole Express,2026-11-27,11:30 AM,01:00 PM,90
 North Pole Express,2026-11-27,02:00 PM,03:30 PM,90
 North Pole Express,2026-11-27,05:00 PM,06:30 PM,90
 North Pole Express,2026-11-27,07:30 PM,09:00 PM,90
@@ -90,6 +89,7 @@ Deer Creek Express,2027-01-28,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-01-29,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-01-29,03:30 PM,05:00 PM,90
 Rock-n-Roll Train,2027-01-29,07:00 PM,08:30 PM,90
+Princess and Pirate Train,2027-01-30,12:00 PM,01:30 PM,90
 Deer Creek Express,2027-01-30,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-02-01,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-02-01,03:30 PM,05:00 PM,90
@@ -127,6 +127,7 @@ Lakeside Limited,2027-02-25,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-02-25,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-02-26,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-02-26,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-02-27,12:00 PM,01:30 PM,90
 Deer Creek Express,2027-02-27,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-03-01,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-03-01,03:30 PM,05:00 PM,90
@@ -145,6 +146,7 @@ Lakeside Limited,2027-03-11,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-03-11,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-03-12,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-03-12,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-03-13,12:00 PM,01:30 PM,90
 Deer Creek Express,2027-03-13,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-03-15,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-03-15,03:30 PM,05:00 PM,90
@@ -188,6 +190,7 @@ Deer Creek Express,2027-04-15,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-04-16,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-04-16,03:30 PM,05:00 PM,90
 Chocolate Lovers Train,2027-04-16,07:00 PM,08:30 PM,90
+Princess and Pirate Train,2027-04-17,12:00 PM,01:30 PM,90
 Deer Creek Express,2027-04-17,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-04-19,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-04-19,03:30 PM,05:00 PM,90
@@ -228,6 +231,7 @@ Lakeside Limited,2027-05-13,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-05-13,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-05-14,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-05-14,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-05-15,12:00 PM,01:30 PM,90
 Deer Creek Express,2027-05-15,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-05-17,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-05-17,03:30 PM,05:00 PM,90
@@ -280,6 +284,7 @@ Lakeside Limited,2027-06-17,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-06-17,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-06-18,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-06-18,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-06-18,07:00 PM,08:30 PM,90
 Lakeside Limited,2027-06-19,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-06-19,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-06-21,12:00 PM,02:00 PM,120
@@ -308,6 +313,7 @@ Lakeside Limited,2027-07-08,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-07-08,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-07-09,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-07-09,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-07-09,07:00 PM,08:30 PM,90
 Lakeside Limited,2027-07-10,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-07-10,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-07-12,12:00 PM,02:00 PM,120
@@ -364,6 +370,7 @@ Lakeside Limited,2027-08-12,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-08-12,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-08-13,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-08-13,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-08-13,07:00 PM,08:30 PM,90
 Lakeside Limited,2027-08-14,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-08-14,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-08-16,12:00 PM,02:00 PM,120
@@ -419,6 +426,7 @@ Lakeside Limited,2027-09-16,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-09-16,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-09-17,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-09-17,03:30 PM,05:00 PM,90
+Princess and Pirate Train,2027-09-18,12:00 PM,01:30 PM,90
 Deer Creek Express,2027-09-18,03:30 PM,05:00 PM,90
 Lakeside Limited,2027-09-20,12:00 PM,02:00 PM,120
 Deer Creek Express,2027-09-20,03:30 PM,05:00 PM,90
